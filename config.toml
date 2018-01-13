@@ -1,0 +1,6 @@
+baseURL = "http://hildemorin.com/"
+languageCode = "en-us"
+title = "Hilde Morin Fiber Art"
+
+[params]
+  updated = "January 2018"
