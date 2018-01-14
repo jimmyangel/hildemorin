@@ -47,31 +47,19 @@
 	}());
 	*/
 
-  	// -------------------------------------------------------------
-    // Animated scrolling / Scroll Up
-    // -------------------------------------------------------------
+	// -------------------------------------------------------------
+	// Animated scrolling / Scroll Up
+	// -------------------------------------------------------------
 
-		// Smooth scroll to anchor
-	function scrollToAnchor(aId){
-	  var target = $(aId);
-	    if (target.length) {
-	      $('html,body').animate({
-	        scrollTop: target.offset().top - 79
-	      }, 1000);
-	    }
-	}
-
-
-	// Set up mooth scroll to anchor on (menu) click
-	$(function() {
-	  $('a[href*="#"]').not('[href="#"]').click(function() {
-	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-	      var target = $(this.hash);
-	      scrollToAnchor($(this.hash));
-	      return false;
-	    }
-	  });
-	});
+	(function () {
+			$('li a[href*="#"]').bind("click", function(e){
+					var anchor = $(this);
+					$('html, body').stop().animate({
+							scrollTop: $(anchor.attr('href')).offset().top -79
+					}, 1000);
+					e.preventDefault();
+			});
+	}());
 
 	// ----------------------------------------------
 	// B Carousel
@@ -136,11 +124,8 @@
 
 		(function () {
 			$('.nav a').on('click', function(){
-			    $('.navbar-toggle').click();
+					$("#st-navbar-collapse").removeClass('in');
 			});
 		}());
-
-
-
 
 });

@@ -1,6 +1,7 @@
-baseURL = "http://hildemorin.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "Hilde Morin Fiber Art"
+relativeURLs = true
 
 [params]
   updated = "January 2018"
