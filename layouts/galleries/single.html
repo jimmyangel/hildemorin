@@ -1,8 +1,41 @@
 {{ partial "header.html" . }}
-{{.Content}}
-{{.Section}}<br>
-{{.CurrentSection}}<br>
-{{.Sections}}<br>
-{{.URL}}<br>
-HEY
+
+<section id="gallery">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="section-title">
+          <h1>{{.Params.galleryname}}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  {{if isset .Params "galleryblurb"}}
+  <div class="container">
+    <div class="row row-filled text-center">
+      <div class="col-sm-12" style="font-size: 110%;">
+        {{.Params.galleryblurb | markdownify}}
+      </div>
+    </div>
+  </div>
+  {{end}}
+  <div id="hm-gallery" class="container">
+    <div class="zoom-gallery row text-center spacer" style="font-size: 90%;">
+
+      {{range .Params.galleryitems}}
+      <div class="col-sm-3 col-xs-6 thumbnail" {{if .price}}hm-price="{{.price}}"{{end}}>
+        {{.title}}<span style="padding-right: 1em"></span><small>{{.dimensions}}</small>
+        <a class="gallery-item" {{if .scale}}hm-scale="{{.scale}}"{{end}} href="{{.imageentry}}"
+           caption="{{.caption}}">
+          <img src="{{.imageicon}}" alt="">
+        </a>
+      </div>
+      {{end}}
+
+    </div>
+
+  </div>
+
+</section>
+
 {{ partial "footer.html" . }}

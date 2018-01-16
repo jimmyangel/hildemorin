@@ -40,7 +40,7 @@
 	body {
 		font-family: "Raleway", Helvetica, Arial, sans-serif;
 		font-size: 14px;
-		font-weight: 200;
+		/*font-weight: 200; */
 		line-height: 1.7857;
 		letter-spacing: 0.075em;
 		color: #333333;
@@ -49,6 +49,7 @@
 
 	a {
 		color: #000;
+		font-weight: 600;
 		-webkit-transition: all 0.2s ease-in-out;
 		-moz-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
@@ -58,9 +59,10 @@
 
 	a:hover {
 		color: #000;
+		text-decoration: underline;
 	}
 
-	a, a:hover, a:active, a:focus, button:focus {
+	a, a:active, a:focus, button:focus {
 		outline: 0;
 		border: 0;
 		text-decoration: none;
@@ -138,6 +140,124 @@
 
 	.section-title {
 		margin-bottom: 50px;
+	}
+
+	.row-filled {
+	  /* background-color: #ebe5dc; */
+	  padding: 10px;
+	  border: 1px solid #DDD;
+	}
+
+	/* Styling for thumbnails */
+
+	.thumbnail {
+	    border: 0 none;
+	    box-shadow: none;
+	    white-space: nowrap;
+	    overflow: hidden;
+	    text-overflow: ellipsis;
+	    margin: 0;
+	}
+
+	.thumbnail > a > img {
+	    width: 100%;
+	    /* height: 100%; */
+	}
+
+	.thumbnail > a >img:hover {
+	  opacity: .9;
+	}
+
+	.thumbnail *:focus {
+	  outline: none;
+	}
+
+	/* For masonry */
+
+	.grid {
+	  margin: 0 auto;
+	}
+
+	.grid-sizer,
+	.grid-item {
+	  width: 320px;
+	}
+
+	.panel {
+	  border-radius: 0;
+	}
+
+	.panel-body img {
+	    display : block;
+	    margin : auto;
+	    max-width: 100%;
+	}
+
+	/* For magnific zoom popups */
+
+	/************** Changes for zoom image ***************/
+	/* To remove image frame */
+	div.mfp-figure::after {
+	  background: none;
+	  box-shadow: none;
+	}
+
+	/* Container of the zoomed image */
+	.mfp-figure {
+	  width: 90%;
+	  /* height: 90%; */
+	  margin: auto;
+	}
+
+	/* Counter black over white background */
+	.mfp-counter {
+	  color: black;
+	}
+
+	/* To change the zoom screen from black to white */
+	.mfp-bg {
+	  /* background: #EEEEEE;  off white */
+	  background: white;
+	}
+
+	.mfp-title {
+	  color: black;  /* to show caption over white background */
+	  margin-bottom: 30px;
+	}
+
+	.mfp-close {
+	  color: gray;
+	}
+	/************** End of changes for zoom image ***************/
+
+
+	/* for the zoom function */
+	.mfp-with-zoom .mfp-container,
+	.mfp-with-zoom.mfp-bg {
+		opacity: 0;
+		-webkit-backface-visibility: hidden;
+		-webkit-transition: all 0.3s ease-out;
+		-moz-transition: all 0.3s ease-out;
+		-o-transition: all 0.3s ease-out;
+		transition: all 0.3s ease-out;
+	}
+
+	.mfp-with-zoom.mfp-ready .mfp-container {
+			opacity: 1;
+	}
+	.mfp-with-zoom.mfp-ready.mfp-bg {
+			/* opacity: 0.8; */
+	    opacity: 1; /* To completely cover the background gallery */
+	}
+
+	.mfp-with-zoom.mfp-removing .mfp-container,
+	.mfp-with-zoom.mfp-removing.mfp-bg {
+		opacity: 0;
+	}
+
+	/* Added to deal with white background */
+	.mfp-title {
+	  text-align: center;
 	}
 /* CUSTOMIZE BOOTSTRAP BREAKPOINT FOR MENU */
 /*
@@ -465,6 +585,91 @@
 		color: #fff;
 	}
 
+	#hm-gallery > .row > .thumbnail {
+	  border: 10;
+	  border-color: black;
+	}
+
+	#hm-gallery > .row > .thumbnail > a > img {
+	  width: 100%;
+	  /* height: 100%; */
+	}
+
+	.popover {
+		font-family: "Raleway", Helvetica, Arial, sans-serif;
+	  border-radius: 0px;
+	  text-align: center;
+	}
+
+	.hm-price-button {
+	  color: gray;
+	}
+
+	/******* Styling of gallery pop up ********/
+	.mfp-arrow {
+	  position: absolute;
+	  opacity: 0.65;
+	  filter: alpha(opacity=65);
+	  margin: 0;
+	  top: 50%;
+	  margin-top: -55px;
+	  padding: 0;
+	  width: 90px;
+	  height: 110px;
+	  -webkit-tap-highlight-color: transparent; }
+	  .mfp-arrow:active {
+	    margin-top: -54px; }
+	  .mfp-arrow:hover,
+	  .mfp-arrow:focus {
+	    opacity: 0.2;
+	    filter: alpha(opacity=100); }
+	  .mfp-arrow:before,
+	  .mfp-arrow:after,
+	  .mfp-arrow .mfp-b,
+	  .mfp-arrow .mfp-a {
+	    content: '';
+	    display: block;
+	    width: 0;
+	    height: 0;
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	    margin-top: 35px;
+	    margin-left: 35px;
+	    border: medium inset transparent; }
+	  .mfp-arrow:after,
+	  .mfp-arrow .mfp-a {
+	    border-top-width: 13px;
+	    border-bottom-width: 13px;
+	    top: 8px; }
+	  .mfp-arrow:before,
+	  .mfp-arrow .mfp-b {
+	    border-top-width: 21px;
+	    border-bottom-width: 21px;
+	    opacity: 0.7; }
+
+	.mfp-arrow-left {
+	  left: 0; }
+	  .mfp-arrow-left:after,
+	  .mfp-arrow-left .mfp-a {
+	    border-right: 17px solid #666666;
+	    margin-left: 31px; }
+	  .mfp-arrow-left:before,
+	  .mfp-arrow-left .mfp-b {
+	    margin-left: 25px;
+	    border-right: 27px solid #FFFFFF; }
+
+	.mfp-arrow-right {
+	  right: 0; }
+	  .mfp-arrow-right:after,
+	  .mfp-arrow-right .mfp-a {
+	    border-left: 17px solid #666666;
+	    margin-left: 39px; }
+	  .mfp-arrow-right:before,
+	  .mfp-arrow-right .mfp-b {
+	    border-left: 27px solid #FFFFFF; }
+
+
 /* 9. CONTACT */
 
 	#contact {
@@ -531,7 +736,21 @@
 		width: 100%;
 	}
 
+/* CLASSES */
 
+#classes {
+	margin-top: 80px;
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
+
+/* GALLERY */
+
+#gallery {
+	margin-top: 80px;
+	padding-top: 100px;
+	padding-bottom: 80px;
+}
 
 
 

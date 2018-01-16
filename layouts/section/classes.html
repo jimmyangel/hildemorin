@@ -1,8 +1,47 @@
 {{ partial "header.html" . }}
-{{.Content}}
-{{.Section}}<br>
-{{.CurrentSection}}<br>
-{{.Sections}}<br>
-{{.URL}}<br>
-HEY
+
+<section id="classes">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="section-title">
+          <h1>Classes</h1>
+        </div>
+      </div>
+      <div class="col-sm-12 row-filled text-center" style="font-size: 110%;">
+        I offer the following classes either at your venue or at my studio</a>.<br>
+        For more information or to schedule a class, please <a href="/#contact">CONTACT ME</a>.
+      </div>
+    </div>
+
+    <div class="row spacer"></div>
+
+    <div class="row">
+      <div class="grid">
+        <div class="grid-sizer"></div>
+
+
+        {{range .Params.classes}}
+        <div class="grid-item">
+          <div class="panel panel-default"><a name="{{.namekey}}"></a>
+            <div class="panel-heading text-center"><b>{{.title}}</b><br>{{.duration}}</div>
+            <div class="panel-body">
+              <img class="img-responsive" src="{{.thumbnail}}" alt="">
+              <p>
+                <br>
+                {{.description | markdownify}}
+              </p>
+              <p>
+                <a href="{{.supplylist}}">SUPPLY LIST</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+
+
+  </div>
+</section>
 {{ partial "footer.html" . }}
