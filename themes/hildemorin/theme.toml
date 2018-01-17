@@ -1,21 +1,17 @@
-# theme.toml template for a Hugo theme
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
-
-name = "Hildemorin"
-license = "MIT"
+name = "hildemorin"
+license = "GPL"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-description = ""
+description = "Cluster – Free Creative Portfolio Bootstrap Template"
 homepage = "http://example.com/"
-tags = []
-features = []
-min_version = "0.32.4"
+tags = ["portfolio", "blog"]
+features = ["portfolio", "blog"]
+min_version = "N/A"
 
 [author]
-  name = ""
-  homepage = ""
+  name = "Hilde Morin"
+  homepage = "www.hildemorin.com"
 
-# If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
+  name = "Cluster"
+  homepage = "https://readytheme.net/item/cluster-free-creative-portfolio-bootstrap-template/"
   repo = ""
