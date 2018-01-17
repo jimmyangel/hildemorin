@@ -1,4 +1,4 @@
-Copyright (c) 2018 Hilde Morin - Modified and adapted Cluster Theme
+Copyright (c) 2018 Hilde Morin - Modified and adapted Cluster Theme<br>
 Copyright (c) 2015 ShapedTheme - Original Cluster Theme
 
 Templates & Themes License from ReadyTheme
