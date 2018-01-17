@@ -32,6 +32,7 @@ jQuery(function($){
 	}());
 
 	// Remove hash from url
+  /*
 	(function () {
 		var hash = window.location.hash;
 		window.location.replace("#");
@@ -42,6 +43,7 @@ jQuery(function($){
 			scrollToAnchor(hash);
 		}
 	}());
+  */
 
   //  magnific-popup
 	/*

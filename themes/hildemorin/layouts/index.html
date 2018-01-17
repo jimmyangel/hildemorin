@@ -1,0 +1,113 @@
+{{ partial "header.html" . }}
+
+	<!-- SLIDER -->
+	<section id="home">
+		<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
+			<ol class="carousel-indicators">
+		    <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
+		    <li data-target="#home-carousel" data-slide-to="1"></li>
+		    <li data-target="#home-carousel" data-slide-to="2"></li>
+				<li data-target="#home-carousel" data-slide-to="3"></li>
+		  </ol>
+			<div class="carousel-inner">
+				{{range $index, $element := .Params.slider}}
+				<div class="item {{if (eq $index 0)}}active{{end}}" style="background-image: url({{$element.imageurl}})">
+					<div class="carousel-caption container">
+						<div class="row">
+							<div style="background-color: rgba(0,0,0,0.3)" class="col-sm-7">
+								<h1>Hilde Morin</h1>
+								<h2>Fiber Art</h2>
+								<p>{{$element.legendbottom | markdownify}}</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				{{end}}
+			</div>
+		</div> <!--/#home-carousel-->
+    </section>
+	<!-- /SLIDER -->
+
+	<!-- PORTFOLIO -->
+	<section id="portfolio">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title">
+						<h1>Galleries</h1>
+					</div>
+				</div>
+
+				<div class="portfolio-wrapper" >
+
+					<div class="portfolio-items">
+
+					{{range .Params.galleries}}
+					<div class="col-xs-6 col-sm-4 portfolio-content">
+						<a href="galleries/{{.page}}"><img class="img-responsive" src="{{.imageurl}}" alt=""></a>
+						<div class="portfolio-item-name text-center">
+							<h5>{{.caption}}</h5>
+						</div>
+					</div>
+					{{end}}
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- /PORTFOLIO -->
+
+	<!-- CONTACT -->
+	<section id="contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="section-title">
+						<h1>Contact</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-6">
+					<div id="contact-info" class="text-center">
+						<h4>{{.Params.contact.headline}}</h4>
+						<p>{{.Params.contact.description}}</p>
+						<p class="st-address"><i class="fa fa-map-marker"></i> <strong>{{.Params.contact.location}}</strong></p>
+						<p class="st-email"><i class="fa fa-envelope-o"></i> <strong>{{.Params.contact.email}}</strong></p>
+						<p class="st-website"><i class="fa fa-globe"></i> <strong>{{.Params.contact.web}}</strong></p>
+					</div>
+					<div class="text-center spacer">
+						<a href="http://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455" title="Facebook"><img class="social" src="images/facebook.png" /></a>
+						<a href="https://www.instagram.com/hildemorinfiberart/" title="Instagram"><img class="social" src="images/instagram.png" /></a>
+						<a href="https://www.linkedin.com/in/hilde-vande-walle-morin-0604338" title="LinkedIn"><img class="social" src="images/linkedin.png" />
+						<a href="http://mixpdx.blogspot.com/" title="MIX"><img class="social" src="images/mix.png" /></a>
+						<a href="https://500px.com/hildemorin/" title="500px"><img class="social" src="images/500px.png" /></a>
+					</div>
+				</div>
+				<div class="col-sm-6 our-studio">
+					<div id="studio-carousel" class="carousel slide" data-ride="carousel">
+						<div class="carousel-inner">
+							{{range $index, $element := .Params.contact.images}}
+							<div class="item {{if (eq $index 0)}}active{{end}}">
+								<img src="{{$element}}" alt="">
+							</div>
+							{{end}}
+
+							<a class="studio-carousel-left" href="#studio-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+							<a class="studio-carousel-right" href="#studio-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
+						</div>
+					</div> <!--/#studio-carousel-->
+				</div>
+			</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- /CONTACT -->
+
+
+{{ partial "footer.html" . }}
