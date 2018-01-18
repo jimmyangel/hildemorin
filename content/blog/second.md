@@ -1,5 +1,6 @@
 ---
 title: Second post
+tags: ["Tutorial", "Photos"]
 date: 2018-01-16
 
 ---

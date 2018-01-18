@@ -55,11 +55,9 @@
         <div class="sidebar-widget">
           <h4 class="sidebar-title">Tags</h4>
           <div class="tagcloud">
-            <a href="">tutorial</a>
-            <a href="">bowls</a>
-            <a href="">travel</a>
-            <a href="">photos</a>
-            <a href="">inspiration</a>
+            {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+              <a href="">{{$name}}</a>
+            {{end}}
           </div>
         </div>
       </div>
