@@ -88,7 +88,17 @@ jQuery(function($){
 		});
 	}());
 
-	// Set up mooth scroll to anchor on (menu) click
+	// Ignore hash and then smoth scroll to hash
+  $(function() {
+    setTimeout( function() {
+      scroll(0,0);
+      if (window.location.hash) {
+        scrollToAnchor(window.location.hash);
+      };
+    }, 10);
+  }());
+
+  // Set up mooth scroll to anchor on (menu) click
 	$(function() {
 		$('a[href*="#"]').not('[href="#"]').click(function() {
 			if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
