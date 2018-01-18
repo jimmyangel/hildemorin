@@ -90,12 +90,19 @@ jQuery(function($){
 
 	// Ignore hash and then smoth scroll to hash
   $(function() {
+    if (location.hash) {
+        $('html, body').scrollTop(0).show();
+        // smooth-scroll to hash
+        scrollToAnchor(window.location.hash);
+    }
+
+    /*
     setTimeout( function() {
       scroll(0,0);
       if (window.location.hash) {
         scrollToAnchor(window.location.hash);
       };
-    }, 10);
+    }, 10); */
   }());
 
   // Set up mooth scroll to anchor on (menu) click

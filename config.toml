@@ -3,5 +3,7 @@ languageCode = "en-us"
 title = "Hilde Morin Fiber Art"
 relativeURLs = true
 theme = "hildemorin"
+[taxonomies]
+  tag = "tags"
 [params]
   updated = "January 2018"
