@@ -19,11 +19,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-9">
-        {{range .Data.Pages}}
+        {{range .Paginator.Pages}}
         <div class="single-blog">
           <article>
             {{if .Params.summaryimage}}
-            <div class="post-thumb"><img class="img-responsive" src="images/{{.Params.summaryimage}}" alt=""></div>
+            <div class="post-thumb"><img class="img-responsive" src="/blog/images/{{.Params.summaryimage}}" alt=""></div>
             {{end}}
             <h4 class="post-title"><a href="">{{.Title}}</a></h4>
             <div class="post-meta text-uppercase">
@@ -42,14 +42,8 @@
         <hr>
         {{end}}
 
-        <ul class="pagination">
-          <li><a href="#"><i class="fa fa-angle-left"></i></a></li>
-          <li class="active"><a href="#">1</a></li>
-          <li><a href="#">2</a></li>
-          <li><a href="#">3</a></li>
-          <li><a href="#">4</a></li>
-          <li><a href="#"><i class="fa fa-angle-right"></i></a></li>
-        </ul>
+        {{template "_internal/pagination.html" .}}
+
       </div>
       <div class="col-md-3">
         <div class="sidebar-widget">
