@@ -1052,3 +1052,25 @@
 		background-color: #f5f5f5;
 		color: #000;
 	}
+
+	/* Subscribe dialog */
+	/* For the modal */
+	#join-dialog.modal.fade:not(.in).bottom .modal-dialog {
+		-webkit-transform: translate3d(0, 100%, 0);
+		transform: translate3d(0, 100%, 0);
+	}
+
+	#join-dialog .modal-content {
+	  border-radius: 0;
+	}
+
+	#join-dialog .modal-dialog {
+	  position:fixed;
+	  left:20%;
+	  right: 10%;
+	  bottom:25%;
+	}
+
+	.btn {
+	  border-radius: 0;
+	}

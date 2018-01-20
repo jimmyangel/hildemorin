@@ -57,8 +57,9 @@ contact:
    excepturi autem fugiat corporis quidem a ipsum quos beatae! Ut!
 
   location: Portland, Oregon
+  locationlink: https://www.google.com/maps/place/Portland,+OR/
   email: hildemorin@gmail.com
-  web: hildemorin.com
+  web: http://hildemorin.com
 
   images:
     - images/contact/02.jpg

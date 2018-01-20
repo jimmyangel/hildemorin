@@ -21,6 +21,16 @@ var target = $(aId);
 	}
 }
 
+// Reset subscription form
+function resetJoinForm () {
+  $('#join-dialog').modal('hide');
+  $('#thank-you-msg').hide();
+  $('#join-error').hide();
+  $('#join-dialog-form')[0].reset();
+  $('#join-button').attr('disabled', true);
+  return false;
+}
+
 jQuery(function($){
 
   // Preloader
@@ -174,7 +184,7 @@ jQuery(function($){
   }());
 
   // Initialize gallery pop up functionality
-(function () {
+  (function () {
     $('.zoom-gallery').magnificPopup({
       delegate: '.gallery-item',
       type: 'image',
@@ -207,6 +217,53 @@ jQuery(function($){
         }
       }
 
+    });
+  }());
+
+  // Mailing list subscriptions
+
+  (function () {
+    $('#register-link').click(function () {
+      $('#join-dialog').modal('show');
+      return false;
+    });
+
+    // POST to mailing list service
+    $('#join-button').click(function () {
+      /*$.post(baseUrl + '/services/mailinglist.php', $('#join-dialog-form').serialize(), function () {
+          $('#thank-you-msg').fadeIn('slow');
+          setTimeout(resetJoinForm, 2000);
+        }).fail(function (data) {
+          console.log(data);
+          $('#join-error').fadeIn('slow');
+          setTimeout(resetJoinForm, 3000);
+      });*/
+
+      // Temporary
+      $('#thank-you-msg').fadeIn('slow');
+      setTimeout(resetJoinForm, 2000);
+
+      return false;
+    });
+
+    // Cancel join
+    $('#cancel-join-button').click(resetJoinForm);
+
+    // Single field forms always trigger a submit
+    $('#join-dialog-form').submit(function () {
+      if (!$('#join-button').attr('disabled')) {
+        $('#join-button').trigger('click');
+      }
+      return false;
+    });
+
+    // Enable join button only if valid email format entered
+    $('#join-email').on('change keyup blur', function () {
+      if (/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/.test($('#join-email').val())) {
+        $('#join-button').removeAttr('disabled');
+      } else {
+        $('#join-button').attr('disabled', true);
+      }
     });
   }());
 

@@ -1,0 +1,37 @@
+<div class="modal fade bottom" id="join-dialog" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title"><small><b>Please enter your email address to join my mailing list</b></small></h4>
+        <i>I will not send you spam nor share your email address</i>
+      </div>
+      <div class="modal-body">
+        <form id="join-dialog-form" class="form-horizontal" role="form">
+          <div class="form-group has-feedback">
+            <div class="col-sm-12">
+              <input type="text" id="join-email" name="email" maxlength="200" autocomplete="off" placeholder="Enter email address" class="form-control">
+              <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+            </div>
+          </div>
+          <div class="alert alert-warning" id="thank-you-msg" role="alert" style="display: none">
+            <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+            <span class="sr-only">Info:</span>
+            Thank you for joining my mailing list!
+          </div>
+          <div class="alert alert-danger" id="join-error" role="alert" style="display: none">
+            <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+            <span class="sr-only">Error:</span>
+            Sorry, something went wrong with registration, please try again later.
+          </div>
+          <div class="form-group">
+            <div class="modal-footer">
+              <button id="cancel-join-button" href="" type="button" class="btn btn-default">Cancel</button>
+              <input type="button" id="join-button" href="" disabled type="button" class="btn btn-default" value="Join"></input>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

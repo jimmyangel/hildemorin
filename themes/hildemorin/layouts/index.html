@@ -76,9 +76,10 @@
 					<div id="contact-info" class="text-center">
 						<h4>{{.Params.contact.headline}}</h4>
 						<p>{{.Params.contact.description}}</p>
-						<p class="st-address"><i class="fa fa-map-marker"></i> <strong>{{.Params.contact.location}}</strong></p>
-						<p class="st-email"><i class="fa fa-envelope-o"></i> <strong>{{.Params.contact.email}}</strong></p>
-						<p class="st-website"><i class="fa fa-globe"></i> <strong>{{.Params.contact.web}}</strong></p>
+						<p class="st-address"><i class="fa fa-map-marker"></i>  <a href="{{.Params.contact.locationlink}}">{{.Params.contact.location}}</a></p>
+						<p class="st-email"><i class="fa fa-envelope-o"></i> <a href="mailto:{{.Params.contact.email}}">{{.Params.contact.email}}</a></p>
+						<p class="st-website"><i class="fa fa-globe"></i> <a href="{{.Params.contact.web}}">{{.Params.contact.web}}</a></p>
+						<p><i class="fa fa-plus"></i> <a id="register-link" href="#">Join my mailing list</a></p>
 					</div>
 					<div class="text-center spacer">
 						<a href="http://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455" title="Facebook"><img class="social" src="images/facebook.png" /></a>
@@ -109,5 +110,8 @@
 	</section>
 	<!-- /CONTACT -->
 
+	<!-- SUBSCRIBE FORM -->
+	{{ partial "subscribe.html" . }}
+	<!-- /SUBSCRIBE FORM -->
 
 {{ partial "footer.html" . }}
