@@ -29,22 +29,22 @@ slider:
       Proin gravida nibh vel velit auctor. Aenean sollicitudin, lorem quis bibendum auctor.
 
 galleries:
-  - imageurl: images/works/walls.jpg
+  - imageurl: images/galleries/walls.jpg
     caption: WALLS
     page: walls
-  - imageurl: images/works/curves.jpg
+  - imageurl: images/galleries/curves.jpg
     caption: CURVES
     page: curves
-  - imageurl: images/works/woods.jpg
+  - imageurl: images/galleries/woods.jpg
     caption: WOODS
     page: woods
-  - imageurl: images/works/bowls.jpg
+  - imageurl: images/galleries/bowls.jpg
     caption: BOWLS
     page: bowls
-  - imageurl: images/works/flowers.jpg
+  - imageurl: images/galleries/flowers.jpg
     caption: FLOWERS
     page: flowers
-  - imageurl: images/works/postcards.jpg
+  - imageurl: images/galleries/postcards.jpg
     caption: POSTCARDS
     page: postcards
 
