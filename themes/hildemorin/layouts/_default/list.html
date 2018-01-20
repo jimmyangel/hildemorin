@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="section-title">
-          <h1>Blog</h1>
+          <h1>Blog{{if .Data.Term}}<small> - Tag: {{.Data.Term}}{{end}}</small></h1>
         </div>
       </div>
     </div>
@@ -29,14 +29,14 @@
             <div class="post-meta text-uppercase">
               <span>{{.PublishDate.Format "January 2, 2006"}}</span>
               <span>Tags: </span>
-                {{range .Params.tags}}
-                <span><a href="">{{.}}</a></span>
+                {{range $name := .Params.tags}}
+                <span><a href="/tags/{{lower $name}}">{{$name}}</a></span>
                 {{end}}
             </div>
             <div class="post-article">
                 {{.Summary}}
             </div>
-            <a href="" class="btn btn-readmore">Read More</a>
+            <a href="{{.RelPermalink}}" class="btn btn-readmore">Read More</a>
           </article>
         </div>
         <hr>
@@ -56,7 +56,7 @@
           <h4 class="sidebar-title">Tags</h4>
           <div class="tagcloud">
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-              <a href="">{{$name}}</a>
+              <a href="/tags/{{lower $name}}">{{$name}}</a>
             {{end}}
           </div>
         </div>
