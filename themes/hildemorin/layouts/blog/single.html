@@ -2,7 +2,46 @@
 
 <section id="blog-entry">
 
-  <br><br><br><br><br><br><br><br><br>{{.Content}}
+  <!-- PAGE HEADER -->
+  <section id="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-title">
+            <h1>Blog</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /PAGE HEADER -->
+
+  <!-- BLOG -->
+  <section id="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="single-blog">
+            <article>
+              <h4 class="post-title"><a href="">{{.Title}}</a></h4>
+              <div class="post-meta text-uppercase">
+                <span>{{.PublishDate.Format "January 2, 2006"}}</span>
+                <span>Tags: </span>
+                  {{range $name := .Params.tags}}
+                  <span><a href="/tags/{{lower $name}}">{{lower $name}}</a></span>
+                  {{end}}
+              </div>
+              <div class="post-article">
+                  {{.Content}}
+              </div>
+            </article>
+          </div>
+          <hr>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /BLOG -->
 
 </section>
 
