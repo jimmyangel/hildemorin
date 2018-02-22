@@ -30,6 +30,7 @@
 /* 1. IMPORT SECTION */
 
 	@import url("http://fonts.googleapis.com/css?family=Raleway:200,300,600,700&subset=latin,latin-ext");
+	@import url('https://fonts.googleapis.com/css?family=Syncopate:400,700');
 
 /* 2. BASIC STYLES */
 
@@ -263,8 +264,8 @@
 	  text-align: center;
 	}
 /* CUSTOMIZE BOOTSTRAP BREAKPOINT FOR MENU */
-/*
-@media (max-width: 1000px) {
+
+@media (max-width: 990px) {
     .navbar-header {
         float: none;
     }
@@ -294,7 +295,7 @@
         display:block !important;
     }
 }
-*/
+
 
 /* 3. BUTTONS */
 

@@ -2,12 +2,11 @@
 
 	<!-- SLIDER -->
 	<section id="home">
-		<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="false">
+		<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000">
 			<ol class="carousel-indicators">
-		    <li data-target="#home-carousel" data-slide-to="0" class="active"></li>
-		    <li data-target="#home-carousel" data-slide-to="1"></li>
-		    <li data-target="#home-carousel" data-slide-to="2"></li>
-				<li data-target="#home-carousel" data-slide-to="3"></li>
+				{{range $index, $element := .Params.slider}}
+				<li data-target="#home-carousel" data-slide-to="{{$index}}" {{if (eq $index 0)}}class="active"{{end}}></li>
+				{{end}}
 		  </ol>
 			<div class="carousel-inner">
 				{{range $index, $element := .Params.slider}}
