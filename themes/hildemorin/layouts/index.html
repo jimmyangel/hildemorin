@@ -13,9 +13,7 @@
 				<div class="item {{if (eq $index 0)}}active{{end}}" style="background-image: url({{$element.imageurl}})">
 					<div class="carousel-caption container">
 						<div class="row">
-							<div style="background-color: rgba(0,0,0,0.3)" class="col-sm-7">
-								<h1>Hilde Morin</h1>
-								<h2>Fiber Art</h2>
+							<div style="background-color: rgba(0,0,0,0.3)" class="col-sm-8">
 								<p>{{$element.legendbottom | markdownify}}</p>
 							</div>
 						</div>
@@ -72,9 +70,9 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-6">
-					<div id="contact-info" class="text-center">
+					<div id="contact-info">
 						<h4>{{.Params.contact.headline}}</h4>
-						<p>{{.Params.contact.description}}</p>
+						<p>{{.Params.contact.description | markdownify}}</p>
 						<p class="st-address"><i class="fa fa-map-marker"></i>  <a href="{{.Params.contact.locationlink}}">{{.Params.contact.location}}</a></p>
 						<p class="st-email"><i class="fa fa-envelope-o"></i> <a href="mailto:{{.Params.contact.email}}">{{.Params.contact.email}}</a></p>
 						<p class="st-website"><i class="fa fa-globe"></i> <a href="{{.Params.contact.web}}">{{.Params.contact.web}}</a></p>

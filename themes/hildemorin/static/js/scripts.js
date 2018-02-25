@@ -1,5 +1,7 @@
 'use strict';
 
+var MAILGUN_LIST_SERVICE_URL = 'https://us-central1-logical-bloom-179219.cloudfunctions.net/addToMailgunList';
+
 // Get url variables
 var getUrlVars = function () {
   var urlVars = [];
@@ -230,19 +232,15 @@ jQuery(function($){
 
     // POST to mailing list service
     $('#join-button').click(function () {
-      /*$.post(baseUrl + '/services/mailinglist.php', $('#join-dialog-form').serialize(), function () {
+      $.post(MAILGUN_LIST_SERVICE_URL, $('#join-dialog-form').serialize(), function (data) {
           $('#thank-you-msg').fadeIn('slow');
-          setTimeout(resetJoinForm, 2000);
+          setTimeout(resetJoinForm, 3000);
         }).fail(function (data) {
           console.log(data);
+          $('#join-error-text').text(data.responseJSON.message.startsWith('Address already exists') ? 'Thank you, but you already joined my mailing list!' : data.responseJSON.message);
           $('#join-error').fadeIn('slow');
           setTimeout(resetJoinForm, 3000);
-      });*/
-
-      // Temporary
-      $('#thank-you-msg').fadeIn('slow');
-      setTimeout(resetJoinForm, 2000);
-
+      });
       return false;
     });
 

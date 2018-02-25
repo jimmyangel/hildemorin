@@ -3,30 +3,23 @@ title: Hilde Morin Fiber Art Home Page
 
 slider:
   - imageurl: images/slider/01.jpg
-    legendtop: Hilde Morin
-    legendmiddle: Fiber Art
     legendbottom: |
-      Proin **gravida** nibh vel velit auctor.
+      My approach is improvisational and includes the
 
-      Aenean sollicitudin, lorem quis bibendum auctor.
+      creation of a first layer using only piecing techniques...
 
   - imageurl: images/slider/02.jpg
-    legendtop: Hilde Morin
-    legendmiddle: Fiber Art
     legendbottom: |
-      Proin gravida nibh vel velit auctor. Aenean sollicitudin, lorem quis bibendum auctor.
+      ...adding a second layer of texture through extensive thread work
+      and surface manipulation.
 
   - imageurl: images/slider/03.jpg
-    legendtop: Hilde Morin
-    legendmiddle: Fiber Art
     legendbottom: |
-      Proin gravida nibh vel velit auctor. Aenean sollicitudin, lorem quis bibendum auctor.
+      In my natural scenes I represent reality by simplifying lines...
 
   - imageurl: images/slider/04.jpg
-    legendtop: Hilde Morin
-    legendmiddle: Fiber Art
     legendbottom: |
-      Proin gravida nibh vel velit auctor. Aenean sollicitudin, lorem quis bibendum auctor.
+      ...through the use of curved piecing techniques
 
 galleries:
   - imageurl: images/galleries/walls.jpg
@@ -50,11 +43,12 @@ galleries:
 
 contact:
 
-  headline: Lorem ipsum dolor sit amet.
-  description: >
-   Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-   Earum aliquid obcaecati deleniti minus quisquam quis magnam reprehenderit quaerat molestias rerum,
-   excepturi autem fugiat corporis quidem a ipsum quos beatae! Ut!
+  headline:
+  description: |
+    My studio is open for classes.<br>I welcome visitors to take a peek
+    at my work.
+
+    Please contact me to schedule a class or a visit.<br><br>
 
   location: Portland, Oregon
   locationlink: https://www.google.com/maps/place/Portland,+OR/
