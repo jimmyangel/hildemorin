@@ -1,0 +1,41 @@
+<section class="comments">
+  <h5>Comments</h5>
+
+  {{ $comments := readDir "data/comments" }}
+  {{ $.Scratch.Add "hasComments" 0 }}
+  {{ $entryId := .UniqueID }}
+
+  {{ range $comments }}
+    {{ if eq .Name $entryId }}
+      {{ $.Scratch.Add "hasComments" 1 }}
+      {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+        <div class="comment">
+          <div class="comment-header">
+            <p class="comment-info"><strong>{{ .name }}</strong><br>{{ dateFormat "02/01/2006" .date }}</p>
+          </div>
+          {{ .body | markdownify }}
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if eq ($.Scratch.Get "hasComments") 0 }}
+    <p>No comments yet.</p>
+  {{ end }}
+
+  <h5>Enter your comment below</h5>
+
+  <form class="post-new-comment" method="POST" action="">
+  <!--form class="post-new-comment" method="POST" action="http://localhost:8055/v2/entry/eduardoboucas/staticman-test/master/comments"-->
+    <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
+    <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
+    <div class="form-group">
+      <input name="fields[name]" type="text" class="form-control post-comment-field" placeholder="Your name" required>
+    </div>
+    <div class="form-group">
+      <textarea name="fields[body]" class="form-control post-comment-field" placeholder="Your comment" rows="10" required></textarea>
+    </div>
+    <input type="submit" class="post-comment-field btn btn-default" value="Submit">
+  </form>
+  <br>
+</section>

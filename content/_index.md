@@ -45,7 +45,7 @@ contact:
 
   headline:
   description: |
-    My studio is open for classes.<br>I welcome visitors to take a peek
+    My studio is open for classes and I welcome visitors to take a peek
     at my work.
 
     Please contact me to schedule a class or a visit.<br><br>
