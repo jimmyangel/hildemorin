@@ -16,3 +16,23 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "pages"
+    files:
+      - file: content/calendar/_index.md
+        label: "Calendar"
+        name: calendar
+        fields:
+          - {label: "Calendar Year", name: "calendaryear", widget: "string"}
+          - {label: "Teaching Schedule", name: "teachingschedule", widget: "list", fields: [
+              {label: "Date", name: "date", widget: "string"},
+              {label: "Class Key", name: "classnamekey", widget: "string"},
+              {label: "Class Name", name: "classname", widget: "string"},
+              {label: "Class Details", name: "classdetails", widget: "markdown"},
+              {label: "Class Contact Link", name: "classcontactlink", widget: "string"},
+              {label: "Class Contact Name", name: "classcontactname", widget: "string"}]}
+          - {label: "Exhibits", name: "exhibits", widget: "list", fields: [
+              {label: "Exhibit Name", name: "exhibitname", widget: "string"},
+              {label: "Exhibit Link", name: "exhibitlink", widget: "string"},
+              {label: "Exhibit Info", name: "exhibitinfo", widget: "markdown"}]}
