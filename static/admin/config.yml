@@ -24,7 +24,7 @@ collections:
         label: "Site Config"
         name: config
         fields:
-          - {label: "Base URL", name: "baseURL", widget: "string"}
+          - {label: "Base URL", name: "baseURL", widget: "string", default: ""}
           - {label: "Language Code", name: "languageCode", widget: "string"}
           - {label: "Relative URLs", name: "relativeURLs", widget: "boolean", default: true}
           - {label: "Theme", name: "theme", widget: "string", default: "hildemorin"}
