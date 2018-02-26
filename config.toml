@@ -1,11 +1,12 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Hilde Morin Fiber Art"
 relativeURLs = true
 theme = "hildemorin"
-paginate = 5
+paginate = 5.0
+
 [taxonomies]
-  tag = "tags"
+tag = "tags"
+
 [params]
-  copyright = "Content copyright © 2006-2018 Hilde Morin"
-  updated = "January 2018"
+copyright = "Content copyright © 2006-2018 Hilde Morin"
+updated = "February 2018"
