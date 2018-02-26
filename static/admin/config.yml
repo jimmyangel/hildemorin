@@ -24,6 +24,12 @@ collections:
         label: "Site Config"
         name: config
         fields:
+          - label: "Site Parameters"
+            name: "params"
+            widget: "object"
+            fields:
+              - {label: "Copyright Notice", name: "copyright", widget: "string"}
+              - {label: "Site Updated Date", name: "updated", widget: "string"}
           - {label: "Base URL", name: "baseURL", widget: "string", required: false, default: ""}
           - {label: "Language Code", name: "languageCode", widget: "string"}
           - {label: "Relative URLs", name: "relativeURLs", widget: "boolean", default: true}
@@ -34,12 +40,6 @@ collections:
             widget: "object"
             fields:
               - {label: "Tag", name: "tag", widget: "string", default: "tags"}
-          - label: "Site Parameters"
-            name: "params"
-            widget: "object"
-            fields:
-              - {label: "Copyright Notice", name: "copyright", widget: "string"}
-              - {label: "Site Updated Date", name: "updated", widget: "string"}
       - file: content/calendar/_index.md
         label: "Calendar"
         name: calendar
