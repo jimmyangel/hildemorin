@@ -20,6 +20,20 @@ collections:
   - name: "pages"
     label: "pages"
     files:
+      - file: config.toml
+        label: "Site Config"
+        name: config
+        fields:
+          - {label: "Base URL", name: "baseURL", widget: "string"}
+          - {label: "Language Code", name: "languageCode", widget: "string"}
+          - {label: "Relative URLs", name: "relativeURLs", widget: "boolean", default: true}
+          - {label: "Theme", name: "theme", widget: "string", default: "hildemorin"}
+          - {label: "Paginate", name: "paginate", widget: "number", default: 5, valueType: "int"}
+          - {label: "Taxonomies", name: "taxonomies", widget: "object", fields:
+            - {label: "Tag", name: "tag", widget: "string", default: "tags"}
+          - {label: "Site Parameters", name: "params", widget: "object", fields:
+            - {label: "Copyright Notice", name: "copyright", widget: "string"}
+            - {label: "Site Updated Date", name: "updated", widget: "string"}
       - file: content/calendar/_index.md
         label: "Calendar"
         name: calendar

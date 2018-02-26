@@ -61,4 +61,3 @@ contact:
     - images/contact/04.jpg
 
 ---
-I am going to put some content here
