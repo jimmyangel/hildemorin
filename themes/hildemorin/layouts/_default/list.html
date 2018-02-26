@@ -22,10 +22,7 @@
         {{range .Paginator.Pages}}
         <div class="single-blog">
           <article>
-            {{if .Params.summaryimage}}
-            <div class="post-thumb"><img class="img-responsive" src="/blog/images/{{.Params.summaryimage}}" alt=""></div>
-            {{end}}
-            <h4 class="post-title"><a href="">{{.Title}}</a></h4>
+            <h4 class="post-title"><a href="{{.RelPermalink}}">{{.Title}}</a></h4>
             <div class="post-meta text-uppercase">
               <span>{{.PublishDate.Format "January 2, 2006"}}</span>
               <span>Tags: </span>
