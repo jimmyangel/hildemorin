@@ -27,7 +27,7 @@ collections:
           - {label: "Calendar Year", name: "calendaryear", widget: "string"}
           - {label: "Teaching Schedule", name: "teachingschedule", widget: "list", fields: [
               {label: "Date", name: "date", widget: "string"},
-              {label: "Class Key", name: "classnamekey", widget: "string"},
+              {label: "Class Key", name: "classnamekey", widget: "select", options: ["curves", "yourownforest", "yourownvillage", "cityscape", "fracturedblocks", "bowlart"]},
               {label: "Class Name", name: "classname", widget: "string"},
               {label: "Class Details", name: "classdetails", widget: "markdown"},
               {label: "Class Contact Link", name: "classcontactlink", widget: "string"},
