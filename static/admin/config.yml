@@ -38,7 +38,7 @@ collections:
             name: "params"
             widget: "object"
             fields:
-              - {label: "Copyright Notice", name: "copyright", widget: "string"},
+              - {label: "Copyright Notice", name: "copyright", widget: "string"}
               - {label: "Site Updated Date", name: "updated", widget: "string"}
       - file: content/calendar/_index.md
         label: "Calendar"
