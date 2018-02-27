@@ -25,10 +25,7 @@
 
   <h5>Enter your comment below</h5>
 
-  <form class="post-new-comment" method="POST" action="">
-  <!--form class="post-new-comment" method="POST" action="http://localhost:8055/v2/entry/eduardoboucas/staticman-test/master/comments"-->
-    <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
-    <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
+  <form class="post-new-comment" method="POST" action="https://dev.staticman.net/v2/entry/jimmyangel/hildemorin/master/comments">
     <div class="form-group">
       <input name="fields[name]" type="text" class="form-control post-comment-field" placeholder="Your name" required>
     </div>
