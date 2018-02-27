@@ -34,11 +34,8 @@
 						<h1>Galleries</h1>
 					</div>
 				</div>
-
 				<div class="portfolio-wrapper" >
-
 					<div class="portfolio-items">
-
 					{{range .Params.galleries}}
 					<div class="col-xs-6 col-sm-4 portfolio-content">
 						<a href="galleries/{{.page}}"><img class="img-responsive" src="{{.imageurl}}" alt=""></a>
@@ -47,10 +44,8 @@
 						</div>
 					</div>
 					{{end}}
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</section>
@@ -75,11 +70,11 @@
 					</div>
 				</div>
 				<div class="col-sm-6">
-					<div class="text-center">
-						<p class="st-address"><i class="fa fa-map-marker"></i>  <a href="{{.Params.contact.locationlink}}">{{.Params.contact.location}}</a></p>
-						<p class="st-email"><i class="fa fa-envelope-o"></i> <a href="mailto:{{.Params.contact.email}}">{{.Params.contact.email}}</a></p>
-						<p class="st-website"><i class="fa fa-globe"></i> <a href="{{.Params.contact.web}}">{{.Params.contact.web}}</a></p>
-						<p><i class="fa fa-plus"></i> <a id="register-link" href="#">Join my mailing list</a></p>
+					<div class="text-right">
+						<p class="st-address"><a href="{{.Params.contact.locationlink}}">{{.Params.contact.location}}</a> <i class="fa fa-map-marker"></i> </p>
+						<p class="st-email"><a href="mailto:{{.Params.contact.email}}">{{.Params.contact.email}}</a> <i class="fa fa-envelope-o"></i></p>
+						<p class="st-website"><a href="{{.Params.contact.web}}">{{.Params.contact.web}}</a> <i class="fa fa-globe"></i></p>
+						<p><a id="register-link" href="#">Join my mailing list</a> <i class="fa fa-plus"></i></p>
 					</div>
 				</div>
 			</div>
