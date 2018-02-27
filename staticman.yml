@@ -20,8 +20,12 @@ comments:
 
   # (*) REQUIRED
   #
+  # Destination path (directory) for the data files. Accepts placeholders.
+  path: "data/comments/{options.entryId}"
+  # (*) REQUIRED
+  #
   # Destination path (filename) for the data files. Accepts placeholders.
-  filename: "entry{@timestamp}"
+  filename: "{@id}"
 
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
@@ -61,11 +65,6 @@ comments:
     #
     # Mailgun domain (encrypted)
     #domain: "4r3e2w1q"
-
-  # (*) REQUIRED
-  #
-  # Destination path (directory) for the data files. Accepts placeholders.
-  path: "data/comments/{options.entryId}"
 
   # Names of required fields. If any of these isn't in the request or is empty,
   # an error will be thrown.
