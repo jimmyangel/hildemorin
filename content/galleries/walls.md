@@ -1,5 +1,5 @@
 ---
-galleryname: Walls
+galleryname: Walls & Windows
 galleryitems:
 - title: EL VECINDARIO
   dimensions: 56x40
@@ -64,11 +64,6 @@ galleryitems:
     Quilts 2010 - Infinity Art Gallery"
   imageentry: images/Barrio-de-tango-web-entry.jpg
   imageicon: images/Barrio-de-tango-web-icon.jpg
-- title: TUMBAO
-  dimensions: 44x48
-  caption: "<b>TUMBAO</b><br>44 W&quot; x 48&quot; H<br>"
-  imageentry: images/Tumbao-web-entry.jpg
-  imageicon: images/Tumbao-web-icon.jpg
 - title: TANGO STREET 1
   dimensions: 12x12
   caption: "<b>WINDOW OF TANGO STREET 1</b><br>12 W&quot; x 12&quot; H<br>Machine

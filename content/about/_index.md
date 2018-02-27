@@ -18,7 +18,7 @@ artiststatement: Drama and flow is what I like to represent in my fiber work.  I
   Museum of the Americas-Florida, Galería Exágono-México, CIART (Centro Integral de
   Arte Textil) in Argentina, Museum of Contemporary Craft in Portland-Oregon, Oregon
   Historical Society Museum in Portland, Oregon and Visions Art Museum in San Diego,
-  California.<br><br>I teach regularly at <a href="/#contact">my
+  California.<br><br>I teach regularly at <a href="/studio/">my
   studio</a> and at other venues, promoting the use of free form techniques in the
   construction of art quilts.
 artistpublications:

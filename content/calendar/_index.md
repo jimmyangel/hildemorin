@@ -6,7 +6,7 @@ teachingschedule:
   classnamekey: cityscape
   classname: City Scape (class full)
   classdetails: |
-    STUDIO Class
+    <a href="/studio/">STUDIO</a> Class
 
     Portland, OR
   classcontactlink: http://www.hildemorin.com/contact
@@ -96,7 +96,7 @@ teachingschedule:
   classnamekey: yourownforest
   classname: Your Own Forest
   classdetails: |
-    STUDIO Class
+    <a href="/studio/">STUDIO</a> Class
 
     Portland, OR
   classcontactlink: http://www.hildemorin.com/contact

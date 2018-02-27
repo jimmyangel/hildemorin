@@ -437,7 +437,7 @@
 	.carousel-caption {
 		left: 15px;
 		right: 15px;
-		top: 80%;
+		top: 70%;
 		font-size: 20px;
 		text-align: left;
 		color: #fff;
@@ -773,6 +773,14 @@
 /* ABOUT */
 
 #about {
+	margin-top: 80px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+/* STUDIO */
+
+#studio {
 	margin-top: 80px;
 	padding-top: 50px;
 	padding-bottom: 50px;

@@ -1,5 +1,5 @@
 ---
-galleryname: Woods
+galleryname: Woods & Water
 galleryitems:
 - title: UNDER THE MAPLE TREE
   dimensions: 44x24

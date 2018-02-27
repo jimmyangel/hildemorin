@@ -67,42 +67,32 @@
 				</div>
 			</div>
 		</div>
-		<div class="container-fluid">
+		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
-					<div id="contact-info">
-						<h4>{{.Params.contact.headline}}</h4>
-						<p>{{.Params.contact.description | markdownify}}</p>
+					<div>
+						{{.Params.contact.description | markdownify}}
+					</div>
+				</div>
+				<div class="col-sm-6">
+					<div class="text-center">
 						<p class="st-address"><i class="fa fa-map-marker"></i>  <a href="{{.Params.contact.locationlink}}">{{.Params.contact.location}}</a></p>
 						<p class="st-email"><i class="fa fa-envelope-o"></i> <a href="mailto:{{.Params.contact.email}}">{{.Params.contact.email}}</a></p>
 						<p class="st-website"><i class="fa fa-globe"></i> <a href="{{.Params.contact.web}}">{{.Params.contact.web}}</a></p>
 						<p><i class="fa fa-plus"></i> <a id="register-link" href="#">Join my mailing list</a></p>
 					</div>
-					<div class="text-center spacer">
-						<a href="http://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455" title="Facebook"><img class="social" src="images/facebook.png" /></a>
-						<a href="https://www.instagram.com/hildemorinfiberart/" title="Instagram"><img class="social" src="images/instagram.png" /></a>
-						<a href="https://www.linkedin.com/in/hilde-vande-walle-morin-0604338" title="LinkedIn"><img class="social" src="images/linkedin.png" />
-						<a href="http://mixpdx.blogspot.com/" title="MIX"><img class="social" src="images/mix.png" /></a>
-						<a href="https://500px.com/hildemorin/" title="500px"><img class="social" src="images/500px.png" /></a>
-					</div>
 				</div>
-				<div class="col-sm-6 our-studio">
-					<div id="studio-carousel" class="carousel slide" data-ride="carousel">
-						<div class="carousel-inner">
-							{{range $index, $element := .Params.contact.images}}
-							<div class="item {{if (eq $index 0)}}active{{end}}">
-								<img src="{{$element}}" alt="">
-							</div>
-							{{end}}
-
-							<a class="studio-carousel-left" href="#studio-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-							<a class="studio-carousel-right" href="#studio-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
-						</div>
-					</div> <!--/#studio-carousel-->
+			</div>
+			<div class="row">
+				<div class="spacer text-center">
+					<a href="http://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455" title="Facebook"><img class="social" src="images/facebook.png" /></a>
+					<a href="https://www.instagram.com/hildemorinfiberart/" title="Instagram"><img class="social" src="images/instagram.png" /></a>
+					<a href="https://www.linkedin.com/in/hilde-vande-walle-morin-0604338" title="LinkedIn"><img class="social" src="images/linkedin.png" />
+					<a href="http://mixpdx.blogspot.com/" title="MIX"><img class="social" src="images/mix.png" /></a>
+					<a href="https://500px.com/hildemorin/" title="500px"><img class="social" src="images/500px.png" /></a>
 				</div>
 			</div>
 
-			</div>
 		</div>
 	</section>
 	<!-- /CONTACT -->

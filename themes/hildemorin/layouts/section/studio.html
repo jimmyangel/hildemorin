@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+
+<section id="studio">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="section-title">
+          <h1>Studio</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid">
+    <div class="row small-spacer">
+
+      <div>
+        <img src="images/mystudio.jpg" alt="" style="width: 100%; padding-left: 0px; margin: none;"><br><br>
+      </div>
+      <div class="col-sm-12 row text-center" style="font-size: 110%;">
+        For scheduled classes please visit my <a href="/calendar/" >CALENDAR</a>.<br>
+        Other studio classes can be scheduled upon request for a maximum of 6 students.
+      </div>
+    </div>
+
+    <div class="row small-spacer">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-6">
+        <div id="studio-carousel" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            {{range $index, $element := .Params.studioimages}}
+            <div class="item {{if (eq $index 0)}}active{{end}}">
+              <img src="{{$element}}" alt="">
+            </div>
+            {{end}}
+
+            <a class="studio-carousel-left" href="#studio-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
+            <a class="studio-carousel-right" href="#studio-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
+          </div>
+        </div> <!--/#studio-carousel-->
+      </div>
+
+    </div>
+  </div>
+
+</section>
+
+{{ partial "footer.html" . }}
