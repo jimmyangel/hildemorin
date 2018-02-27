@@ -2,10 +2,13 @@
   <h5>Comments</h5>
 
   {{ $comments := readDir "data/comments" }}
+  HEHEHEHEH{{ $comments }}
   {{ $.Scratch.Add "hasComments" 0 }}
   {{ $entryId := .UniqueID }}
+  <br>{{ $entryId }}
 
   {{ range $comments }}
+    <br>{{ .Name }}
     {{ if eq .Name $entryId }}
       {{ $.Scratch.Add "hasComments" 1 }}
       {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
@@ -27,6 +30,7 @@
 
   <form class="post-new-comment" method="POST" action="https://dev.staticman.net/v2/entry/jimmyangel/hildemorin/master/comments">
     <div class="form-group">
+      <input type="hidden" name="options[entryId]" value="{{ .UniqueID }}">
       <input name="fields[name]" type="text" class="form-control post-comment-field" placeholder="Your name" required>
     </div>
     <div class="form-group">
