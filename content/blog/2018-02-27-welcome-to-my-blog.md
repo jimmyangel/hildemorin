@@ -4,6 +4,8 @@ tags:
   - welcome
 date: 2018-02-27T19:35:42.401Z
 ---
+Here we are...
+
 <img class="img-responsive" src="/images/uploads/1-blog-picture.jpg">
 
 For years I’ve been pondering with the idea of maintaining a blog but the commitment of having to post on a regular basis did not appeal to me.  Instead, I have maintained an online presence through my fiber art Facebook and Instagram pages and my website.
