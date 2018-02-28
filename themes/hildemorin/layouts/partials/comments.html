@@ -9,11 +9,11 @@
 
         {{ range $comments }}
           {{ if eq .Name $entryId }}
-            {{$.Scratch.Add "hasComments" 1 }}
+            {{ $.Scratch.Add "hasComments" 1 }}
             {{range sort (index $.Site.Data.comments $entryId) "date" "desc"}}
               <div class="list-group-item comment">
                 <div class="comment-header">
-                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Mar  7, 2015 @ 11:06:39 PST" .date }})</p>
+                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Jan 2, 2006 @ 3:06PM PST" .date }})</p>
                 </div>
                 {{ .body | markdownify }}
               </div>
