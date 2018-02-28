@@ -9,11 +9,11 @@
 
         {{ range $comments }}
           {{ if eq .Name $entryId }}
-            {{ $.Scratch.Add "hasComments" 1 }}
-            {{ range $index, $comments := (index $.Site.Data.comments $entryId ) }}
+            {{$.Scratch.Add "hasComments" 1 }}
+            {{range sort (index $.Site.Data.comments $entryId) "date" "desc"}}
               <div class="list-group-item comment">
                 <div class="comment-header">
-                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Jan 2, 2006" .date }})</p>
+                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Jan 2, 2006 @ 3:06PM MST" .date }})</p>
                 </div>
                 {{ .body | markdownify }}
               </div>
@@ -26,17 +26,18 @@
         {{ end }}
       </div>
 
-      <h5>Enter your comment below</h5>
+      <h5>Leave a comment</h5>
 
-      <form class="post-new-comment" method="POST" action="https://dev.staticman.net/v2/entry/jimmyangel/hildemorin/master/comments">
+      <form id="post-comment">
+      <!-- <form method="POST" action="https://dev.staticman.net/v2/entry/jimmyangel/hildemorin/master/comments">-->
         <div class="form-group">
           <input type="hidden" name="options[entryId]" value="{{ .File.BaseFileName }}">
-          <input name="fields[name]" type="text" class="form-control post-comment-field" placeholder="Your name" required>
+          <input name="fields[name]" type="text" class="form-control" placeholder="Your name" required>
         </div>
         <div class="form-group">
-          <textarea name="fields[body]" class="form-control post-comment-field" placeholder="Your comment" rows="10" required></textarea>
+          <textarea name="fields[body]" class="form-control" placeholder="Your comment" rows="10" required></textarea>
         </div>
-        <input type="submit" class="post-comment-field btn btn-default" value="Submit">
+        <input type="submit" href="" class="btn btn-default" value="POST"></input>
       </form>
       <br>
     </div>

@@ -1,6 +1,7 @@
 'use strict';
 
 var MAILGUN_LIST_SERVICE_URL = 'https://us-central1-logical-bloom-179219.cloudfunctions.net/addToMailgunList';
+var STATICMAN_SERVICE_URL = 'https://dev.staticman.net/v2/entry/jimmyangel/hildemorin/master/comments';
 
 // Get url variables
 var getUrlVars = function () {
@@ -265,4 +266,18 @@ jQuery(function($){
     });
   }());
 
+  // BLOG comments
+
+  (function () {
+    $('#post-comment').submit(function (event) {
+      event.preventDefault();
+      console.log('Posting comment');
+      $.post(STATICMAN_SERVICE_URL, $('#post-comment').serialize(), function (data) {
+        console.log(data);
+      }).fail(function (data) {
+        console.log(data);
+      });
+    });
+    return false
+  }());
 });
