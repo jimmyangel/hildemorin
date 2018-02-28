@@ -13,9 +13,9 @@
             {{range sort (index $.Site.Data.comments $entryId) "date" "desc"}}
               <div class="list-group-item comment">
                 <div class="comment-header">
-                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Jan 2, 2006" .date }})</p>
+                  <p class="comment-info"><strong>{{ .name | plainify }}</strong> ({{ dateFormat "Jan 2, 2006" .date }})</p>
                 </div>
-                {{ .body | markdownify }}
+                {{ .body | plainify | markdownify }}
               </div>
             {{ end }}
           {{ end }}
