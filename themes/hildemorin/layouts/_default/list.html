@@ -22,18 +22,33 @@
         {{range .Paginator.Pages}}
         <div class="single-blog">
           <article>
-            <h4 class="post-title"><a href="{{.RelPermalink}}">{{.Title}}</a></h4>
-            <div class="post-meta text-uppercase">
-              <span>{{.PublishDate.Format "January 2, 2006"}}</span>
-              <span>Tags: </span>
-                {{range $name := .Params.tags}}
-                <span><a href="/tags/{{lower $name}}">{{$name}}</a></span>
-                {{end}}
+            <div class="row">
+              <div class="col-md-12">
+                <h4 class="post-title"><a href="{{.RelPermalink}}">{{.Title}}</a></h4>
+                <div class="post-meta text-uppercase">
+                  <span>{{.PublishDate.Format "January 2, 2006"}}</span>
+                  <span>Tags: </span>
+                    {{range $name := .Params.tags}}
+                    <span><a href="/tags/{{lower $name}}">{{$name}}</a></span>
+                    {{end}}
+                </div>
+              </div>
             </div>
-            <div class="post-article">
-                {{.Summary}}
+            <div class="row">
+              {{if .Params.thumbnail}}
+              <div class="col-xs-4">
+                <img class="img-responsive" src="{{.Params.thumbnail}}">
+              </div>
+              {{end}}
+              <div class="{{if .Params.thumbnail}}col-xs-8{{else}}col-xs-12{{end}} post-article">
+                  {{.Summary}}
+              </div>
             </div>
-            <a href="{{.RelPermalink}}" class="btn btn-readmore">Read More</a>
+            <div class="row">
+              <div class="col-md-12">
+                <a href="{{.RelPermalink}}" class="btn btn-readmore">Read More</a>
+              </div>
+            </div>
           </article>
         </div>
         <hr>

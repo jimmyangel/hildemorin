@@ -2,7 +2,7 @@
   <h5>Comments</h5>
 
   {{ $comments := readDir "data/comments" }}
-  HEHEHEHEH{{ $comments }}
+  File Name {{ .File.BaseFileName }}
   {{ $.Scratch.Add "hasComments" 0 }}
   {{ $entryId := .UniqueID }}
   <br>{{ $entryId }}

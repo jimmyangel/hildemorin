@@ -3,6 +3,7 @@ languageCode = "en-us"
 relativeURLs = true
 theme = "hildemorin"
 paginate = 5.0
+summaryLength = 50
 
 [taxonomies]
 tag = "tags"
