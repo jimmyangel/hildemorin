@@ -13,7 +13,7 @@
             {{range sort (index $.Site.Data.comments $entryId) "date" "desc"}}
               <div class="list-group-item comment">
                 <div class="comment-header">
-                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Jan 2, 2006 @ 3:06PM PST" .date }})</p>
+                  <p class="comment-info"><strong>{{ .name }}</strong> ({{ dateFormat "Jan 2, 2006" .date }})</p>
                 </div>
                 {{ .body | markdownify }}
               </div>
@@ -39,9 +39,14 @@
           </div>
           <input type="hidden" name="options[reCaptcha][siteKey]" value="6LfFrUkUAAAAAJiuOlwvNOp6kHANQulUp546kEVM">
           <input type="hidden" name="options[reCaptcha][secret]" value="CU6M7YgFfVmkFmuFnOVSQO4PNczZss4rnMAKDu6XgJYWrdlPCyhTD5cqTE+6ECod55OseyS75a6oO/IW51y7p0Zhjmp916V8NCH0fCmEEiqlS3xBZpmBeERGh81nby6wJSrBO1wbW6cmTCvPO9Ha/c/4r88aYiZRwOmiojySbnw=">
+          <div class="alert alert-danger" id="comment-error" role="alert" style="display: none">
+            <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+            <span class="sr-only">Error:</span>
+            <span id="comment-error-text"></span>
+          </div>
           <div class="g-recaptcha" data-sitekey="6LfFrUkUAAAAAJiuOlwvNOp6kHANQulUp546kEVM"></div>
-
           <input type="submit" href="" class="btn btn-default" value="POST"></input>
+          <div id="comment-wait" style="display: none;"><img src="/images/preloader.gif"></div>
         </form>
         <script src='https://www.google.com/recaptcha/api.js'></script>
       </div>

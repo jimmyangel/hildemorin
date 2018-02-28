@@ -272,13 +272,18 @@ jQuery(function($){
     $('#post-comment').submit(function (event) {
       event.preventDefault();
       console.log('Posting comment');
-      $('body').css('cursor', 'wait');
+      $('#comment-wait').css('display','inline-block');
       $.post(STATICMAN_SERVICE_URL, $('#post-comment').serialize(), function (data) {
         console.log(data);
-        $('body').css('cursor', 'default');
         $('#comment-form-container').html('<div class="panel panel-default"><div class="panel-body"><i><strong>Thanks! Your comment will be posted shortly.</strong></i></div></div>');
       }).fail(function (data) {
-        $('body').css('cursor', 'default');
+        if (data.responseJSON.errorCode === 'RECAPTCHA_INVALID_INPUT_RESPONSE') {
+          $('#comment-error-text').text('Please complete the Captcha below to verify that you are not a robot.');
+        } else {
+          $('#comment-error-text').text('Sorry, unable to post your comment right now. Please try again later.');
+        }
+        $('#comment-error').show();
+        $('#comment-wait').hide();
         console.log(data);
       });
     });
