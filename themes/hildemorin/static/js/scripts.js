@@ -272,9 +272,13 @@ jQuery(function($){
     $('#post-comment').submit(function (event) {
       event.preventDefault();
       console.log('Posting comment');
+      $('body').css('cursor', 'wait');
       $.post(STATICMAN_SERVICE_URL, $('#post-comment').serialize(), function (data) {
         console.log(data);
+        $('body').css('cursor', 'default');
+        $('#comment-form-container').html('<div class="panel panel-default"><div class="panel-body"><i><strong>Thanks! Your comment will be posted shortly.</strong></i></div></div>');
       }).fail(function (data) {
+        $('body').css('cursor', 'default');
         console.log(data);
       });
     });

@@ -28,17 +28,18 @@
 
       <h5>Leave a comment</h5>
 
-      <form id="post-comment">
-      <!-- <form method="POST" action="https://dev.staticman.net/v2/entry/jimmyangel/hildemorin/master/comments">-->
-        <div class="form-group">
-          <input type="hidden" name="options[entryId]" value="{{ .File.BaseFileName }}">
-          <input name="fields[name]" type="text" class="form-control" placeholder="Your name" required>
-        </div>
-        <div class="form-group">
-          <textarea name="fields[body]" class="form-control" placeholder="Your comment" rows="10" required></textarea>
-        </div>
-        <input type="submit" href="" class="btn btn-default" value="POST"></input>
-      </form>
+      <div id="comment-form-container">
+        <form id="post-comment">
+          <div class="form-group">
+            <input type="hidden" name="options[entryId]" value="{{ .File.BaseFileName }}">
+            <input name="fields[name]" type="text" class="form-control" placeholder="Your name" required>
+          </div>
+          <div class="form-group">
+            <textarea name="fields[body]" class="form-control" placeholder="Your comment" rows="10" required></textarea>
+          </div>
+          <input type="submit" href="" class="btn btn-default" value="POST"></input>
+        </form>
+      </div>
       <br>
     </div>
   </div>
