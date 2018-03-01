@@ -33,8 +33,9 @@ artistpublications:
   - 2012 - SAQA Journal - MEMBER GALLERY - Cities and Villages - Fall 2012
   - 2009 - QUILTING ARTS MAGAZINE - August/September 2009
   - '2008 - OREGON HOME - March April 2008 / Portfolio: p 18'
-  - 2007 - THE QUILTING QUARTERLY - Fall 2007
-  - 'Volume 36 / Number 3 / 139 pp: 26-27'
+  - >-
+    2007 - THE QUILTING QUARTERLY - Fall 2007  Volume 36 / Number 3 / 139 pp:
+    26-27
 artistassignments:
   - 'Infinity Art Gallery - Fiber Art Exhibit 2011: Juror'
 artistawards:
