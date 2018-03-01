@@ -4,6 +4,7 @@ relativeURLs = true
 theme = "hildemorin"
 paginate = 5.0
 summaryLength = 50
+googleAnalytics = "UA-73407918-1"
 
 [taxonomies]
 tag = "tags"
