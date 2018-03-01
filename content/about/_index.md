@@ -82,6 +82,12 @@ artistexhibits:
   - URBAN PDX - MIX group exhibit - Portland, Oregon, USA
   - MIX at Chessman Gallery - group exhibit - Lincoln City, Oregon, USA
   - SITKA Northwest ART INVITATIONAL - Portland, Oregon, USA
+- year: '2015'
+  exhibits:
+  - A SENSE OF PLACE - The Allison Inn - MIX group exhibit - Newberg, Oregon, USA
+  - Sisters Outdoor Quilt Show, Special Exhibit - MIX group exhibit EXTREME STUDIES - Sisters, Oregon, USA
+  - INTERPRETATIONS - Visions Gallery - San Diego, California, USA
+  - SITKA Northwest ART INVITATIONAL - Portland, Oregon, USA
 - year: '2014'
   exhibits:
   - ABSTRACTING WITH CURVES - Gallery 301 - Hood River, Oregon, USA
