@@ -39,10 +39,6 @@ artistassignments:
   - 'Infinity Art Gallery - Fiber Art Exhibit 2011: Juror'
 artistawards:
   - awards:
-      - award: Brand new award
-        presenter: Ricardo
-    year: '2018'
-  - awards:
       - award: 'AWARD OF EXCELLENCE: El Cerro'
         presenter: 'Surface Design Association, USA'
       - award: 'VIEWER''S CHOICE: El Cerro'
