@@ -4,12 +4,12 @@ title: Hilde Morin Fiber Art Home Page
 slider:
   - imageurl: images/slider/01.jpg
     legendbottom: |
-      “My approach is improvisational and it includes the creation of a first layer using only piecing techniques,
-      adding a second layer of texture through extensive thread work and surface manipulation.”
+      “My approach is improvisational. It includes the creation of a first layer using only piecing techniques,
+      and a second layer of texture through extensive thread work and surface manipulation.”
 
   - imageurl: images/slider/02.jpg
     legendbottom: |
-      “In my natural scenes I represent reality through the use of curved piecing techniques.”
+      “In my natural scenes I represent reality through the use of free-form curved piecing techniques.”
 
 galleries:
   - imageurl: images/galleries/walls.jpg

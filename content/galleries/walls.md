@@ -22,7 +22,7 @@ galleryitems:
   Mercado celebrating the diverse Latin American cultures through food and entertainment."
   imageentry: images/mercado-web-entry.jpg
   imageicon: images/mercado-web-icon.jpg
-  price: '1,000'
+  price: '1,200'
 - title: RANDOM WINDOWS
   dimensions: 48x28
   caption: "<b>RANDOM WINDOWS</b><br>48 W&quot; x 28&quot; H<br>Cuenca-Spain:  A display
