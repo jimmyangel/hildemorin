@@ -190,12 +190,6 @@ artistexhibits:
   - exhibits:
       - 'Montgomery County Fair - Maryland, USA'
     year: '1998'
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
 artistmemberships:
   - org: CFG - Columbia FiberArts Guild
     orglink: 'http://www.columbiafiberartsguild.org/'
