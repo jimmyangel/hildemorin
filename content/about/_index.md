@@ -77,6 +77,10 @@ artistawards:
   - award: 'FIRST PREMIUM WALLHANGINGS: Pueblo'
     presenter: Montgomery County Fair - Maryland, USA
 artistexhibits:
+- year: '2017'
+  exhibits:
+  - REFLECTION AND RENEWAL (Scenes from the Portland Japanese Garden) - MIX group exhibit - Portland, Oregon, USA
+  - SITKA Northwest ART INVITATIONAL - Portland, Oregon, USA
 - year: '2016'
   exhibits:
   - URBAN PDX - MIX group exhibit - Portland, Oregon, USA
@@ -108,8 +112,8 @@ artistexhibits:
 - year: '2012'
   exhibits:
   - Women in the Arts 2012 - Museum of The Americas - Florida, USA
-  - "&quot;SYMBOLS, LETTERS, WORDS, TEXT US&quot; - Umpqua Valley Arts Center - Roseburg,
-    Oregon, USA"
+  - '"SYMBOLS, LETTERS, WORDS, TEXT US" - Umpqua Valley Arts Center - Roseburg,
+    Oregon, USA'
   - MEMORY WALL group exhibit - Portland, Oregon, USA
 - year: '2011'
   exhibits:
