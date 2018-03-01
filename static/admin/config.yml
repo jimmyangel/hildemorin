@@ -66,8 +66,14 @@ collections:
           - {label: "Artist Statement", name: "artiststatement", widget: "markdown"}
           - {label: "Artist Publications", name: "artistpublications", widget: "list"}
           - {label: "Artist Assignments", name: "artistassignments", widget: "list"}
-          - {label: "Artist Awards", name: "artistawards", widget: "list", fields: [
+          - {label: "Artist Award Years", name: "artistawards", widget: "list", fields: [
               {label: "Award Year", name: "year", widget: "string"},
-              {label: "Awards", name: "awards", widget: "list", fields: [{label: "Award Title", name: "award", widget: "string"}, {label: "Award Presenter", name: "presenter", widget: "string"}]}]}
-          - {label: "Artist Exhibits", name: "artistexhibits", widget: "list", fields: [{label: "Year", name: "year", widget: "string"},{label: "Exhibits", name: "exhibits", widget: "list"}]}
-          - {label: "Artist Memberships", name: "artistmemberships", widget: "list", fields: [{label: "Organization", name: "org", widget: "string"},{label: "Organization Link", name: "orglink", widget: "string"}]}
+              {label: "Awards", name: "awards", widget: "list", fields: [
+                {label: "Award Title", name: "award", widget: "string"},
+                {label: "Award Presenter", name: "presenter", widget: "string"}]}]}
+          - {label: "Artist Exhibits", name: "artistexhibits", widget: "list", fields: [
+              {label: "Year", name: "year", widget: "string"},
+              {label: "Exhibits", name: "exhibits", widget: "list"}]}
+          - {label: "Artist Memberships", name: "artistmemberships", widget: "list", fields: [
+              {label: "Organization", name: "org", widget: "string"},
+              {label: "Organization Link", name: "orglink", widget: "string"}]}
