@@ -16,6 +16,13 @@ galleryitems:
     San Diego, CA<br>AWARD OF EXCELLENCE - Surface Design Association 2015"
   imageentry: images/El-Cerro-web-entry.jpg
   imageicon: images/El-Cerro-web-icon.jpg
+- title: MERCADO
+  dimensions: 30x40
+  caption: "<b>Mercado (Market)</b><br>30 W&quot; x 40&quot; H<br>A busy day at the Portland
+  Mercado celebrating the diverse Latin American cultures through food and entertainment."
+  imageentry: images/mercado-web-entry.jpg
+  imageicon: images/mercado-web-icon.jpg
+  price: '1,000'
 - title: RANDOM WINDOWS
   dimensions: 48x28
   caption: "<b>RANDOM WINDOWS</b><br>48 W&quot; x 28&quot; H<br>Cuenca-Spain:  A display
