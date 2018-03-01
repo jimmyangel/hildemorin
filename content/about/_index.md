@@ -25,6 +25,7 @@ artiststatement: >-
   teach regularly at <a href="/studio/">my studio</a> and at other venues,
   promoting the use of free form techniques in the construction of art quilts.
 artistpublications:
+  - 2017 - SAQA Art Quilt Quarterly Issue No. 9
   - 2016 - SAQA Portfolio 23
   - 2015 - 1000 Quilt Inspirations - Sandra Sider
   - 2014 - VISIONS Art Museum 2014 Catalog - The Sky Is The Limit
@@ -189,6 +190,12 @@ artistexhibits:
   - exhibits:
       - 'Montgomery County Fair - Maryland, USA'
     year: '1998'
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 artistmemberships:
   - org: CFG - Columbia FiberArts Guild
     orglink: 'http://www.columbiafiberartsguild.org/'
