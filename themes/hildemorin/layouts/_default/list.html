@@ -59,6 +59,11 @@
       </div>
       <div class="col-md-3">
         <div class="sidebar-widget">
+          <div >
+            <a href="{{.Site.BaseURL}}blog/index.xml"><i style="float: right; margin-left: 10px;" class="fa fa-rss"></i></a>
+            <a id="register-link" href="#"><i style="float: right;" class="fa fa-envelope-o"></i></a>
+            <h4 class="sidebar-title">Follow Me</h4>
+          </div>
           <h4 class="sidebar-title">Tags</h4>
           <div class="tagcloud">
             {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
@@ -71,5 +76,8 @@
   </div>
 </section>
 <!-- /BLOG -->
+
+<!-- SUBSCRIBE FORM -->
+{{ partial "subscribe.html" . }}
 
 {{ partial "footer.html" . }}
