@@ -5,7 +5,7 @@ slider:
   - imageurl: images/slider/01.jpg
     legendbottom: |
       “My approach is improvisational. It includes the creation of a first layer using only piecing techniques,
-      and a second layer of texture through extensive thread work and surface manipulation.”
+      and a second layer of texture using extensive thread work and surface manipulation.”
 
   - imageurl: images/slider/02.jpg
     legendbottom: |
