@@ -41,6 +41,6 @@ contact:
   location: Portland, Oregon
   locationlink: https://www.google.com/maps/place/Portland,+OR/
   email: hildemorin@gmail.com
-  web: http://hildemorin.com
+  web: https://hildemorin.com
 
 ---
