@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.hildemorin.com/"
 languageCode = "en-us"
 relativeURLs = true
 theme = "hildemorin"
