@@ -7,7 +7,7 @@ thumbnail: /images/uploads/1-blog-thumb.jpg
 ---
 <img class="img-responsive" src="/images/uploads/1-blog-picture.jpg">
 
-For years I’ve been pondering with the idea of maintaining a blog but the commitment of having to post on a regular basis did not appeal to me.  Instead, I have maintained an online presence through my fiber art Facebook and Instagram pages and my website.
+For years I’ve been pondering with the idea of maintaining a blog but the commitment of having to post on a regular basis did not appeal to me.  Instead, I have maintained an online presence through my fiber art Facebook and Instagram pages, and my website.
 
 _So here I am with my blog!_  My intention is to be all-inclusive, everyone can read my posts, facebook and non-facebook readers, Instagram and non-Instagram fans, students, followers from afar who cannot travel to take a class and visitors who just want to see what’s happening here.  
 
