@@ -29,6 +29,7 @@ collections:
             name: "params"
             widget: "object"
             fields:
+              - {label: "Title", name: "title", widget: "string"}
               - {label: "Copyright Notice", name: "copyright", widget: "string"}
               - {label: "Site Updated Date", name: "updated", widget: "string"}
           - {label: "Base URL", name: "baseURL", widget: "string", required: false, default: ""}
@@ -36,6 +37,8 @@ collections:
           - {label: "Relative URLs", name: "relativeURLs", widget: "boolean", default: true}
           - {label: "Theme", name: "theme", widget: "string", default: "hildemorin"}
           - {label: "Paginate", name: "paginate", widget: "number", default: 5, valueType: "int"}
+          - {label: "Blog Summaries Length", name: "summaryLength", widget: "number", default: 5, valueType: "int"}
+          - {label: "Google Analytics Site Code", name: "googleAnalytics", widget: "string"}
           - label: "Taxonomies"
             name: "taxonomies"
             widget: "object"
