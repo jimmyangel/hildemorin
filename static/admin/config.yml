@@ -87,7 +87,7 @@ collections:
         label: "Classes"
         name: "classes"
         fields:
-          - {label: "Classed Leading Intro", name: "classesintro", widget: "markdown"}
+          - {label: "Classes Leading Intro", name: "classesintro", widget: "markdown"}
           - {label: "Classes", name: "classes", widget: "list", fields: [
               {label: "Class Key", name: "namekey", widget: "string"},
               {label: "Class Title", name: "title", widget: "string"},
