@@ -13,3 +13,29 @@ tag = "tags"
 title = "Hilde Morin Fiber Art"
 copyright = "Content copyright © 2006-2018 Hilde Morin"
 updated = "February 2018"
+keywords = "fiber arts,quilting,contemporary quilting,color,texture,composition"
+ogimage = "https://www.hildemorin.com/images/page.png"
+logoimage = "/images/logo.svg"
+logotext = "HILDE MORIN FIBER ART"
+
+  [[params.menu]]
+    menulink = "#header"
+    menulabel = "Home"
+  [[params.menu]]
+    menulink = "#portfolio"
+    menulabel = "Galleries"
+  [[params.menu]]
+    menulink = "#contact"
+    menulabel = "Contact"
+  [[params.menu]]
+    menulink = "classes"
+    menulabel = "Classes"
+  [[params.menu]]
+    menulink = "calendar"
+    menulabel = "Calendar"
+  [[params.menu]]
+    menulink = "about"
+    menulabel = "About"
+  [[params.menu]]
+    menulink = "blog"
+    menulabel = "Blog"

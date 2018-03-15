@@ -32,6 +32,13 @@ collections:
               - {label: "Title", name: "title", widget: "string"}
               - {label: "Copyright Notice", name: "copyright", widget: "string"}
               - {label: "Site Updated Date", name: "updated", widget: "string"}
+              - {label: "Site Keywords", name: "keywords", widget: "string"}
+              - {label: "OpenGraph Image", name: "ogimage", widget: "string"}
+              - {label: "Logo Image", name: "logoimage", widget: "string"}
+              - {label: "Logo Text", name: "logotext", widget: "string"}
+              - {label: "Menu Items", name: "menu", widget: "list", fields: [
+                  {label: "Menu Link", name: "menulink", widget: "string"},
+                  {label: "Menu Label", name: "menulabel", widget: "string"}]}
           - {label: "Base URL", name: "baseURL", widget: "string", required: false, default: ""}
           - {label: "Language Code", name: "languageCode", widget: "string"}
           - {label: "Relative URLs", name: "relativeURLs", widget: "boolean", default: true}

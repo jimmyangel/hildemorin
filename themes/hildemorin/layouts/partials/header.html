@@ -4,12 +4,12 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Hilde Morin - Fiber art" />
-	<meta name="keywords" content="fiber arts,quilting,contemporary quilting,color,texture,composition" />
-	<meta property="og:title" content="Hilde Morin - Fiber art" />
-	<meta property="og:image" content="http://www.hildemorin.com/images/page.png" />
+	<meta name="description" content="{{.Site.Params.Title}}" />
+	<meta name="keywords" content="{{.Site.Params.Keywords}}" />
+	<meta property="og:title" content="{{.Site.Params.Title}}" />
+	<meta property="og:image" content="{{.Site.Params.Ogimage}}" />
 
-	<title>{{.Title}}</title>
+	<title>{{.Site.Params.Title}}</title>
 
 	<!-- Main CSS file -->
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -62,10 +62,10 @@
 
 					<div style="margin-top: -20px;">
 						<a class="navbar-left" href="/">
-							<img height="50" alt="Hilde Morin FIBER ART" src="/images/logo.svg">
+							<img height="50" alt="{{.Site.Params.Title}}" src="{{.Site.Params.Logoimage}}">
 						</a>
 					</div>
-					<div style="font-family: 'Syncopate'; font-size: 12px; font-weight: 400;">HILDE MORIN FIBER ART</div>
+					<div style="font-family: 'Syncopate'; font-size: 12px; font-weight: 400;">{{.Site.Params.Logotext}}</div>
 				</div>
 
 				<div class="collapse navbar-collapse" id="st-navbar-collapse">
