@@ -1,4 +1,5 @@
 ---
+artistbannerimage: images/about-heading.jpg
 artistquote: I listen to my mood and work with it allowing the design to evolve spontaneously
   until I am satisfied with the result
 artistname: Hilde Van de Walle Morin

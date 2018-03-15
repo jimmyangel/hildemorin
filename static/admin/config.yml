@@ -64,6 +64,7 @@ collections:
         label: "About"
         name: "about"
         fields:
+          - {label: "Artist Banner Image", name: "artistbannerimage", widget: "string"}
           - {label: "Artist Quote", name: "artistquote", widget: "string"}
           - {label: "Artist Name", name: "artistname", widget: "string"}
           - {label: "Artist Statement", name: "artiststatement", widget: "markdown"}
