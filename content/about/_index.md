@@ -22,17 +22,17 @@ artiststatement: Drama and flow is what I like to represent in my fiber work.  I
   studio</a> and at other venues, promoting the use of free form techniques in the
   construction of art quilts.
 artistpublications:
-- 2017 - SAQA Art Quilt Quarterly Issue No. 9
-- 2016 - SAQA Portfolio 23
-- 2015 - 1000 Quilt Inspirations - Sandra Sider
-- 2014 - VISIONS Art Museum 2014 Catalog - The Sky Is The Limit
-- 2014 - Machine Quilting Unlimited - CityScape GALLERY
-- 2012 - SAQA Journal - MEMBER GALLERY - Cities and Villages - Fall 2012
-- 2009 - QUILTING ARTS MAGAZINE - August/September 2009
-- '2008 - OREGON HOME - March April 2008 / Portfolio: p 18'
-- '2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 / #139 pp 26-27'
+- publication: 2017 - SAQA Art Quilt Quarterly Issue No. 9
+- publication: 2016 - SAQA Portfolio 23
+- publication: 2015 - 1000 Quilt Inspirations - Sandra Sider
+- publication: 2014 - VISIONS Art Museum 2014 Catalog - The Sky Is The Limit
+- publication: 2014 - Machine Quilting Unlimited - CityScape GALLERY
+- publication: 2012 - SAQA Journal - MEMBER GALLERY - Cities and Villages - Fall 2012
+- publication: 2009 - QUILTING ARTS MAGAZINE - August/September 2009
+- publication: '2008 - OREGON HOME - March April 2008 / Portfolio: p 18'
+- publication: '2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 / #139 pp 26-27'
 artistassignments:
-- 'Infinity Art Gallery - Fiber Art Exhibit 2011: Juror'
+- assignment: 'Infinity Art Gallery - Fiber Art Exhibit 2011: Juror'
 artistawards:
 - year: '2015'
   awards:

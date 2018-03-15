@@ -67,8 +67,10 @@ collections:
           - {label: "Artist Quote", name: "artistquote", widget: "string"}
           - {label: "Artist Name", name: "artistname", widget: "string"}
           - {label: "Artist Statement", name: "artiststatement", widget: "markdown"}
-          - {label: "Artist Publications", name: "artistpublications", widget: "list"}
-          - {label: "Artist Assignments", name: "artistassignments", widget: "list"}
+          - {label: "Artist Publications", name: "artistpublications", widget: "list", fields: [
+              {label: "Publication Info", name: "publication", widget: "string"}]}
+          - {label: "Artist Assignments", name: "artistassignments", widget: "list", fields: [
+              {label: "Assignment Info", name: "assignment", widget: "string"}]}
           - {label: "Artist Award Years", name: "artistawards", widget: "list", fields: [
               {label: "Award Year", name: "year", widget: "string"},
               {label: "Awards", name: "awards", widget: "list", fields: [
