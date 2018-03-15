@@ -87,11 +87,11 @@ collections:
         label: "Classes"
         name: "classes"
         fields:
-          - {label: "Classed Leading Intro", name: "classesintro", widget: "string"}
+          - {label: "Classed Leading Intro", name: "classesintro", widget: "markdown"}
           - {label: "Classes", name: "classes", widget: "list", fields: [
               {label: "Class Key", name: "namekey", widget: "string"},
               {label: "Class Title", name: "title", widget: "string"},
               {label: "Class Duration", name: "duration", widget: "string"},
-              {label: "Class Description", name: "description", widget: "string"},
+              {label: "Class Description", name: "description", widget: "markdown"},
               {label: "Class Thumbnail", name: "thumbnail", widget: "string"},
               {label: "Class Supply List Document", name: "supplylist", widget: "string"}]}
