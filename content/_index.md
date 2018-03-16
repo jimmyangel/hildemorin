@@ -32,7 +32,6 @@ galleries:
     page: postcards
 
 contact:
-
   headline:
   description: |
     <br>My <a href="/studio/">studio</a> is open for classes and I welcome visitors to take a peek
@@ -43,4 +42,20 @@ contact:
   email: hildemorin@gmail.com
   web: https://hildemorin.com
 
+sociallinks:
+  - sitename: Facebook
+    sitelink: https://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455
+    icon: images/facebook.png
+  - sitename: Instagram
+    sitelink: https://www.instagram.com/hildemorinfiberart/
+    icon: images/instagram.png
+  - sitename: LinkedIn
+    sitelink: https://www.linkedin.com/in/hilde-vande-walle-morin-0604338
+    icon: images/linkedin.png
+  - sitename: MIX
+    sitelink: https://mixpdx.blogspot.com/
+    icon: images/mix.png
+  - sitename: 500px
+    sitelink: https://500px.com/hildemorin/
+    icon: images/500px.png
 ---

@@ -80,11 +80,9 @@
 			</div>
 			<div class="row">
 				<div class="spacer text-center">
-					<a href="http://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455" title="Facebook"><img class="social" src="images/facebook.png" /></a>
-					<a href="https://www.instagram.com/hildemorinfiberart/" title="Instagram"><img class="social" src="images/instagram.png" /></a>
-					<a href="https://www.linkedin.com/in/hilde-vande-walle-morin-0604338" title="LinkedIn"><img class="social" src="images/linkedin.png" />
-					<a href="http://mixpdx.blogspot.com/" title="MIX"><img class="social" src="images/mix.png" /></a>
-					<a href="https://500px.com/hildemorin/" title="500px"><img class="social" src="images/500px.png" /></a>
+					{{range .Params.sociallinks}}
+					<a href="{{.sitelink}}" title="{{.sitename}}"><img class="social" src="{{.icon}}" /></a>
+					{{end}}
 				</div>
 			</div>
 

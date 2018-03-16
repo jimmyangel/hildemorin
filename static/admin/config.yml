@@ -70,6 +70,10 @@ collections:
               {label: "Location Link", name: "locationlink", widget: "string"},
               {label: "Email", name: "email", widget: "string"},
               {label: "Web Site", name: "web", widget: "string"}]}
+          - {label: Social Links", name: "sociallinks", widget: "list", fields: [
+              {label: "Site Name", name: "sitename", widget: "string"},
+              {label: "Site Link", name: "sitelink", widget: "string"},
+              {label: "Site Icon", name: "icon", widget: "string"}]}
       - file: content/calendar/_index.md
         label: "Calendar"
         name: calendar
