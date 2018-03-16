@@ -51,6 +51,25 @@ collections:
             widget: "object"
             fields:
               - {label: "Tag", name: "tag", widget: "string", default: "tags"}
+      - file: content/_index.md
+        label: "Home Page"
+        name: "index"
+        fields:
+          - {label: "Home Page Title", name: "title", widget: "string"}
+          - {label: "Slider Images", name: "slider", widget: "list", fields: [
+              {label: "Image URL", name: "imageurl", widget: "string"},
+              {label: "Image Caption", name: "legendbottom", widget: "string"}]}
+          - {label: Galleries", name: "galleries", widget: "list", fields: [
+              {label: "Image URL", name: "imageurl", widget: "string"},
+              {label: "Image Caption", name: "caption", widget: "string"},
+              {label: "Gallery Key", name: "page", widget: "string"}]}
+          - {label: Contact", name: "contact", widget: "object", fields: [
+              {label: "Headline", name: "headline", widget: "string"},
+              {label: "Contact Text", name: "description", widget: "markdown"},
+              {label: "Location", name: "location", widget: "string"},
+              {label: "Location Link", name: "locationlink", widget: "string"},
+              {label: "Email", name: "email", widget: "string"},
+              {label: "Web Site", name: "web", widget: "string"}]}
       - file: content/calendar/_index.md
         label: "Calendar"
         name: calendar
