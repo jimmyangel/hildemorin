@@ -9,9 +9,10 @@ thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-1.jpg
 ---
 During the past years I have received many requests for instructions on how I make Fiber Bowls.  Some people come to take a class and for others it is just not possible.  So, I’ve decided to make this my first real blog post. 
 
-There are many publications, videos and articles about making these bowls varying the materials and shapes, but the basic technique is always the same, and it is the technique that I use.  Where I spend more time and effort is in the design, in the fine-tuning, in making these bowls three-dimensional art pieces rather than utilitarian bowls. You can see a selection of my bowls on my website [here](https://www.hildemorin.com/galleries/bowls/) 
+There are numerous publications, videos and articles about making these bowls varying the materials and shapes, but the basic technique is always the same, and it is the technique that I use.  Where I spend more time and effort is in the design, in the fine-tuning, in making these bowls three-dimensional art pieces rather than utilitarian bowls. You can see a selection of my bowls on my website [here](https://www.hildemorin.com/galleries/bowls/) 
 
 I’ve divided this tutorial into four sections:
+
 * Prepare Canvas
 * Shape Bowl
 * Fine-tune Design
