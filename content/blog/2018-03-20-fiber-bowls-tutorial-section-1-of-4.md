@@ -5,7 +5,7 @@ tags:
   - fiberbowl
   - fabricbowl
 date: '2018-03-20T13:12:34-07:00'
-thumbnail: blog-tutorial-thumbnail-1.jpg
+thumbnail: blog-bowls-tutorial-thumbnail-1.jpg
 ---
 During the past years I have received many requests for instructions on how I make Fiber Bowls.  Some people come to take a class and for others it is just not possible.  So, I’ve decided to make this my first real blog post. 
 
