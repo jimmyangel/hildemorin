@@ -114,8 +114,8 @@ exhibits:
       "WEATHER"
 
 
-      <img class="img-responsive"
-      src="/images/uploads/calendar-2018-exhibit-weather-card.jpg">
+      <p align="center"><img class="img-responsive"
+      src="/images/uploads/calendar-2018-exhibit-weather-card.jpg"></p>
 
 
       1838 Southwest Jefferson Street
