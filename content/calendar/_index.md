@@ -82,8 +82,8 @@ teachingschedule:
     classname: Your Own Forest
     classnamekey: yourownforest
     date: 'September 24-28, 2018'
-  - classcontactlink: ''
-    classcontactname: TBD
+  - classcontactlink: 'https://www.qfamuseum.org/quilt--fiber-arts-festival-2018.html'
+    classcontactname: QUILT & FIBER ARTS FESTIVAL
     classdetails: |
       Quiltfest
 
