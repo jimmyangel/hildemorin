@@ -110,11 +110,18 @@ teachingschedule:
     classnamekey: yourownforest
     date: 'November 14, 15 & 16, 2018'
 exhibits:
-  - exhibitinfo: |
+  - exhibitinfo: >-
       "WEATHER"
 
+
+      <img class="img-responsive"
+      src="/images/uploads/calendar-2018-exhibit-weather-card.jpg">
+
+
       1838 Southwest Jefferson Street
+
       Portland, OR 97201-2496
+
 
       April 2018
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
