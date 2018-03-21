@@ -94,6 +94,8 @@ teachingschedule:
   - classcontactlink: 'http://quiltedstrait.com/your-own-village-class'
     classcontactname: Quilted Strait
     classname: Your Own Village
+    classdetails: |
+
     classnamekey: yourownvillage
     date: 'October 25-27, 2018'
   - classcontactlink: 'http://www.hildemorin.com/contact'
@@ -116,4 +118,3 @@ exhibits:
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
 ---
-
