@@ -9,13 +9,13 @@ thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-2.jpg
 ---
 Thank you for all your visits, comments, questions, encouragement and good wishes. I can feel the pressure!
 
-One very important question I received: _"What are we aiming for?"_  Answer: This is our goal:
+One very important question I received: _"What are we aiming for?"_  Answer: _This is our goal:_
 
-<img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-sample.jpg">
+<p align="center"><img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-sample.jpg"></p>
 
-Another question made me laugh: "_Are you going to continue the instructions this month or is it going to be one step a month?"_  Answer: LOL
+Another question made me laugh: "_Are you going to continue the instructions this month or is it going to be one step a month?"_  Answer: _LOL_
 
-Section 2– Shape Bowl
+**Section 2– Shape Bowl**
 
 <img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-4.jpg">
 
