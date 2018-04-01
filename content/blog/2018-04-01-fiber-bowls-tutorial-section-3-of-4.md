@@ -29,7 +29,7 @@ Do this for every seam.  This process is time consuming but well worth the effor
 
 Now onto the design: Cover pieces of fabric you’ll be using for this with fusible web.
 
-Apply fusible inside your bowl per your design.  My design consists of concentric light swirls.  
+Apply fabric with fusible inside your bowl per your design.  My design consists of concentric light swirls.  
 
 For this I cut narrow strips of fabric that I fuse along the circles I have marked on my bowl. It is all in the details! Adding very narrow strips creates depth and dimension to your design.
 
