@@ -437,7 +437,7 @@
 	.carousel-caption {
 		left: 15px;
 		right: 15px;
-		top: 70%;
+		top: 65%;
 		font-size: 20px;
 		text-align: left;
 		color: #fff;
@@ -488,6 +488,39 @@
 	.home-carousel-right {
 		right:-32px;
 	}
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  padding-left: 0;
+  margin-left: -30%;
+  text-align: center;
+  list-style: none;
+	margin-bottom: 5px;
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin: 4px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #000 \9;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid #fff;
+  border-radius: 16px;
+}
+
+.carousel-indicators .active {
+  width: 16px;
+  height: 16px;
+  margin: 4px;
+  background-color: #fff;
+}
 
 	#home-carousel:hover .home-carousel-left {
 		left:0;
