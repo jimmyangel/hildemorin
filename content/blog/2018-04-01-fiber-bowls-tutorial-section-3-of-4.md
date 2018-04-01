@@ -35,7 +35,7 @@ It is all in the details! Adding very narrow strips creates depth and dimension 
 
 <img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-11.jpg">
 
-If the strips are narrow - 1/4 inch or less)- you can easily guide them along a curved line as you fuse, they adapt to any shape.
+If the strips are narrow - 1/4 inch or less - you can easily guide them along a curved line as you fuse, they adapt to any shape.
 
 Sometimes it is a good idea to use tweezers to put these small and narrow pieces down without burning your fingers.  It is OK to overlap fused fabrics!
 
