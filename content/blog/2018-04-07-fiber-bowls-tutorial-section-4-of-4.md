@@ -37,4 +37,4 @@ Finished!
 
 I’ve shown you the easiest way to stitch your bowl and I highly recommend you start there, but after you feel comfortable with the way your machine handles all those layers, I encourage you to try other stitching…free motion can be fun on a bowl!
 
-_You are now ready to play and experiment on your own!  Have fun and if you’d like to take this a step further, come to one of my Bowl classes where we work on more complex designs, explore different shapes and finishes, and even cut holes through our bowls!  Classes are posted on my _[_calendar_](https://www.hildemorin.com/calendar/)_ or you can _[_contact me_](https://www.hildemorin.com/#contact)_._
+*You are now ready to play and experiment on your own!  Have fun and if you’d like to take this a step further, come to one of my Bowl classes where we work on more complex designs, explore different shapes and finishes, and even cut holes through our bowls!  Classes are posted on my [calendar](https://www.hildemorin.com/calendar/) or you can [contact me](https://www.hildemorin.com/#contact).*
