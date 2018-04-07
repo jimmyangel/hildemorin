@@ -16,7 +16,7 @@ I’ve divided this tutorial into four sections:
 * Prepare Canvas
 * Shape Bowl
 * Fine-tune Design
-* Stitch and Finish Edges
+* Finish Edges and Stitch
 
 **Let’s start with Section 1 – Prepare Canvas**
 
