@@ -27,7 +27,7 @@ The more stitching, the stiffer a bowl you get.  This works best with a glass of
 
 <img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-14.jpg">
 
-Remember that your bowl is flexible, you may need to fold it depending on the size throat your machine has.
+Remember that your bowl is flexible, you may need to fold it depending on the throat size of your machine.
 
 The center of your bowl is the trickiest to reach, do this very slowly (and fold your bowl if needed.)
 
@@ -37,4 +37,4 @@ Finished!
 
 I’ve shown you the easiest way to stitch your bowl and I highly recommend you start there, but after you feel comfortable with the way your machine handles all those layers, I encourage you to try other stitching…free motion can be fun on a bowl!
 
-*You are now ready to play and experiment on your own!  Have fun and if you’d like to take this a step further, come to one of my Bowl classes where we work on more complex designs, explore different shapes and finishes, and even cut holes through our bowls!  Classes are posted on my [calendar](https://www.hildemorin.com/calendar/) or you can [contact me](https://www.hildemorin.com/#contact).*
+_You are now ready to play and experiment on your own!  Have fun and if you’d like to take this a step further, come to one of my Bowl classes where we work on more complex designs, explore different shapes and finishes, and even cut holes through our bowls!  Classes are posted on my [calendar](https://www.hildemorin.com/calendar/) or you can [contact me](https://www.hildemorin.com/#contact)._
