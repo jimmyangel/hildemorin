@@ -4,6 +4,7 @@ tags:
   - fiberbowl
   - fabricbowl
   - tutorial
+  - fiberbowltutorial
 date: '2018-04-01T09:22:59-07:00'
 thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-3.jpg
 ---
