@@ -3,39 +3,45 @@ languageCode = "en-us"
 relativeURLs = true
 theme = "hildemorin"
 paginate = 5.0
-summaryLength = 50
+summaryLength = 50.0
 googleAnalytics = "UA-73407918-1"
+
+[params]
+copyright = "Content copyright © 2006-2018 Hilde Morin"
+keywords = "fiber arts,quilting,contemporary quilting,color,texture,composition"
+logoimage = "/images/logo.svg"
+logotext = "HILDE MORIN FIBER ART"
+ogimage = "https://www.hildemorin.com/images/page.png"
+title = "Hilde Morin Fiber Art"
+updated = "April 2018"
+
+[[params.menu]]
+menulabel = "Home"
+menulink = "#header"
+
+[[params.menu]]
+menulabel = "Galleries"
+menulink = "#portfolio"
+
+[[params.menu]]
+menulabel = "Contact"
+menulink = "#contact"
+
+[[params.menu]]
+menulabel = "Classes"
+menulink = "classes"
+
+[[params.menu]]
+menulabel = "Calendar"
+menulink = "calendar"
+
+[[params.menu]]
+menulabel = "About"
+menulink = "about"
+
+[[params.menu]]
+menulabel = "Blog"
+menulink = "blog"
 
 [taxonomies]
 tag = "tags"
-
-[params]
-title = "Hilde Morin Fiber Art"
-copyright = "Content copyright © 2006-2018 Hilde Morin"
-updated = "March 2018"
-keywords = "fiber arts,quilting,contemporary quilting,color,texture,composition"
-ogimage = "https://www.hildemorin.com/images/page.png"
-logoimage = "/images/logo.svg"
-logotext = "HILDE MORIN FIBER ART"
-
-  [[params.menu]]
-    menulink = "#header"
-    menulabel = "Home"
-  [[params.menu]]
-    menulink = "#portfolio"
-    menulabel = "Galleries"
-  [[params.menu]]
-    menulink = "#contact"
-    menulabel = "Contact"
-  [[params.menu]]
-    menulink = "classes"
-    menulabel = "Classes"
-  [[params.menu]]
-    menulink = "calendar"
-    menulabel = "Calendar"
-  [[params.menu]]
-    menulink = "about"
-    menulabel = "About"
-  [[params.menu]]
-    menulink = "blog"
-    menulabel = "Blog"
