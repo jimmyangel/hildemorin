@@ -1,4 +1,5 @@
 ---
+title: walls
 galleryname: Walls & Windows
 galleryitems:
 - title: EL VECINDARIO

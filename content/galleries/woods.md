@@ -1,4 +1,5 @@
 ---
+title: woods
 galleryname: Woods & Water
 galleryitems:
 - title: UNDER THE MAPLE TREE

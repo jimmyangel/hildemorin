@@ -1,4 +1,5 @@
 ---
+title: flowers
 galleryname: Flowers
 galleryitems:
 - title: WHITE TRIO

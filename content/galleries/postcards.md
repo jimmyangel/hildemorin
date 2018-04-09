@@ -1,4 +1,5 @@
 ---
+title: postcards
 galleryname: Postcards
 gallerytitle: POSTCARDS
 galleryblurb: |

@@ -1,4 +1,5 @@
 ---
+title: curves
 galleryname: Curves
 galleryitems:
 - title: GARDEN PARADE

@@ -17,6 +17,24 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Thumbnail", name: "thumbnail", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "galleries" #
+    label: "Galleries"
+    folder: "content/galleries"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Gallery Name", name: "galleryname", widget: "string", required: true}
+      - {label: "Gallery Title", name: "gallerytitle", widget: "string"}
+      - {label: "Gallery Blurb", name: "galleryblurb", widget: "string"}
+      - {label: "Gallery Items", name: "galleryitems", widget: "list", fields: [
+          {label: "Title", name: "title", widget: "string", required: true},
+          {label: "Dimensions", name: "dimensions", widget: "string", required: true},
+          {label: "Caption", name: "caption", widget: "markdown", required: true},
+          {label: "Image Entry", name: "imageentry", widget: "string", required: true},
+          {label: "Image Scale", name: "scale", widget: "string"},
+          {label: "Image Icon", name: "imageicon", widget: "string", required: true},
+          {label: "Price", name: "price", widget: "string"}]}
 
   - name: "pages"
     label: "pages"

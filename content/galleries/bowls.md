@@ -1,4 +1,5 @@
 ---
+title: bowls
 galleryname: Bowls
 galleryitems:
 - title: PINOT
