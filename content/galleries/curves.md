@@ -78,7 +78,7 @@ galleryitems:
     dimensions: 12x12x3
     imageentry: images/2009-harvest-hits-web-entry.jpg
     imageicon: images/2009-harvest-hits-web-icon.jpg
-    price: '900'
+    price: ''
     title: HARVEST HITS
   - caption: >-
       <b>DRYLANDS</b><br>19 W&quot; x 19&quot; H TRIPTYCH<br>Hand dyed and
