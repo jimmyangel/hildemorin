@@ -35,8 +35,8 @@ galleryitems:
       <b>PURE SUNSHINE</b><br>5 &quot; diameter<br>Hand dyed and commercial
       fabrics on canvas, machine stitched
     dimensions: 5" Φ
-    imageentry: /images/uploads//2017-pure-sunshine-web-entry.jpg
-    imageicon: /images/uploads//2017-pure-sunshine-web-icon.jpg
+    imageentry: /images/uploads/2017-pure-sunshine-web-entry.jpg
+    imageicon: /images/uploads/2017-pure-sunshine-web-icon.jpg
     title: PURE SUNSHINE
 ---
 
