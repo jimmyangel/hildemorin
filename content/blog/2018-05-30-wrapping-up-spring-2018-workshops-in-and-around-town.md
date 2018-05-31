@@ -29,6 +29,6 @@ Here is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco a
 
 …and here they are, all 20 of them! 
 
-<img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-6.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-4.jpg">
 
 Of course, there is always time to wander the beaches of this beautiful place.  See you next year in March!
