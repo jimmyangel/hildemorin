@@ -10,6 +10,7 @@ thumbnail: /images/uploads/blog-spring-classes-thumbnail-1.jpg
 **April - Empty Spools Seminars**
 
 Spring Classes started with Empty Spools Seminars, where I taught a 5-day In And Around Town workshop at Asilomar in Pacific Grove, CA.   
+
 City scapes, street scapes, villages, neighborhoods, castles, houses, barns, doors, windows, anything that has a dwelling or part of it serves as inspiration for this workshop and this year we even had historic water tanks!  Some of the places we visited were Portugal, San Francisco, Italy … several times, Chicago, Ireland, Arizona, Greece, New Mexico and some stayed in California.
 
  All these works are pieced … we make lace for embellishing … we discharge fabrics to create weathered looks … we work hard … we share … we enjoy our time together as a group.
