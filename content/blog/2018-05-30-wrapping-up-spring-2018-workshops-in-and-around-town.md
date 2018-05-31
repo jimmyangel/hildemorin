@@ -15,22 +15,24 @@ City scapes, street scapes, villages, neighborhoods, castles, houses, barns, doo
 
  All these works are pieced … we make lace for embellishing … we discharge fabrics to create weathered looks … we work hard … we share … we enjoy our time together as a group.
 
+This was our large classroom with plenty of room to spread out, and we did spread out! The community scrap pile in the center of the room came in very handy for that bit of yellow we needed or for that special treasure that was someone else’s discard.
+
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-1.jpg">
 
-This was our large classroom with plenty of room to spread out, and we did spread out! The community scrap pile in the center of the room came in very handy for that bit of yellow we needed or for that special treasure that was someone else’s discard.
+Here is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco and Susan’s Fairy Tale.  These are sections of their work…
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-2.jpg">
 
-Above is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco and Susan’s Fairy Tale.  These are sections of their work…
+… Pam’s San Francisco row houses, Jo’s historic water tanks and Sue’s Chicago skyline…
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-3.jpg">
 
-… Pam’s San Francisco row houses, Jo’s historic water tanks and Sue’s Chicago skyline…
+<p align="center">... and here they are, all 20 of them! </p>
 
 <p align="center"><img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-5.jpg"></p>
 
-... and here they are, all 20 of them! 
+Of course, there is always time to wander the beaches of this beautiful place. See you next year in March!
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-4.jpg">
 
-Of course, there is always time to wander the beaches of this beautiful place.  See you next year in March!
+See you next year in March!
