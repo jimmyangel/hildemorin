@@ -21,7 +21,7 @@ This was our large classroom with plenty of room to spread out, and we did sprea
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-2.jpg">
 
-Here is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco and Susan’s Fairy Tale.  These are sections of their work…
+Above is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco and Susan’s Fairy Tale.  These are sections of their work…
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-3.jpg">
 
