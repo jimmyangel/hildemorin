@@ -11,7 +11,7 @@ thumbnail: /images/uploads/blog-spring-classes-thumbnail-1.jpg
 
 Spring Classes started with Empty Spools Seminars, where I taught a 5-day In And Around Town workshop at Asilomar in Pacific Grove, CA.   
 
-City scapes, street scapes, villages, neighborhoods, castles, houses, barns, doors, windows, anything that has a dwelling or part of it serves as inspiration for this workshop and this year we even had historic water tanks!  Some of the places we visited were Portugal, San Francisco, Italy … several times, Chicago, Ireland, Arizona, Greece, New Mexico, and some stayed in California.
+City scapes, street scapes, villages, neighborhoods, castles, houses, barns, doors, windows, anything that has a dwelling or part of it serves as inspiration for this workshop and this year we even had historic water towers and tank houses of Sonoma County, CA.  Some of the places we visited were Portugal, San Francisco, Italy … several times, Chicago, Ireland, Croatia, Arizona, Greece, New Mexico, and some stayed in California.
 
  All these works are pieced … we make lace for embellishing … we discharge fabrics to create weathered looks … we work hard … we share … we enjoy our time together as a group.
 
@@ -23,15 +23,13 @@ Here is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco a
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-2.jpg">
 
-… Pam’s San Francisco row houses, Jo’s historic water tanks and Sue’s Chicago skyline…
+… Pam’s San Francisco row houses, Jo’s historic water towers and tank houses, and Sue’s Chicago skyline…
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-3.jpg">
 
 <p align="center">... and here they are, all 20 of them! </p>
 
 <p align="center"><img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-5.jpg"></p>
-
-
 
 Of course, there is always time to wander the beaches of this beautiful place. 
 
