@@ -29,7 +29,7 @@ Above is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco 
 
 <p align="center"><img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-5.jpg"></p>
 
-…and here they are, all 20 of them! 
+... and here they are, all 20 of them! 
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-4.jpg">
 
