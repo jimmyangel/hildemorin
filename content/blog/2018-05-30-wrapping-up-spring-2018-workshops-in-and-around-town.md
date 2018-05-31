@@ -31,6 +31,7 @@ Here is a peek at Allison’s Portugal scene, Nikki’s Italy in San Francisco a
 
 <p align="center"><img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-5.jpg"></p>
 
+
 Of course, there is always time to wander the beaches of this beautiful place. 
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-4.jpg">
