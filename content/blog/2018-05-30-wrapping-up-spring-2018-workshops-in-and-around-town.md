@@ -35,4 +35,5 @@ Of course, there is always time to wander the beaches of this beautiful place.
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-asilomar-4.jpg">
 
+
 See you next year in March!
