@@ -15,7 +15,7 @@ A very enthusiastic group of students created beautiful work through the use of 
 
 We piece curves, skinny ... very skinny lines, make and insert solvy lace, assemble asymmetrical circles, add 3D flanges, all using an improvisational approach.
 
-Here are a few sample works, from top to bottom and left to right, the works of: Leslie, Brooke, Regina, Bobbie, Leann, Darlene and Noranne.  
+Here are a few sample works. From top to bottom and left to right, the creations of: Leslie, Brooke, Regina, Bobbie, Leann, Darlene and Noranne.  
 
 <img class="img-responsive" src="/images/uploads/blog-2018-spring-classes-kalispell-1.jpg">
 
