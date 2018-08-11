@@ -144,7 +144,10 @@ exhibits:
     exhibitname: Gallery Exhibition
   - exhibitinfo: |-
       Saturday & Sunday, 10-4pm
+
       Miller Hall at the World Forestry Center
+
+
       4033 Southwest Canyon Road,
       Portland, OR 97221
 
