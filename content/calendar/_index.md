@@ -147,10 +147,7 @@ exhibits:
 
       Miller Hall at the World Forestry Center
 
-
-      4033 Southwest Canyon Road,
-
-      Portland, OR 97221
+      4033 Southwest Canyon Road, Portland, OR 97221
 
       November 3 - 4, 2018
 
