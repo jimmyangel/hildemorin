@@ -126,5 +126,24 @@ exhibits:
       April 2018
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
+  - exhibitinfo: >-
+      "FIBER SHOW"
+
+
+      <p align="center"><img class="img-responsive"
+      src="/images/uploads/calendar-2018-hood-river-announcement.jpg"></p>
+
+
+      Columbia Center for the Arts
+
+
+      215 Cascade Avenue, 
+
+      Hood River, OR 97031
+
+
+      October 3-28, 2018
+    exhibitlink: 'https://www.columbiaarts.org/'
+    exhibitname: FIBER SHOW
 ---
 
