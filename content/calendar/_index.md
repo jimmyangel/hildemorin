@@ -143,15 +143,17 @@ exhibits:
     exhibitlink: 'https://www.columbiaarts.org/'
     exhibitname: Gallery Exhibition
   - exhibitinfo: |-
-      Saturday & Sunday, 10-4pm
+      <br>
 
       Miller Hall at the World Forestry Center
 
 
       4033 Southwest Canyon Road,
+
       Portland, OR 97221
 
       November 3 - 4, 2018
+
       Saturday & Sunday, 10-4pm
     exhibitlink: 'https://www.sitkacenter.org/event/sitka-art-invitational'
     exhibitname: 2018 Sitka Art Invitational
