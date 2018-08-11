@@ -2,8 +2,8 @@ baseURL = "https://www.hildemorin.com/"
 languageCode = "en-us"
 relativeURLs = true
 theme = "hildemorin"
-paginate = 5.0
-summaryLength = 50.0
+paginate = 5
+summaryLength = 50
 googleAnalytics = "UA-73407918-1"
 
 [params]
@@ -13,7 +13,7 @@ logoimage = "/images/logo.svg"
 logotext = "HILDE MORIN FIBER ART"
 ogimage = "https://www.hildemorin.com/images/page.png"
 title = "Hilde Morin Fiber Art"
-updated = "April 2018"
+updated = "August 2018"
 
 [[params.menu]]
 menulabel = "Home"
