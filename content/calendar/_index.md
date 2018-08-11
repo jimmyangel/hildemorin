@@ -127,8 +127,7 @@ exhibits:
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
   - exhibitinfo: >-
-      <br>
-      <p align="center"><img class="img-responsive"
+      <br> <p align="center"><img class="img-responsive"
       src="/images/uploads/calendar-2018-hood-river-announcement.jpg"></p>
 
 
@@ -143,4 +142,15 @@ exhibits:
       October 3-28, 2018
     exhibitlink: 'https://www.columbiaarts.org/'
     exhibitname: Gallery Exhibition
+  - exhibitinfo: |-
+      Saturday & Sunday, 10-4pm
+      Miller Hall at the World Forestry Center
+      4033 Southwest Canyon Road,
+      Portland, OR 97221
+
+      November 3 - 4, 2018
+      Saturday & Sunday, 10-4pm
+    exhibitlink: 'https://www.sitkacenter.org/event/sitka-art-invitational'
+    exhibitname: 2018 Sitka Art Invitational
 ---
+
