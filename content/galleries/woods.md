@@ -2,6 +2,12 @@
 title: woods
 galleryname: Woods & Water
 galleryitems:
+- title: EMBRACING MOSS
+  dimensions: 42x37
+  caption: "<b>EMBRACING MOSS</b><br>42 W&quot; x 37&quot; H<br>Free form curved and straight piecing. Hand dyed and commercial cotton fabrics.  Machine quilted."
+  imageentry: images/2018-Embracing-Moss-web-entry.jpg
+  imageicon: images/2018-Embracing-Moss-web-icon.jpg
+  price: '2,800'
 - title: SNOW AND ASH
   dimensions: 40x30
   caption: "<b>SNOW AND ASH</b><br>40 W&quot; x 30&quot; H<br>Hand dyed and commercial fabrics
