@@ -263,7 +263,13 @@
 	.mfp-title {
 	  text-align: center;
 	}
-/* CUSTOMIZE BOOTSTRAP BREAKPOINT FOR MENU */
+/* CUSTOMIZE BOOTSTRAP BREAKPOINT FOR MENU AND LOGO CONTAINER */
+
+@media (max-width: 767px) {
+  .logo-container {
+    padding-left: 15px;
+  }
+}
 
 @media (max-width: 990px) {
     .navbar-header {

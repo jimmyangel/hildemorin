@@ -60,12 +60,14 @@
 				    	<span class="icon-bar"></span>
 					</button>
 
-					<div style="margin-top: -20px;">
-						<a class="navbar-left" href="/">
-							<img height="50" alt="{{.Site.Params.Title}}" src="{{.Site.Params.Logoimage}}">
-						</a>
-					</div>
-					<div style="font-family: 'Syncopate'; font-size: 12px; font-weight: 400;">{{.Site.Params.Logotext}}</div>
+          <div class="logo-container">
+            <div style="margin-top: -20px;">
+  						<a class="navbar-left" href="/">
+  							<img height="50" alt="{{.Site.Params.Title}}" src="{{.Site.Params.Logoimage}}">
+  						</a>
+  					</div>
+  					<div style="font-family: 'Syncopate'; font-size: 12px; font-weight: 400;">{{.Site.Params.Logotext}}</div>
+          </div>
 				</div>
 				{{$ishome := .IsHome}}
 				<div class="collapse navbar-collapse" id="st-navbar-collapse">
