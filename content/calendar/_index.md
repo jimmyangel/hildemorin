@@ -4,7 +4,7 @@ teachingschedule:
   - classcontactlink: 'http://www.emptyspoolsseminars.com/session3.html'
     classcontactname: Empty Spools Seminars
     classdetails: |
-      EMPTY SPOOLS Seminars 2018
+      EMPTY SPOOLS Seminars 2019
       Asilomar Conference Center
 
       Pacific Grove, California
