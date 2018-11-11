@@ -5,7 +5,7 @@ classesintro: |
 classes:
 - namekey: curves
   title: CURVES & MORE
-  duration: 2-3 days
+  duration: 2-5 days
   description: |
     Learn the art of piecing free form curves without pinning, marking
     or clipping.  Add interest by incorporating multi-directional and 3 dimensional
