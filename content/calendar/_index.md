@@ -1,16 +1,7 @@
 ---
-calendaryear: 2018
+calendaryear: 2019
 teachingschedule:
-  - classcontactlink: 'http://www.hildemorin.com/contact'
-    classcontactname: Hilde Morin
-    classdetails: |
-      <a href="/studio/">STUDIO</a> Class
-
-      Portland, OR
-    classname: City Scape (class full)
-    classnamekey: cityscape
-    date: 'March 5-8, 2018'
-  - classcontactlink: 'http://www.emptyspoolsseminars.com/session5.html'
+  - classcontactlink: 'http://www.emptyspoolsseminars.com/session3.html'
     classcontactname: Empty Spools Seminars
     classdetails: |
       EMPTY SPOOLS Seminars 2018
@@ -19,140 +10,99 @@ teachingschedule:
       Pacific Grove, California
     classname: IN and AROUND TOWN
     classnamekey: cityscape
-    date: 'April 13-18, 2018'
-  - classcontactlink: 'https://www.quiltgallery.net/module/class.htm?classId=148401'
-    classcontactname: Quilt Gallery
-    classdetails: |
-      Quilt Gallery
-
-      Kalispell, MT
-    classname: Art Bowls
-    classnamekey: bowlart
-    date: 'May 7 & 8, 2018'
-  - classcontactlink: 'https://www.quiltgallery.net/module/class.htm?classId=148407'
-    classcontactname: Quilt Gallery
-    classdetails: |
-      Quilt Gallery
-
-      Kalispell, MT
-    classname: CURVES & MORE ...
-    classnamekey: curves
-    date: 'May 9-13, 2018'
-  - classcontactlink: 'https://emeraldvalleyquilters.org/contact/'
-    classcontactname: Emerald Valley Quilters Guild
-    classdetails: |
-      Emerald Valley Quilters Guild
-
-      Eugene, OR
-    classname: Art Bowls
-    classnamekey: bowlart
-    date: 'May 18 & 19, 2018'
-  - classcontactlink: 'http://www.scvqa.org/'
-    classcontactname: Santa Clara Valley Quilt Association
-    classdetails: |
-      Santa Clara Valley Quilt Association
-
-      Santa Clara, CA
-    classname: CURVES & MORE ...
-    classnamekey: curves
-    date: 'June 23 & 24, 2018'
-  - classcontactlink: 'http://quiltersaffair.net/'
-    classcontactname: Stitchin' Post
-    classdetails: |
-      Quilters Affair 2018
-
-      Sisters, OR
-    classname: Art Bowls
-    classnamekey: bowlart
-    date: 'July 9 & 10, 2018'
-  - classcontactlink: 'http://quiltersaffair.net/'
-    classcontactname: Stitchin' Post
-    classdetails: |
-      Quilters Affair 2018
-      Sisters, OR
-    classname: CURVES & MORE ...
-    classnamekey: curves
-    date: 'July 11, 12 & 13, 2018'
-  - classcontactlink: 'https://stitchinpost.com/workshops--classes?cat=90'
-    classcontactname: Stitchin' Post
-    classdetails: |
-      Stitchin' Post
-
-      Sisters, OR
-    classname: Your Own Forest
-    classnamekey: yourownforest
-    date: 'September 24-28, 2018'
-  - classcontactlink: 'https://www.qfamuseum.org/quilt--fiber-arts-festival-2018.html'
-    classcontactname: QUILT & FIBER ARTS FESTIVAL
-    classdetails: |
-      Quiltfest
-
-      Everett, WA
-    classname: Art Bowls
-    classnamekey: bowlart
-    date: 'October 12 & 13, 2018'
-  - classcontactlink: 'http://quiltedstrait.com/your-own-village-class'
+    date: 'March 24-29, 2019'
+  - classcontactlink: 'https://quiltedstrait.com/bowl-art-with-hilde-morin-begins-4-11-19'
     classcontactname: Quilted Strait
     classdetails: |-
       Quilted Strait
 
       Port Gamble, WA
-    classname: Your Own Village
-    classnamekey: yourownvillage
-    date: 'October 25-27, 2018'
+    classname: Art Bowls
+    classnamekey: bowlart
+    date: 'April 11-12, 2019'
+  - classcontactlink: 'https://quiltedstrait.com/bowl-art-with-hilde-morin-begins-4-13-19'
+    classcontactname: Quilted Strait
+    classdetails: |-
+      Quilted Strait
+
+      Port Gamble, WA
+    classname: Art Bowls
+    classnamekey: bowlart
+    date: 'April 13-14, 2019'
+  - classcontactlink: 'https://www.quiltcrossing.com/'
+    classcontactname: The Quilt Crossing
+    classdetails: |
+      The Quilt Crossing
+
+      Boise, ID
+    classname: Art Bowls
+    classnamekey: bowlart
+    date: 'June 20-21, 2019'
+  - classcontactlink: 'https://www.quiltcrossing.com/'
+    classcontactname: The Quilt Crossing
+    classdetails: |
+      The Quilt Crossing
+
+      Boise, ID
+    classname: TBD
+    classnamekey:
+    date: 'June 22-23, 2019'
   - classcontactlink: 'http://www.hildemorin.com/contact'
     classcontactname: Hilde Morin
     classdetails: |
       <a href="/studio/">STUDIO</a> Class
 
       Portland, OR
-    classname: Your Own Forest
-    classnamekey: yourownforest
-    date: 'November 14, 15 & 16, 2018'
+    classname: Cityscape
+    classnamekey: cityscape
+    date: 'August 19-23, 2019'
+  - classcontactlink: 'https://stitchinpost.com/bowl-art-hilde-morin'
+    classcontactname: Stitchin' Post
+    classdetails: |
+      Stitchin' Post
+
+      Sisters, OR
+    classname: Art Bowls
+    classnamekey: bowlart
+    date: 'September 9-11, 2019'
+  - classcontactlink: 'http://www.hildemorin.com/contact'
+    classcontactname: Hilde Morin
+    classdetails: |
+      <a href="/studio/">STUDIO</a> Class
+
+      Portland, OR
+    classname: Curves and More
+    classnamekey: curves
+    date: 'October 28 - November 1, 2019'
 exhibits:
   - exhibitinfo: >-
-      "WEATHER"
 
-
-      <p align="center"><img class="img-responsive"
-      src="/images/uploads/calendar-2018-exhibit-weather-card.jpg"></p>
+      <br>"CIRCLES AND CYCLES"
 
 
       1838 Southwest Jefferson Street
 
+
       Portland, OR 97201-2496
 
 
-      April 2018
+      May 3-17, 2019
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
   - exhibitinfo: >-
-      <br> <p align="center"><img class="img-responsive"
-      src="/images/uploads/calendar-2018-hood-river-announcement.jpg"></p>
+
+      <br>"IF WALLS COULD TALK"
 
 
-      Columbia Center for the Arts
+      Visions Art Museum
 
 
-      215 Cascade Avenue,
+      2825 Dewey Road, Suite 100
 
-      Hood River, OR 97031
+      San Diego, CA 92106
 
 
-      October 3-28, 2018
-    exhibitlink: 'https://www.columbiaarts.org/'
+      July 20 - October 6, 2019
+    exhibitlink: 'http://www.visionsartmuseum.org/calendar/'
     exhibitname: Gallery Exhibition
-  - exhibitinfo: |-
-      <br>
-
-      Miller Hall at the World Forestry Center
-
-      4033 Southwest Canyon Road, Portland, OR 97221
-
-      November 3 - 4, 2018
-
-      Saturday & Sunday, 10-4pm
-    exhibitlink: 'https://www.sitkacenter.org/event/sitka-art-invitational'
-    exhibitname: 2018 Sitka Art Invitational
 ---
-
