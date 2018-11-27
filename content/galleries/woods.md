@@ -11,11 +11,10 @@ galleryitems:
 - title: SNOW AND ASH
   dimensions: 40x30
   caption: "<b>SNOW AND ASH</b><br>40 W&quot; x 30&quot; H<br>Hand dyed and commercial fabrics
-    machine pieced, machine quilted"
+    machine pieced, machine quilted<br><i>SOLD</i><br>at SITKA INVITATIONAL - 2018, Portland - OR"
   imageentry: images/2018-Snow-and-Ash-web-entry.jpg
   scale: 80%
   imageicon: images/2018-Snow-and-Ash-web-icon.jpg
-  price: '2,400'
 - title: UNDER THE MAPLE TREE
   dimensions: 44x24
   caption: "<b>UNDER THE MAPLE TREE</b><br>44 W&quot; x 24&quot; H<br>Curved piecing,
