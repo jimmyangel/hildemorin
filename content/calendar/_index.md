@@ -44,8 +44,8 @@ teachingschedule:
       The Quilt Crossing
 
       Boise, ID
-    classname: TBD
-    classnamekey:
+    classname: Curves and More
+    classnamekey: curves
     date: 'June 22-23, 2019'
   - classcontactlink: 'http://www.hildemorin.com/contact'
     classcontactname: Hilde Morin
