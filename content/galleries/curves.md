@@ -80,7 +80,7 @@ galleryitems:
       <b>HARVEST HITS - GRAPE STOMP, PEACH CRUMBLE &amp; TRIPPLE BERRY
       JAM</b><br>12 W&quot; x 12&quot; H TRYPTICH<br>Random curve pieced,
       machine quilted, jute and silk couching, cotton lace inserts, cotton lace
-      appliquéd<br>JUDGES' CHOICE, 2010 Quilting Arts Calendar
+      appliquéd<br><i>SOLD</i><br>JUDGES' CHOICE, 2010 Quilting Arts Calendar
       Contest<br>Featured in August/September 2009 Quilting Arts magazine
     dimensions: 12x12x3
     imageentry: images/2009-harvest-hits-web-entry.jpg
