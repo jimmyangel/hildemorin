@@ -7,13 +7,13 @@ summaryLength = 50
 googleAnalytics = "UA-73407918-1"
 
 [params]
-copyright = "Content copyright © 2006-2018 Hilde Morin"
+copyright = "Content copyright © 2006-2019 Hilde Morin"
 keywords = "fiber arts,quilting,contemporary quilting,color,texture,composition"
 logoimage = "/images/logo.svg"
 logotext = "HILDE MORIN FIBER ART"
 ogimage = "https://www.hildemorin.com/images/page.png"
 title = "Hilde Morin Fiber Art"
-updated = "November 2018"
+updated = "December 2018"
 
 [[params.menu]]
 menulabel = "Home"
