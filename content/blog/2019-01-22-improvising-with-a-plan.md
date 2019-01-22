@@ -5,7 +5,7 @@ tags:
   - design
   - mywork
 date: '2019-01-22T00:00:00-08:00'
-thumbnail: /images/uploads/blog-2019-improvising-with-a-plan-France-thumbnail-1.jpg
+thumbnail: /images/uploads/blog-2019-improvising-with-a-plan-france-thumbnail-1.jpg
 ---
 Lately, I have been a bit out of touch with the quilting world and friends, however, I have been quietly working in my studio on a few new Walls and Windows creations.  They are still in progress but I’d like to show you one of these as I am enjoying the process and the piecing challenge.
 
