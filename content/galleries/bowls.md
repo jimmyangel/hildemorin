@@ -2,6 +2,33 @@
 title: bowls
 galleryname: Bowls
 galleryitems:
+- title: AUTUMN GUSTS
+  dimensions: 17" Φ
+  caption: "<b>AUTUMN GUSTS</b><br>17 &quot; diameter<br>Hand dyed and commercial fabrics
+    on canvas, machine stitched"
+  imageentry: images/2019-autumn-gusts-web-entry.jpg
+  imageicon: images/2019-autumn-gusts-web-icon.jpg
+  price: '480'
+- title: SPRING BREEZE
+  dimensions: 17" Φ
+  caption: "<b>SPRING BREEZE</b><br>17 &quot; diameter<br>Hand dyed and commercial fabrics
+    on canvas, machine stitched"
+  imageentry: images/2019-spring-breeze-web-entry.jpg
+  imageicon: images/2019-spring-breeze-web-icon.jpg
+  price: '480'
+- title: PAINTED HILLS
+  dimensions: 17" Φ
+  caption: "<b>PAINTED HILLS</b><br>17 &quot; diameter<br>Hand dyed and commercial fabrics
+    on canvas, machine stitched"
+  imageentry: images/2019-painted-hills-web-entry.jpg
+  imageicon: images/2019-painted-hills-web-icon.jpg
+  price: '480'
+- title: FRACTURED
+  dimensions: 16" Φ
+  caption: "<b>FRACTURED</b><br>16 &quot; diameter<br>Hand dyed and commercial fabrics
+    on canvas, machine stitched"
+  imageentry: images/2018-fractured-web-entry.jpg
+  imageicon: images/2018-fractured-web-icon.jpg
 - title: PINOT
   dimensions: 17" Φ
   caption: "<b>PINOT</b><br>17 &quot; diameter<br>Hand dyed and commercial fabrics
