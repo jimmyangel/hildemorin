@@ -5,14 +5,14 @@ galleryitems:
 - title: AUTUMN GUSTS
   dimensions: 17" Φ
   caption: "<b>AUTUMN GUSTS</b><br>17 &quot; diameter<br>Hand dyed and commercial fabrics
-    on canvas, machine stitched"
+    on canvas, floating inserts, machine stitched"
   imageentry: images/2019-autumn-gusts-web-entry.jpg
   imageicon: images/2019-autumn-gusts-web-icon.jpg
   price: '480'
 - title: SPRING BREEZE
   dimensions: 17" Φ
   caption: "<b>SPRING BREEZE</b><br>17 &quot; diameter<br>Hand dyed and commercial fabrics
-    on canvas, machine stitched"
+    on canvas, floating inserts, machine stitched"
   imageentry: images/2019-spring-breeze-web-entry.jpg
   imageicon: images/2019-spring-breeze-web-icon.jpg
   price: '480'
