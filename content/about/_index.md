@@ -37,7 +37,7 @@ artistpublications:
   - publication: >-
       2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 / #139 pp
       26-27
-  - publication: 2018 - SAQA Art Quilt Quarterly Issue No. 13
+  - publication: ''
   - {}
   - {}
   - {}
