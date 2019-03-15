@@ -37,10 +37,6 @@ artistpublications:
   - publication: >-
       2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 / #139 pp
       26-27
-  - publication: ''
-  - {}
-  - {}
-  - {}
 artistassignments:
   - assignment: 'Infinity Art Gallery - Fiber Art Exhibit 2011: Juror'
 artistawards:
@@ -224,4 +220,3 @@ artistmemberships:
   - org: VISIONS - Visions Art Museum
     orglink: 'http://visionsartmuseum.org/'
 ---
-
