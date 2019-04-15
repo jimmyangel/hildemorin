@@ -82,9 +82,9 @@ exhibits:
 
       Portland, OR 97201-2496
 
-      May 3-17, 2019
+      May 3-25, 2019
 
-      ![](/images/uploads/2019-what-goes-around-web-size.jpg)
+      ![null](/images/uploads/2019-what-goes-around-web-size.jpg)
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
   - exhibitinfo: |-
