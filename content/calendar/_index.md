@@ -75,34 +75,29 @@ teachingschedule:
     classnamekey: curves
     date: 'October 28 - November 1, 2019'
 exhibits:
-  - exhibitinfo: >-
-
-      <br>"CIRCLES AND CYCLES"
-
+  - exhibitinfo: |-
+      <br>"WHAT GOES AROUND ..."
 
       1838 Southwest Jefferson Street
 
-
       Portland, OR 97201-2496
 
-
       May 3-17, 2019
+
+      ![](/images/uploads/2019-what-goes-around-web-size.jpg)
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
-  - exhibitinfo: >-
+  - exhibitinfo: |-
 
       <br>"IF WALLS COULD TALK"
 
-
       Visions Art Museum
 
-
       2825 Dewey Road, Suite 100
-
       San Diego, CA 92106
-
 
       July 20 - October 6, 2019
     exhibitlink: 'http://www.visionsartmuseum.org/calendar/'
     exhibitname: Gallery Exhibition
 ---
+
