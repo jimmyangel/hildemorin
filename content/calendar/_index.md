@@ -84,7 +84,7 @@ exhibits:
 
       May 3-25, 2019
 
-      ![null](/images/uploads/2019-what-goes-around-web-size.jpg)
+      ![null](/images/uploads/2019-what-goes-around-web-size_edited-1.jpg)
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
   - exhibitinfo: |-
