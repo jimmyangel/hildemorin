@@ -82,7 +82,15 @@ artistawards:
     year: '1998'
 artistexhibits:
   - exhibits:
-      - ''
+      - WEATHER - MIX group exhibit - Portland
+      - Oregon
+      - USA
+      - SITKA Northwest ART INVITATIONAL 2018 - Portland
+      - Oregon
+      - USA
+      - FIBER ART - Coulmbia Center for the Arts
+      - Hood River
+      - OR
     year: '2018'
   - exhibits:
       - >-
