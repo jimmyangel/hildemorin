@@ -100,6 +100,8 @@ exhibits:
     exhibitlink: 'http://www.visionsartmuseum.org/calendar/'
     exhibitname: Gallery Exhibition
   - exhibitinfo: |-
+
+
       Miller Hall, World Forestry Center
 
       4033 SW Canyon Road
