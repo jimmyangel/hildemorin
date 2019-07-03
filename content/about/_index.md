@@ -215,15 +215,11 @@ artistexhibits:
       - 'Montgomery County Fair - Maryland, USA'
     year: '1998'
 artistmemberships:
-  - org: CFG - Columbia FiberArts Guild
-    orglink: 'http://www.columbiafiberartsguild.org/'
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: 'http://www.saqa.com/'
-  - org: SDA - Surface Design Association
-    orglink: 'http://www.surfacedesign.org/'
-  - org: MIX - Material In eXtreme
-    orglink: 'http://mixpdx.blogspot.com/'
   - org: VISIONS - Visions Art Museum
     orglink: 'http://visionsartmuseum.org/'
+  - org: MIX - Portland Fiber Art Group
+    orglink: 'http://mixpdx.blogspot.com/'
 ---
 
