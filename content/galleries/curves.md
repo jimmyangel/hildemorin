@@ -3,7 +3,8 @@ title: curves
 galleryname: Curves
 galleryitems:
   - caption: >-
-      <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse appliqué, machine quilted
+      <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse
+      appliqué, machine quilted
     dimensions: 24x30
     imageentry: images/2015-wine-rows-web-entry.jpg
     imageicon: images/2015-wine-rows-web-icon.jpg
@@ -15,7 +16,7 @@ galleryitems:
     dimensions: 47x21
     imageentry: images/2014-Garden-Parade-web-entry.jpg
     imageicon: images/2014-Garden-Parade-web-icon.jpg
-    price: '1,500'
+    price: '1,100'
     scale: 80%
     title: GARDEN PARADE
   - caption: >-
@@ -104,3 +105,4 @@ galleryitems:
     imageicon: images/2007-Low-High-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
 ---
+
