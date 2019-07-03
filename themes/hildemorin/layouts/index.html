@@ -13,9 +13,11 @@
 				<div class="item {{if (eq $index 0)}}active{{end}}" style="background-image: url({{$element.imageurl}})">
 					<div class="carousel-caption container">
 						<div class="row">
+              {{if ne $element.legendbottom ""}}
 							<div style="background-color: rgba(0,0,0,0.4)" class="col-sm-8">
 								<p style="font-weight: 500;">{{$element.legendbottom | markdownify}}</p>
 							</div>
+              {{end}}
 						</div>
 					</div>
 				</div>
