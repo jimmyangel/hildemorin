@@ -102,7 +102,7 @@ exhibits:
   - exhibitinfo: |-
 
 
-      Miller Hall, World Forestry Center
+      <br>Miller Hall, World Forestry Center
 
       4033 SW Canyon Road
 
