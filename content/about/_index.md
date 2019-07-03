@@ -16,15 +16,15 @@ artiststatement: >-
   includes the creation of a first layer of improvised pieced fabric with the
   addition of a second layer of texture through extensive thread work and
   surface design.  My work is influenced by travels, nature walks and by my
-  multi-cultural background.<br><br> I was born in Caracas, Venezuela. Of
-  Belgian descent, I currently reside in Portland, Oregon, USA. I exhibit at
-  local and international venues including SOFA (Sculptured Objects and
-  Functional Art) Chicago and New York, Museum of the Americas-Florida, Galería
-  Exágono-México, CIART (Centro Integral de Arte Textil) in Argentina, Museum of
-  Contemporary Craft in Portland-Oregon, Oregon Historical Society Museum in
-  Portland, Oregon and Visions Art Museum in San Diego, California.<br><br>I
-  teach regularly at <a href="/studio/">my studio</a> and at other venues,
-  promoting the use of free form techniques in the construction of art quilts.
+  multi-cultural background.<br><br> Born in Caracas-Venezuela, of Belgian
+  descent, I currently reside in Portland, Oregon, USA. I exhibit at local and
+  international venues including SOFA (Sculptured Objects and Functional Art)
+  Chicago and New York, Museum of the Americas-Florida, Galería Exágono-México,
+  CIART (Centro Integral de Arte Textil) in Argentina, Museum of Contemporary
+  Craft in Portland-Oregon, Oregon Historical Society Museum in Portland, Oregon
+  and Visions Art Museum in San Diego, California.<br><br>I teach regularly at
+  <a href="/studio/">my studio</a> and at other venues, promoting the use of
+  free form techniques in the construction of art quilts.
 artistpublications:
   - publication: 2017 - SAQA Art Quilt Quarterly Issue No. 9
   - publication: 2016 - SAQA Portfolio 23
@@ -220,3 +220,4 @@ artistmemberships:
   - org: VISIONS - Visions Art Museum
     orglink: 'http://visionsartmuseum.org/'
 ---
+
