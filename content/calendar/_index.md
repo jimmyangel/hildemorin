@@ -99,5 +99,15 @@ exhibits:
       July 20 - October 6, 2019
     exhibitlink: 'http://www.visionsartmuseum.org/calendar/'
     exhibitname: Gallery Exhibition
+  - exhibitinfo: |-
+      Miller Hall, World Forestry Center
+
+      4033 SW Canyon Road
+
+      Portland, Oregon
+
+      Saturday-Sunday November 2 & 3, 2019
+    exhibitlink: 'https://www.sitkacenter.org/events'
+    exhibitname: SITKA Art Invitational
 ---
 
