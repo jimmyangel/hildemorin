@@ -84,6 +84,9 @@ artistawards:
     year: '1998'
 artistexhibits:
   - exhibits:
+    - ''
+    year: '2018'
+  - exhibits:
       - >-
         REFLECTION AND RENEWAL (Scenes from the Portland Japanese Garden) - MIX
         group exhibit - Portland, Oregon, USA
@@ -220,4 +223,3 @@ artistmemberships:
   - org: VISIONS - Visions Art Museum
     orglink: 'http://visionsartmuseum.org/'
 ---
-
