@@ -24,6 +24,9 @@ artiststatement: >-
   studio</a> and at other venues, promoting the use of free form techniques in
   the construction of art quilts.
 artistpublications:
+  - publication: 2019 - Curated Quilts – House – Issue No. 6
+  - publication: '2018 - SAQA Journal – Featured Artist - Volume 28, No.1'
+  - publication: 2018 - SAQA Art Quilt Quarterly Issue No.13
   - publication: 2017 - SAQA Art Quilt Quarterly Issue No. 9
   - publication: 2016 - SAQA Portfolio 23
   - publication: 2015 - 1000 Quilt Inspirations - Sandra Sider
