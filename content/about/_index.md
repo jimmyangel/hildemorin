@@ -84,9 +84,7 @@ artistexhibits:
   - exhibits:
       - WEATHER - MIX group exhibit - Portland Oregon USA
       - SITKA Northwest ART INVITATIONAL 2018 - Portland Oregon USA
-      - FIBER ART - Columbia Center for the Arts
-      - Hood River
-      - Oregon
+      - FIBER ART - Columbia Center for the Arts - Hood River Oregon
     year: '2018'
   - exhibits:
       - >-
