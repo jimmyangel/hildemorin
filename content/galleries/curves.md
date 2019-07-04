@@ -6,8 +6,8 @@ galleryitems:
       <b>TULIP ENVY</b><br>40 W&quot; x 30&quot; H<br>Curved piecing, machine
       quilted
     dimensions: 40x30
-    imageentry: images/2019-tulip-envy-web-entry.jpg
-    imageicon: images/2019-tulip-envy-web-icon.jpg
+    imageentry: images/2019-Tulip-Envy-web-entry.jpg
+    imageicon: images/2019-Tulip-Envy-web-icon.jpg
     price: '1200'
     title: TULIP ENVY
   - caption: >-
@@ -113,4 +113,3 @@ galleryitems:
     imageicon: images/2007-Low-High-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
 ---
-
