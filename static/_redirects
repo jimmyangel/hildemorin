@@ -1,5 +1,3 @@
 /galleries  /#portfolio
 /contact  /#contact
 /gallery/* /galleries/:splat
-/*
-  Access-Control-Allow-Origin: *
