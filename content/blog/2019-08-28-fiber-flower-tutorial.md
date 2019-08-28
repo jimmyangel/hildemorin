@@ -52,7 +52,7 @@ With sharp scissors cut through that X (Yes, you are cutting through your beauti
 
 <img class="img-responsive" src="/images/uploads/blog-flowers-tutorial-6.jpg">
 
-Working from the inside of the flower, put some epoxy putty on the cylinder that is peeking through and place the rock on top.  Push down and let the epoxy dry.  Once dried, you’ll notice that it will be hard to detach, that’s why I use silicone as my glue.  To fine tune, wrap your decorative yarn around the visible silicone under your rock until it looks nice and clean.  Tie and cut off.  Wrap the stem with floral tape and you are done!\
+Working from the inside of the flower, put some epoxy putty on the cylinder that is peeking through and place the rock on top.  Push down and let the epoxy dry.  Once dried, you’ll notice that it will be hard to detach, that’s why I use epoxy as my glue.  To fine tune, wrap your decorative yarn around the visible epoxy under your rock until it looks nice and clean.  Tie and cut off.  Wrap the stem with floral tape and you are done!\
 If your wooden cylinder  does not feel snug around the wire, you can add a drop of crazy glue to secure it.
 
 <img class="img-responsive" src="/images/uploads/blog-flowers-tutorial-7.jpg">
