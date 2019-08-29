@@ -1,7 +1,7 @@
 'use strict';
 
 var MAILGUN_LIST_SERVICE_URL = 'https://us-central1-logical-bloom-179219.cloudfunctions.net/addToMailgunList';
-var STATICMAN_SERVICE_URL = 'https://dev.staticman.net/v3/entry/github/jimmyangel/hildemorin/master/comments';
+var STATICMAN_SERVICE_URL = 'https://dev.staticman.net/v3/entry/github/jimmyangel/hildemorin/master';
 
 // Get url variables
 var getUrlVars = function () {
