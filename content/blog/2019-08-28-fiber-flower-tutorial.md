@@ -23,7 +23,6 @@ Cover the zigzag stitches with fabric inside and outside of the flower, decorate
 
 Now onto the mounting part! Of course you can figure out your own method but here I will describe what I have come up with.  My goal was to create a flower that would be sturdy and could endure rough handling.
 
-
 You will need:
 a wooden dowel (approx. ½” diameter),
 clamps,
@@ -34,7 +33,6 @@ flat rock,
 saw,
 sand paper and
 epoxy putty.
-
 
 You also need a drill with a bit that is very close to the diameter of your wire, and a piece of decorative yarn.
 
@@ -62,4 +60,4 @@ ENJOY!
 
 <img class="img-responsive" src="/images/uploads/blog-flowers-tutorial-8.jpg">
 
-_Notice that my blog is not set up to respond to comments individually.  However, I will answer questions in separate comments._
+_THE COMMENTS SECTION IS CURRENTLY HAVING SOME ISSUES ... Tech support husband is working on it.  If you have questions, you can ask them via FB, INSTAGRAM or email.  Thank you for being patient :)_
