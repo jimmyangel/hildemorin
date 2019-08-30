@@ -60,4 +60,4 @@ ENJOY!
 
 <img class="img-responsive" src="/images/uploads/blog-flowers-tutorial-8.jpg">
 
-_THE COMMENTS SECTION IS CURRENTLY HAVING SOME ISSUES ... Tech support husband is working on it.  If you have questions, you can ask them via FB, INSTAGRAM or email.  Thank you for being patient :)_
+_Notice that my blog is not setup to answer comments/questions individually.  However, I will answer questions by posting a comment._
