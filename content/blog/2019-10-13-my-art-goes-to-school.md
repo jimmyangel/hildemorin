@@ -7,7 +7,7 @@ thumbnail: /images/uploads/blog-2019-cannady-school-thumbnail.jpg
 ---
 Yes, my quilts go to school in North Clackamas, Oregon!
 
-About a year ago, in the fall of 2018, Cindy Detchon, Executive Director, Community Relations of the North Clackamas School district contacted me about using my art in a new public school.  She asked if I would be interested in having images of some of my forest themed quilts turned into a vinyl panels to be installed on the wall of a new elementary school they were building in Happy Valley, North Clackamas.
+About a year ago, in the fall of 2018, Cindy Detchon, Executive Director, Community Relations of the North Clackamas School district contacted me about using my art in a new public school.  She asked if I would be interested in having images of some of my forest themed quilts turned into vinyl panels to be installed on the wall of a new elementary school they were building in Happy Valley, North Clackamas.
 
 This school is named after [Beatrice Morrow Cannady](https://en.wikipedia.org/wiki/Beatrice_Morrow_Cannady), the first one in North Clackamas to be named after a woman or a person of color. She was a renowned civil rights advocate in early 20th-century Oregon with nearly 25 years of fighting as a leading activist.
 
