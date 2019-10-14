@@ -15,17 +15,17 @@ This school is named after [Beatrice Morrow Cannady](https://en.wikipedia.org/wi
 
 So, early this year, in January 2019, we set a meeting at my studio with Cindy and Brett Lundmark, Project Designer with BRIC Architecture, Inc. They showed me drawings of the school and the potential walls where the images would be installed. We reviewed images of my quilts, dimensions, colors and resolutions and came up with a few quilt candidates.
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-1.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-1.jpg">
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-2.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-2.jpg">
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-3.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-3.jpg">
 
 
 
 Over the next few months we continued back and forth emailing of images and renderings.  Some images looked great on paper and on the screen, but unfortunately I did not have the resolution required and taking new photos was out of the questions as these quilts had been sold and where out of my reach.  Here are some examples of quilts  that did not make it:
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-4.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-4.jpg">
 
 So I continued working with Brett and we finally settled on “Snow and Ash” and “Afternoon Glow”, a winter scene and a fall scene.  I was delighted!
 
@@ -33,15 +33,15 @@ The next few months were busy as everyone was working hard to meet deadlines. Th
 
 I wasn’t able to attend the grand opening but Cindy kindly offered to give me a personal tour of the school. I was captivated by the beautiful setting, the natural surroundings and the open design, providing so much natural light to the classrooms, halls and common areas.
 
-You can visit the school’s website for info, photos and a video of the opening ceremony [here](https://www.nclack.k12.or.us/bmc) 
+You can visit the school’s website for info, photos and a video of the opening ceremony [here](https://www.nclack.k12.or.us/bmc)
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-5.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-5.jpg">
 
 Two stairways lead to the upper floor of the school and that is where images of my quilts decorate the walls, Snow and Ash on one side of the school and Afternoon Glow on the other side.  
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-6.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-6.jpg">
 
-<img class="img-responsive" src="/images/uploads/blog-2019-Cannady-school-7.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2019-cannady-school-7.jpg">
 
 It was a pleasure to work with Cindy and Brett and I feel so honored to have my work on the walls of the Beatrice Morrow Cannady Elementary School.  I can see how they integrate the school with its natural surroundings, adding to the peaceful setting, and providing a splash of color.
 
