@@ -11,7 +11,7 @@ About a year ago, in the fall of 2018, Cindy Detchon, Executive Director, Commun
 
 This school is named after [Beatrice Morrow Cannady](https://en.wikipedia.org/wiki/Beatrice_Morrow_Cannady), the first one in North Clackamas to be named after a woman or a person of color. She was a renowned civil rights advocate in early 20th-century Oregon with nearly 25 years of fighting as a leading activist.
 
-Of course I was very excited about this project. Even though, I was a little bit concerned about the resolution requirements for these large panels, I was ready to work with the team!
+Of course I was very excited about this project. Even though I was a little bit concerned about the resolution requirements for these large panels, I was ready to work with the team!
 
 So, early this year, in January 2019, we set a meeting at my studio with Cindy and Brett Lundmark, Project Designer with BRIC Architecture, Inc. They showed me drawings of the school and the potential walls where the images would be installed. We reviewed images of my quilts, dimensions, colors and resolutions and came up with a few quilt candidates.
 
