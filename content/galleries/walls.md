@@ -2,6 +2,12 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
+  - caption: "<b>Carrefour (Road Crossing)</b><br>30 W&quot; x 47&quot; H<br>Visiting France means aimless strolls through narrow and centuries old streets, viewing the old masters and modern art, savoring French cuisine, and listening to music in the squares. \rInspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France."
+    dimensions: 30x47
+    imageentry: /images/uploads/carrefour-web-entry.jpg
+    imageicon: /images/uploads/carrefour-web-icon.jpg
+    price: '2,200'
+    title: CARREFOUR
   - caption: >-
       <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
       charming neighborhood in Venezuela highlighting its old colonial
@@ -132,12 +138,5 @@ galleryitems:
     imageicon: images/2014-Extreme-Color-Window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
-  - caption: "<b>Carrefour (Road Crossing)</b><br>30 W&quot; x 47&quot; H<br>Visiting France means aimless strolls through narrow and centuries old streets, viewing the old masters and modern art, savoring French cuisine, and listening to music in the squares. \rInspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France."
-    dimensions: 30x47
-    imageentry: /uploads/images/carrefour-web-entry.jpg
-    imageicon: /uploads/images/carrefour-web-icon.jpg
-    price: '2,200'
-    title: CARREFOUR
-  - {}
 ---
 
