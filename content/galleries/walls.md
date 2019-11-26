@@ -2,6 +2,17 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
+  - caption: >-
+      <b>White Village (Pueblo Blanco)</b><br>50 W&quot; x 45&quot; H<br>Narrow
+      streets, stairways and alleys take you along these hilly villages in Spain
+      inviting you to discover its ancient history. “Pueblo Blanco” was inspired
+      by the white villages of Andalucía in southern Spain, where clusters of
+      striking white houses burst with tradition and charm.
+    dimensions: 50x45
+    imageentry: /images/uploads/pueblo-blanco-web-entry.jpg
+    imageicon: /images/uploads/pueblo-blanco-web-icon.jpg
+    price: '3,500'
+    title: PUEBLO BLANCO
   - caption: "<b>Carrefour (Road Crossing)</b><br>30 W&quot; x 47&quot; H<br>Visiting France means aimless strolls through narrow and centuries old streets, viewing the old masters and modern art, savoring French cuisine, and listening to music in the squares. \rInspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France."
     dimensions: 30x47
     imageentry: /images/uploads/carrefour-web-entry.jpg
@@ -138,16 +149,5 @@ galleryitems:
     imageicon: images/2014-Extreme-Color-Window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
-  - caption: >-
-      <b>White Village (Pueblo Blanco)</b><br>50 W&quot; x 45&quot; H<br>Narrow
-      streets, stairways and alleys take you along these hilly villages in Spain
-      inviting you to discover its ancient history. “Pueblo Blanco” was inspired
-      by the white villages of Andalucía in southern Spain, where clusters of
-      striking white houses burst with tradition and charm.
-    dimensions: 50x45
-    imageentry: /images/uploads/pueblo-blanco-web-entry.jpg
-    imageicon: /images/uploads/pueblo-blanco-web-icon.jpg
-    price: '3,500'
-    title: PUEBLO BLANCO
 ---
 
