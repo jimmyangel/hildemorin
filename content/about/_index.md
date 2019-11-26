@@ -24,13 +24,15 @@ artiststatement: >-
   studio</a> and at other venues, promoting the use of free form techniques in
   the construction of art quilts.
 artistpublications:
-  - publication: 2019 - Curated Quilts – House – Issue No. 6
+  - publication: >-
+      2019 - Curated Quilts – House – Issue No. 6, 2019 - SAQA Art Quilt
+      Quarterly Issue No.15
   - publication: '2018 - SAQA Journal – Featured Artist - Volume 28, No.1'
   - publication: 2018 - SAQA Art Quilt Quarterly Issue No.13
   - publication: 2017 - SAQA Art Quilt Quarterly Issue No. 9
   - publication: 2016 - SAQA Portfolio 23
   - publication: 2015 - 1000 Quilt Inspirations - Sandra Sider
-  - publication: 2014 - VISIONS Art Museum 2014 Catalog - The Sky Is The Limit
+  - publication: 2014 - VISIONS Art Museum - The Sky Is The Limit
   - publication: 2014 - Machine Quilting Unlimited - CityScape GALLERY
   - publication: 2012 - SAQA Journal - MEMBER GALLERY - Cities and Villages - Fall 2012
   - publication: 2009 - QUILTING ARTS MAGAZINE - August/September 2009
@@ -84,11 +86,6 @@ artistawards:
         presenter: 'Montgomery County Fair - Maryland, USA'
     year: '1998'
 artistexhibits:
-  - exhibits:
-      - WHAT GOES AROUND - MIX group exhibit - Portland Oregon USA
-      - IF WALLS COULD TALK - SOLO exhibit - VISIONS Art Museum San Diego CA
-      - SITKA Northwest ART INVITATIONAL 2019 - Portland Oregon USA
-    year: '2019'
   - exhibits:
       - WEATHER - MIX group exhibit - Portland Oregon USA
       - SITKA Northwest ART INVITATIONAL 2018 - Portland Oregon USA
