@@ -132,5 +132,12 @@ galleryitems:
     imageicon: images/2014-Extreme-Color-Window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
+  - caption: "<b>Carrefour (Road Crossing)</b><br>30 W&quot; x 47&quot; H<br>Visiting France means aimless strolls through narrow and centuries old streets, viewing the old masters and modern art, savoring French cuisine, and listening to music in the squares. \rInspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France."
+    dimensions: 30x47
+    imageentry: images/carrefour-web-entry.jpg
+    imageicon: images/carrefour-web-icon.jpg
+    price: '2,200'
+    title: CARREFOUR
+  - {}
 ---
 
