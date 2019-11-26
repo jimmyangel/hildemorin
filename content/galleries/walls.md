@@ -148,6 +148,6 @@ galleryitems:
     imageentry: /uploads/images/pueblo-blanco-web-entry.jpg
     imageicon: /uploads/images/pueblo-blanco-web-icon.jpg
     price: '3,500'
-    title: PUEBLO BLANCO (White Village)
+    title: PUEBLO BLANCO
 ---
 
