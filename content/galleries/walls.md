@@ -24,8 +24,8 @@ galleryitems:
   - caption: >-
       <b>Mercado (Market)</b><br>30 W&quot; x 40&quot; H<br>A busy day at the
       Portland Mercado celebrating the diverse Latin American cultures through
-      food and entertainment.<br><i>SOLD</i><br>at VISIONS ART MUSEUM - 2019,
-      San Diego - CA
+      food and entertainment.<br><i>SOLD</i><br>at VISIONS ART MUSEUM, San Diego
+      - CA
     dimensions: 30x40
     imageentry: images/mercado-web-entry.jpg
     imageicon: images/mercado-web-icon.jpg
