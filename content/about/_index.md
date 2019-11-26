@@ -214,6 +214,11 @@ artistexhibits:
   - exhibits:
       - 'Montgomery County Fair - Maryland, USA'
     year: '1998'
+  - exhibits:
+      - CYCLES AND CIRCLES - MIX group exhibit - Portland Oregon USA
+      - IF WALLS COULD TALK - SOLO exhibit - VISIONS Art Museum San Diego CA
+      - SITKA Northwest ART INVITATIONAL 2019 - Portland Oregon USA
+    year: '2019'
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: 'http://www.saqa.com/'
