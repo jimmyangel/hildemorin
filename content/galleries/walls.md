@@ -128,7 +128,7 @@ galleryitems:
       rocks
     dimensions: 18x18
     imageentry: images/2014-Material-in-Extreme-Window-entry.jpg
-    imageicon: images/2014-Material-in-Extreme-Window-icon.jpg
+    imageicon: /images/uploads/2014-material-in-extreme-window-icon.jpg
     price: '380'
     scale: 80%
     title: MATERIAL IN EXTREME
@@ -137,7 +137,7 @@ galleryitems:
       H<br>Machine pieced and quilted
     dimensions: 18x18
     imageentry: images/2014-Extreme-Form-Window-entry.jpg
-    imageicon: images/2014-Extreme-Form-Window-icon.jpg
+    imageicon: /images/uploads/2014-extreme-form-window-icon.jpg
     price: '380'
     scale: 80%
     title: EXTREME FORM
@@ -146,7 +146,7 @@ galleryitems:
       H<br>Machine pieced and reverse appliqué
     dimensions: 18x18
     imageentry: images/2014-Extreme-Color-Window-web-entry.jpg
-    imageicon: images/2014-Extreme-Color-Window-web-icon.jpg
+    imageicon: /images/uploads/2014-extreme-color-window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
 ---
