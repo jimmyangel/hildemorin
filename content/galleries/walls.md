@@ -118,7 +118,7 @@ galleryitems:
       <b>WINDOW OF TANGO STREET 2</b><br>12 W&quot; x 12&quot; H<br>Machine
       pieced and reverse appliqué
     dimensions: 12x12
-    imageentry: images/2013-Window-of-Tango-Street-2-web-entry.jpg
+    imageentry: /images/uploads/2013-Window-of-Tango-Street-2-web-entry.jpg
     imageicon: images/2013-Window-of-Tango-Street-2-web-icon.jpg
     price: '300'
     title: TANGO STREET 2
