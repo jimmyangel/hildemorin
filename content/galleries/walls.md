@@ -29,7 +29,7 @@ galleryitems:
     dimensions: 30x40
     imageentry: images/mercado-web-entry.jpg
     imageicon: images/mercado-web-icon.jpg
-    price: '1,200'
+    price: ''
     title: MERCADO
   - caption: >-
       <b>RANDOM WINDOWS</b><br>48 W&quot; x 28&quot; H<br>Cuenca-Spain:  A
