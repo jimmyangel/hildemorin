@@ -145,8 +145,8 @@ galleryitems:
       by the white villages of Andalucía in southern Spain, where clusters of
       striking white houses burst with tradition and charm.
     dimensions: 50x45
-    imageentry: /uploads/images/pueblo-blanco-web-entry.jpg
-    imageicon: /uploads/images/pueblo-blanco-web-icon.jpg
+    imageentry: /images/uploads/pueblo-blanco-web-entry.jpg
+    imageicon: /images/uploads/pueblo-blanco-web-icon.jpg
     price: '3,500'
     title: PUEBLO BLANCO
 ---
