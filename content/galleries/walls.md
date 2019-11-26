@@ -110,7 +110,7 @@ galleryitems:
       pieced and reverse appliqué
     dimensions: 12x12
     imageentry: images/2013-Window-of-Tango-Street-1-web-entry.jpg
-    imageicon: images/2013-Window-of-Tango-Street-1-web-icon.jpg
+    imageicon: /images/uploads/2013-Window-of-Tango-Street-1-web-icon.jpg
     price: '300'
     scale: 80%
     title: TANGO STREET 1
