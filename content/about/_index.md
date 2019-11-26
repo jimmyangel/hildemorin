@@ -85,6 +85,11 @@ artistawards:
     year: '1998'
 artistexhibits:
   - exhibits:
+      - WHAT GOES AROUND - MIX group exhibit - Portland Oregon USA
+      - IF WALLS COULD TALK - SOLO exhibit - VISIONS Art Museum San Diego CA
+      - SITKA Northwest ART INVITATIONAL 2019 - Portland Oregon USA
+    year: '2019'
+  - exhibits:
       - WEATHER - MIX group exhibit - Portland Oregon USA
       - SITKA Northwest ART INVITATIONAL 2018 - Portland Oregon USA
       - FIBER ART - Columbia Center for the Arts - Hood River Oregon
@@ -214,11 +219,6 @@ artistexhibits:
   - exhibits:
       - 'Montgomery County Fair - Maryland, USA'
     year: '1998'
-  - exhibits:
-      - CYCLES AND CIRCLES - MIX group exhibit - Portland Oregon USA
-      - IF WALLS COULD TALK - SOLO exhibit - VISIONS Art Museum San Diego CA
-      - SITKA Northwest ART INVITATIONAL 2019 - Portland Oregon USA
-    year: '2019'
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: 'http://www.saqa.com/'
