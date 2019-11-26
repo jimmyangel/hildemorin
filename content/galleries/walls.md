@@ -138,5 +138,16 @@ galleryitems:
     imageicon: images/2014-Extreme-Color-Window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
+  - caption: >-
+      <b>White Village (Pueblo Blanco)</b><br>50 W&quot; x 45&quot; H<br>Narrow
+      streets, stairways and alleys take you along these hilly villages in Spain
+      inviting you to discover its ancient history. “Pueblo Blanco” was inspired
+      by the white villages of Andalucía in southern Spain, where clusters of
+      striking white houses burst with tradition and charm.
+    dimensions: 50x45
+    imageentry: /uploads/images/pueblo-blanco-web-entry.jpg
+    imageicon: /uploads/images/pueblo-blanco-web-icon.jpg
+    price: '3,500'
+    title: PUEBLO BLANCO (White Village)
 ---
 
