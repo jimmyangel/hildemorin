@@ -59,6 +59,8 @@ exhibits:
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
   - exhibitinfo: |-
+
+
       Montavilla Sewing Centers - Lake Oswego
 
       429 1st St
