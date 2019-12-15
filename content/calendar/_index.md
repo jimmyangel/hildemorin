@@ -49,14 +49,25 @@ teachingschedule:
     date: 'October 26-30, 2020'
 exhibits:
   - exhibitinfo: |-
-      <br>"THE WRITINGS ON THE WALL"
+      <br>"THE WRITING IS ON THE WALL"
 
       1838 Southwest Jefferson Street
 
       Portland, OR 97201-2496
 
-      May 3-25, 2019
+      April 17-May 2, 2020
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit
+  - exhibitinfo: |-
+      Quilt Showcase
+
+      Montavilla Sewing Centers - Lake Oswego
+
+      429 1st St
+
+      Lake Oswego, OR 97034
+
+      June 1 - June 30, 2020
+    exhibitname: QUILT SHOWCASE
 ---
 
