@@ -24,9 +24,8 @@ artiststatement: >-
   studio</a> and at other venues, promoting the use of free form techniques in
   the construction of art quilts.
 artistpublications:
-  - publication: >-
-      2019 - Curated Quilts – House – Issue No. 6, 2019 - SAQA Art Quilt
-      Quarterly Issue No.15
+  - publication: '2019 - Curated Quilts – House – Issue No. 6 '
+  - publication: 2019 - SAQA Art Quilt Quarterly Issue No.15
   - publication: '2018 - SAQA Journal – Featured Artist - Volume 28, No.1'
   - publication: 2018 - SAQA Art Quilt Quarterly Issue No.13
   - publication: 2017 - SAQA Art Quilt Quarterly Issue No. 9
@@ -40,6 +39,7 @@ artistpublications:
   - publication: >-
       2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 / #139 pp
       26-27
+  - {}
 artistassignments:
   - assignment: 'Infinity Art Gallery - Fiber Art Exhibit 2011: Juror'
 artistawards:
