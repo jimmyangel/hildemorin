@@ -87,9 +87,10 @@ artistawards:
     year: '1998'
 artistexhibits:
   - exhibits:
-      - IF WALLS COULD TALK - Solo Exhibit - San Diego CA
-      - WHAT GOES AROUND - MIX group exhibit - Portland Oregon USA
-      - SITKA Northwest ART INVITATIONAL 2019 - Portland Oregon USA
+      - IF WALLS COULD TALK - Solo Exhibit at VISIONS Art Museum - San Diego
+      - CA
+      - WHAT GOES AROUND - MIX group exhibit - Portland OR USA
+      - SITKA Northwest ART INVITATIONAL 2019 - Portland OR USA
     year: '2019'
   - exhibits:
       - WEATHER - MIX group exhibit - Portland Oregon USA
