@@ -38,7 +38,7 @@ You end up with 8 cut wedges.
 
 Using your zigzag foot and both hands (this is where it got tricky for me to hold my camera) starting at the point of your wedge, get ready to zigzag your way to the outside of your bowl.
 
-Use a wide and short zigzag stitch (I set it to a 4-5 inches width and 1 to 1 ½ inches length)
+Use a wide and short zigzag stitch (I set it to a 4-5 width and 1 to 1 ½ length)
 
 Sew from the point of your wedge to the edge of the bowl making sure the zig falls on the left and the zag falls on the right side of your wedge, pushing it closed.  If the stitching is not nice and even, don’t worry because this will all get covered up later.
 
