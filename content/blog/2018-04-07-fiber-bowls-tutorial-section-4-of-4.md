@@ -12,7 +12,7 @@ thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-4.jpg
 
 <img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-12.jpg">
 
-Now onto finishing the edge of the bowl:  after applying fusible web to the fabric you’ll be using for this, cut a few strips about ¾” wide and altogether long enough to cover the entire circumference of your bowl.  I didn’t cut them on the bias because I didn’t have enough fabric…it was just a bit trickier but it worked.
+Now onto finishing the edge of the bowl:  after applying fusible web to the fabric you’ll be using for this, cut a few on-the-bias strips about ¾” wide and altogether long enough to cover the entire circumference of your bowl.  I didn’t cut them on the bias because I didn’t have enough fabric…it was just a bit trickier but it worked.
 
 Fold the strips in half lengthwise to create a crease. While giving it a slight pull, carefully fuse it to the outer edge of your bowl using the crease as your guide for where to fold to the back of your bowl.
 
