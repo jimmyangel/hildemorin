@@ -2,6 +2,12 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
+  - caption: <b>Please Remove Boots and Guns</b><br>40 W&quot; x 40&quot; H<br>
+    dimensions: 40x40
+    imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
+    imageicon: /images/uploads/please-remove-boots-and-guns-web-icon.jpg
+    price: '2,200'
+    title: PLEASE REMOVE BOOTS AND GUNS
   - caption: >-
       <b>White Village (Pueblo Blanco)</b><br>50 W&quot; x 45&quot; H<br>Narrow
       streets, stairways and alleys take you along these hilly villages in Spain
@@ -149,11 +155,4 @@ galleryitems:
     imageicon: /images/uploads/2014-extreme-color-window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
-  - caption: <b>Please Remove Boots and Guns</b><br>40 W&quot; x 40&quot; H<br>
-    dimensions: 40x40
-    imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
-    imageicon: /images/uploads/please-remove-boots-and-guns-web-icon.jpg
-    price: '2,200'
-    title: PLEASE REMOVE BOOTS AND GUNS
 ---
-
