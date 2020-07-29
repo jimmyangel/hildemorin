@@ -11,7 +11,7 @@ galleryitems:
     dimensions: 50x45
     imageentry: /images/uploads/pueblo-blanco-web-entry.jpg
     imageicon: /images/uploads/pueblo-blanco-web-icon.jpg
-    price: '3,500'
+    price: '3,000'
     title: PUEBLO BLANCO
   - caption: "<b>Carrefour (Road Crossing)</b><br>30 W&quot; x 47&quot; H<br>Visiting France means aimless strolls through narrow and centuries old streets, viewing the old masters and modern art, savoring French cuisine, and listening to music in the squares. \rInspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France."
     dimensions: 30x47
@@ -149,5 +149,11 @@ galleryitems:
     imageicon: /images/uploads/2014-extreme-color-window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
+  - caption: <b>Please Remove Boots and Guns</b><br>40 W&quot; x 40&quot; H<br>
+    dimensions: 40x40
+    imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
+    imageicon: /images/uploads/please-remove-boots-and-guns-web-icon.jpg
+    price: '2,200'
+    title: PLEASE REMOVE BOOTS AND GUNS
 ---
 
