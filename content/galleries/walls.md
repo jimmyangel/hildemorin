@@ -2,7 +2,7 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
-  - caption: <b>Please Remove Boots and Guns</b><br>40 W&quot; x 40&quot; H<br>
+  - caption: <b>Please Remove Boots and Guns</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
     imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
     imageicon: /images/uploads/please-remove-boots-and-guns-web-icon.jpg
@@ -138,6 +138,7 @@ galleryitems:
     price: '380'
     scale: 80%
     title: MATERIAL IN EXTREME
+  - title: PORTO
   - caption: >-
       <b>EXTREME FORM - A STUDY OF DISTORTION</b><br>18 W&quot; x 18&quot;
       H<br>Machine pieced and quilted
@@ -156,3 +157,4 @@ galleryitems:
     price: '380'
     title: EXTREME COLOR
 ---
+
