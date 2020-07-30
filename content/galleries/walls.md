@@ -2,14 +2,14 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
-  - caption: <b>Please Remove Boots and Guns</b><br>40&quot; W x 40&quot; H<br>
+  - caption: <b>PLEASE REMOVE BOOTS AND GUNS</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
     imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
     imageicon: /images/uploads/please-remove-boots-and-guns-web-icon.jpg
     price: '2,200'
     title: PLEASE REMOVE BOOTS AND GUNS
   - caption: >-
-      <b>White Village (Pueblo Blanco)</b><br>50 W&quot; x 45&quot; H<br>Narrow
+      <b>PUEBLO BLANCO (White Village)</b><br>50&quot; W x 45&quot; H<br>Narrow
       streets, stairways and alleys take you along these hilly villages in Spain
       inviting you to discover its ancient history. “Pueblo Blanco” was inspired
       by the white villages of Andalucía in southern Spain, where clusters of
@@ -19,7 +19,14 @@ galleryitems:
     imageicon: /images/uploads/pueblo-blanco-web-icon.jpg
     price: '3,000'
     title: PUEBLO BLANCO
-  - caption: "<b>Carrefour (Road Crossing)</b><br>30 W&quot; x 47&quot; H<br>Visiting France means aimless strolls through narrow and centuries old streets, viewing the old masters and modern art, savoring French cuisine, and listening to music in the squares. \rInspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France."
+  - caption: >-
+      <b>CARREFOUR (Road Crossing)</b><br>30&quot; W x 47&quot; H<br>Visiting
+      France means aimless strolls through narrow and centuries old streets,
+      viewing the old masters and modern art, savoring French cuisine, and
+      listening to music in the squares. 
+
+      Inspired by a street in the city of Lourdes, “Carrefour” could have been
+      any other street in France.
     dimensions: 30x47
     imageentry: /images/uploads/carrefour-web-entry.jpg
     imageicon: /images/uploads/carrefour-web-icon.jpg
