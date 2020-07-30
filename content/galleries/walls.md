@@ -168,7 +168,7 @@ galleryitems:
       quilted<br><i>SOLD</i><br>Portland, OR
     dimensions: 60x30
     imageentry: /images/uploads/porto-web-entry.jpg
-    imageicon: /images/uploads/porto-web-entry.jpg
+    imageicon: /images/uploads/porto-web-icon.jpg
     title: PORTO
 ---
 
