@@ -2,6 +2,14 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
+  - caption: >-
+      <b>PORTO</b><br>60&quot; W x 30&quot; H<br>Hand dyed, hand stamped and
+      commercial fabrics, machine pieced, machine
+      quilted<br><i>SOLD</i><br>Portland, OR
+    dimensions: 60x30
+    imageentry: /images/uploads/porto-web-entry.jpg
+    imageicon: /images/uploads/porto-web-icon.jpg
+    title: PORTO
   - caption: <b>PLEASE REMOVE BOOTS AND GUNS</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
     imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
@@ -23,7 +31,7 @@ galleryitems:
       <b>CARREFOUR (Road Crossing)</b><br>30&quot; W x 47&quot; H<br>Visiting
       France means aimless strolls through narrow and centuries old streets,
       viewing the old masters and modern art, savoring French cuisine, and
-      listening to music in the squares. 
+      listening to music in the squares.
 
       Inspired by a street in the city of Lourdes, “Carrefour” could have been
       any other street in France.
@@ -162,13 +170,4 @@ galleryitems:
     imageicon: /images/uploads/2014-extreme-color-window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
-  - caption: >-
-      <b>PORTO</b><br>60&quot; W x 30&quot; H<br>Hand dyed, hand stamped and
-      commercial fabrics, machine pieced, machine
-      quilted<br><i>SOLD</i><br>Portland, OR
-    dimensions: 60x30
-    imageentry: /images/uploads/porto-web-entry.jpg
-    imageicon: /images/uploads/porto-web-icon.jpg
-    title: PORTO
 ---
-
