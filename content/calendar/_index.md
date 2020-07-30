@@ -7,7 +7,7 @@ teachingschedule:
       Woolley Fiber Quilters
 
       Sedro-Woolley, WA
-    classname: Curves and More
+    classname: Curves and More - CANCELED
     classnamekey: curves
     date: 'March 20-22, 2020'
   - classcontactlink: 'https://www.emptyspoolsseminars.com/2020session5.html'
@@ -17,7 +17,7 @@ teachingschedule:
       Asilomar Conference Center
 
       Pacific Grove, California
-    classname: IN and AROUND TOWN
+    classname: IN and AROUND TOWN - CANCELED
     classnamekey: cityscape
     date: 'April 24-29, 2020'
   - classcontactlink: 'http://www.hildemorin.com/contact'
@@ -26,7 +26,7 @@ teachingschedule:
       <a href="/studio/">STUDIO</a> Class
 
       Portland, OR
-    classname: Curves and More
+    classname: Curves and More - CANCELED
     classnamekey: curves
     date: 'May 25-27, 2020'
   - classcontactlink: 'https://stitchinpost.com/abstracting-with-curves-hilde-morin'
@@ -35,7 +35,7 @@ teachingschedule:
       Stitchin' Post
 
       Sisters, OR
-    classname: Abstracting with Curves and Circles
+    classname: Abstracting with Curves and Circles - CANCELED
     classnamekey: curves
     date: 'September 21-25, 2020'
   - classcontactlink: 'http://www.hildemorin.com/contact'
@@ -57,7 +57,7 @@ exhibits:
 
       April 17-May 2, 2020
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
-    exhibitname: MIX - Group Exhibit
+    exhibitname: MIX - Group Exhibit - CANCELED
   - exhibitinfo: |-
 
 
