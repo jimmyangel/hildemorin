@@ -26,7 +26,7 @@ galleries:
     page: postcards
 contact:
   description: >-
-    <br>My <a href="/studio/">studio</a> is open for classes and I also welcome
+    <br>My <a href="/studio/">studio</a> is open for classes. I also welcome
     visitors to take a peek at my work. Please contact me to schedule a class or
     a visit.<br><br>
   email: hildemorin@gmail.com
