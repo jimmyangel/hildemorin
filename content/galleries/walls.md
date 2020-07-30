@@ -52,7 +52,7 @@ galleryitems:
     imageicon: images/El-Cerro-web-icon.jpg
     title: EL CERRO
   - caption: >-
-      <b>Mercado (Market)</b><br>30 W&quot; x 40&quot; H<br>A busy day at the
+      <b>MERCADO (Market)</b><br>30&quot; W x 40&quot; H<br>A busy day at the
       Portland Mercado celebrating the diverse Latin American cultures through
       food and entertainment.<br><i>SOLD</i><br>at VISIONS ART MUSEUM, San Diego
       - CA
@@ -145,7 +145,6 @@ galleryitems:
     price: '380'
     scale: 80%
     title: MATERIAL IN EXTREME
-  - title: PORTO
   - caption: >-
       <b>EXTREME FORM - A STUDY OF DISTORTION</b><br>18 W&quot; x 18&quot;
       H<br>Machine pieced and quilted
