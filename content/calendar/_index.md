@@ -59,15 +59,22 @@ exhibits:
     exhibitlink: 'http://mixpdx.blogspot.com/p/about-us.html'
     exhibitname: MIX - Group Exhibit - CANCELED
   - exhibitinfo: |-
-
-
       Montavilla Sewing Centers - Lake Oswego
 
       429 1st St
 
       Lake Oswego, OR 97034
 
-      June 1 - June 30, 2020
+      June 1 - July 31, 2020
+    exhibitlink: ''
     exhibitname: QUILT SHOWCASE
+  - exhibitinfo: |-
+      VISIONS ART MUSEUM
+
+      San Diego, CA
+
+      October 17, 2020 - January 3, 2021
+    exhibitlink: 'https://visionsartmuseum.org/exhibits-upcoming/'
+    exhibitname: QUILT VISIONS 2020 - Biennial Exhibition
 ---
 
