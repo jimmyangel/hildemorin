@@ -164,8 +164,8 @@ galleryitems:
     title: EXTREME COLOR
   - caption: >-
       <b>PORTO</b><br>60&quot; W x 30&quot; H<br>Hand dyed, hand stamped and
-      commercial fabrics, machine pieced, machine quilted<br>SOLD<br>Portland,
-      OR
+      commercial fabrics, machine pieced, machine
+      quilted<br><i>SOLD</i><br>Portland, OR
     dimensions: 60x30
     imageentry: /images/uploads/porto-web-entry.jpg
     imageicon: /images/uploads/porto-web-entry.jpg
