@@ -162,5 +162,13 @@ galleryitems:
     imageicon: /images/uploads/2014-extreme-color-window-web-icon.jpg
     price: '380'
     title: EXTREME COLOR
+  - caption: >-
+      <b>PORTO</b><br>60&quot; W x 30&quot; H<br>Hand dyed, hand stamped and
+      commercial fabrics, machine pieced, machine quilted<br>SOLD<br>Portland,
+      OR
+    dimensions: 60x30
+    imageentry: /images/uploads/porto-web-entry.jpg
+    imageicon: /images/uploads/porto-web-entry.jpg
+    title: PORTO
 ---
 
