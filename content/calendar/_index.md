@@ -76,5 +76,13 @@ exhibits:
       October 17, 2020 - January 3, 2021
     exhibitlink: 'https://visionsartmuseum.org/exhibits-upcoming/'
     exhibitname: QUILT VISIONS 2020 - Biennial Exhibition
+  - exhibitinfo: |-
+      World Forestry Center - Miller Hall
+
+      November 2020
+
+      Portland, OR
+    exhibitlink: 'https://www.sitkacenter.org/event/sitka-art-invitational'
+    exhibitname: SITKA ART INVITATIONAL 2020 - CANCELED
 ---
 
