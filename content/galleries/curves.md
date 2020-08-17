@@ -34,7 +34,7 @@ galleryitems:
     title: BLOOD ORANGE MARMALADE
   - caption: <b>MUTUAL ATTRACTION</b><br>22 W&quot; x 39&quot; H<br>Curved piecing
       commercial fabrics, hand dyes, machine quilted<br><i>SOLD</i><br>(Papas
-      Art for Marc Spencer Hotel - Portland, Oregon)
+      Art for MARC SPENCER Hotel - Portland, Oregon)
     dimensions: 22x39
     imageentry: images/2011-Mutual-attraction-web-entry.jpg
     imageicon: images/2011-Mutual-attraction-web-icon.jpg
@@ -94,7 +94,8 @@ galleryitems:
     title: DRYLANDS
   - caption: <b>LOW TIDE / HIGH TIDE</b><br>18 W&quot; x 18&quot; H
       DIPTYCH<br>Machine pieced, machine quilted, hand woven
-      inserts<br><i>SOLD</i><br>(Papas Art - Portland, Oregon)
+      inserts<br><i>SOLD</i><br>(Papas Art for MARC SPENCER Hotel - Portland,
+      Oregon)
     dimensions: 18x18x2
     imageentry: images/2007-Low-High-tide-web-entry.jpg
     imageicon: images/2007-Low-High-tide-web-icon.jpg
