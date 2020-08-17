@@ -14,7 +14,7 @@ galleryitems:
     dimensions: 24x30
     imageentry: images/2015-wine-rows-web-entry.jpg
     imageicon: images/2015-wine-rows-web-icon.jpg
-    price: "750"
+    price: ""
     title: WINE ROWS
   - caption: <b>GARDEN PARADE</b><br>47 W&quot; x 21&quot; H<br>Curved piecing hand
       dyed and commercial fabrics, machine quilted
