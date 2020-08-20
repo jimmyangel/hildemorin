@@ -1,5 +1,5 @@
 ---
-calendaryear: 2020 - ALL 2020 CLASSES HAVE BEEN CANCELED :(
+calendaryear: "2020 "
 teachingschedule:
   - classcontactlink: http://woolleyfiberquilters.blogspot.com/
     classcontactname: Woolley Fibers Guild
