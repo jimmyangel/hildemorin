@@ -66,7 +66,7 @@ exhibits:
       Lake Oswego, OR 97034
 
       June 1 - July 31, 2020
-    exhibitlink: https://montavilla.com
+    exhibitlink: https://montavillasewing.com
     exhibitname: QUILT SHOWCASE
   - exhibitinfo: |-
       VISIONS ART MUSEUM
