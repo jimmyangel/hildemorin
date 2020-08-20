@@ -44,7 +44,7 @@ teachingschedule:
       <a href="/studio/">STUDIO</a> Class
 
       Portland, OR
-    classname: Cityscape
+    classname: Cityscape - CANCELED
     classnamekey: cityscape
     date: October 26-30, 2020
 exhibits:
