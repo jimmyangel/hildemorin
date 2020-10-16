@@ -7,6 +7,9 @@ tags = ["portfolio", "blog"]
 features = ["portfolio", "blog"]
 min_version = "N/A"
 
+[params]
+  mainSections = ["about", "calendar", "classes", "studio"]
+
 [author]
   name = "Hilde Morin"
   homepage = "www.hildemorin.com"
