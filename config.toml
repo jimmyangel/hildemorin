@@ -6,6 +6,9 @@ paginate = 5
 summaryLength = 50
 googleAnalytics = "UA-73407918-1"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 copyright = "Content copyright © 2006-2020 Hilde Morin"
 keywords = "fiber arts,quilting,contemporary quilting,color,texture,composition"
