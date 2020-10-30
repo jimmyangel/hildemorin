@@ -6,13 +6,13 @@ galleryitems:
       commercial fabrics, machine pieced, machine
       quilted<br><i>SOLD</i><br>Portland, OR
     dimensions: 60x30
-    imageentry: /images/uploads/porto-web-entry.jpg
-    imageicon: /images/uploads/porto-web-icon.jpg
+    imageentry: images/porto-web-entry.jpg
+    imageicon: images/porto-web-icon.jpg
     title: PORTO
   - caption: <b>PLEASE REMOVE BOOTS AND GUNS</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
-    imageentry: /images/uploads/please-remove-boots-and-guns-web-entry.jpg
-    imageicon: /images/uploads/please-remove-boots-and-guns-web-icon.jpg
+    imageentry: images/please-remove-boots-and-guns-web-entry.jpg
+    imageicon: images/please-remove-boots-and-guns-web-icon.jpg
     price: 2,200
     title: PLEASE REMOVE BOOTS AND GUNS
   - caption: <b>PUEBLO BLANCO (White Village)</b><br>50&quot; W x 45&quot;
@@ -21,8 +21,8 @@ galleryitems:
       Blanco” was inspired by the white villages of Andalucía in southern Spain,
       where clusters of striking white houses burst with tradition and charm.
     dimensions: 50x45
-    imageentry: /images/uploads/pueblo-blanco-web-entry.jpg
-    imageicon: /images/uploads/pueblo-blanco-web-icon.jpg
+    imageentry: images/pueblo-blanco-web-entry.jpg
+    imageicon: images/pueblo-blanco-web-icon.jpg
     price: 3,000
     title: PUEBLO BLANCO
   - caption: >-
@@ -33,8 +33,8 @@ galleryitems:
 
       Inspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France.
     dimensions: 30x47
-    imageentry: /images/uploads/carrefour-web-entry.jpg
-    imageicon: /images/uploads/carrefour-web-icon.jpg
+    imageentry: images/carrefour-web-entry.jpg
+    imageicon: images/carrefour-web-icon.jpg
     price: 2,200
     title: CARREFOUR
   - caption: <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
@@ -119,7 +119,7 @@ galleryitems:
       pieced and reverse appliqué
     dimensions: 12x12
     imageentry: images/2013-Window-of-Tango-Street-1-web-entry.jpg
-    imageicon: /images/uploads/2013-Window-of-Tango-Street-1-web-icon.jpg
+    imageicon: /images/uploads/2013-window-of-tango-street-1-web-icon.jpg
     price: "300"
     scale: 80%
     title: TANGO STREET 1
@@ -127,7 +127,7 @@ galleryitems:
       pieced and reverse appliqué
     dimensions: 12x12
     imageentry: images/2013-Window-of-Tango-Street-2-web-entry.jpg
-    imageicon: /images/uploads/2013-window-of-tango-street-2-web-icon.jpg
+    imageicon: images/2013-window-of-tango-street-2-web-icon.jpg
     price: "300"
     title: TANGO STREET 2
   - caption: <b>EXTREME MATERIALS - A FUN EXPERIMENT</b><br>18 W&quot; x 18&quot;
