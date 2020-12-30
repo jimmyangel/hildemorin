@@ -33,6 +33,7 @@ contact:
   location: 'Portland, Oregon'
   locationlink: 'https://www.google.com/maps/place/Portland,+OR/'
   web: 'https://hildemorin.com'
+  photoblog: 'https://photoblog.hildemorin.com'
 sociallinks:
   - icon: images/photoblog.png
     sitelink: 'https://photoblog.hildemorin.com'

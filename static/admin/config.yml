@@ -95,6 +95,7 @@ collections:
               {label: "Location", name: "location", widget: "string"},
               {label: "Location Link", name: "locationlink", widget: "string"},
               {label: "Email", name: "email", widget: "string"},
+              {label: "Photoblog", name: "photoblog", widget: "string"},
               {label: "Web Site", name: "web", widget: "string"}]}
           - {label: Social Links", name: "sociallinks", widget: "list", fields: [
               {label: "Site Name", name: "sitename", widget: "string"},
