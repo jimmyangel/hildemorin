@@ -1,28 +1,28 @@
 ---
 title: Hilde Morin Fiber Art Home Page
 slider:
-  - imageurl: images/slider/01.jpg
+  - imageurl: images/01.jpg
     legendbottom: ''
-  - imageurl: images/slider/02.jpg
+  - imageurl: images/02.jpg
     legendbottom: ''
 galleries:
   - caption: WALLS & WINDOWS
-    imageurl: images/galleries/walls.jpg
+    imageurl: images/walls.jpg
     page: walls
   - caption: CURVES
-    imageurl: images/galleries/curves.jpg
+    imageurl: images/curves.jpg
     page: curves
   - caption: WOODS & WATER
-    imageurl: images/galleries/woods.jpg
+    imageurl: images/woods.jpg
     page: woods
   - caption: BOWLS
-    imageurl: images/galleries/bowls.jpg
+    imageurl: images/bowls.jpg
     page: bowls
   - caption: FLOWERS
-    imageurl: images/galleries/flowers.jpg
+    imageurl: images/flowers.jpg
     page: flowers
   - caption: POSTCARDS
-    imageurl: images/galleries/postcards.jpg
+    imageurl: images/postcards.jpg
     page: postcards
 contact:
   description: >-
@@ -50,4 +50,3 @@ sociallinks:
     sitelink: 'https://500px.com/hildemorin/'
     sitename: 500px
 ---
-
