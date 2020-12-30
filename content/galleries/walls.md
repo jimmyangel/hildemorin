@@ -122,7 +122,7 @@ galleryitems:
       pieced and reverse appliqué
     dimensions: 12x12
     imageentry: images/2013-Window-of-Tango-Street-1-web-entry.jpg
-    imageicon: /images/uploads/2013-window-of-tango-street-1-web-icon.jpg
+    imageicon: images/2013-Window-of-Tango-Street-1-web-icon.jpg
     price: "300"
     scale: 80%
     title: TANGO STREET 1
@@ -130,7 +130,7 @@ galleryitems:
       pieced and reverse appliqué
     dimensions: 12x12
     imageentry: images/2013-Window-of-Tango-Street-2-web-entry.jpg
-    imageicon: images/2013-Window-of-Tango-Street-2-web-icon.jpg
+    imageicon: images/2013-window-of-tango-street-2-web-icon.jpg
     price: "300"
     title: TANGO STREET 2
   - caption: <b>EXTREME MATERIALS - A FUN EXPERIMENT</b><br>18 W&quot; x 18&quot;
@@ -138,7 +138,7 @@ galleryitems:
       rocks
     dimensions: 18x18
     imageentry: images/2014-Material-in-Extreme-Window-entry.jpg
-    imageicon: /images/uploads/2014-material-in-extreme-window-icon.jpg
+    imageicon: images/2014-material-in-extreme-window-icon.jpg
     price: "380"
     scale: 80%
     title: MATERIAL IN EXTREME
@@ -146,7 +146,7 @@ galleryitems:
       H<br>Machine pieced and quilted
     dimensions: 18x18
     imageentry: images/2014-Extreme-Form-Window-entry.jpg
-    imageicon: /images/uploads/2014-extreme-form-window-icon.jpg
+    imageicon: images/2014-extreme-form-window-icon.jpg
     price: "380"
     scale: 80%
     title: EXTREME FORM
@@ -154,7 +154,7 @@ galleryitems:
       H<br>Machine pieced and reverse appliqué
     dimensions: 18x18
     imageentry: images/2014-Extreme-Color-Window-web-entry.jpg
-    imageicon: /images/uploads/2014-extreme-color-window-web-icon.jpg
+    imageicon: images/2014-extreme-color-window-web-icon.jpg
     price: "380"
     title: EXTREME COLOR
 ---
