@@ -143,6 +143,7 @@ collections:
       - file: content/classes/_index.md
         label: "Classes"
         name: "classes"
+        media_folder: "./images"
         fields:
           - {label: "Classes Leading Intro", name: "classesintro", widget: "markdown"}
           - {label: "Classes", name: "classes", widget: "list", fields: [
@@ -150,5 +151,5 @@ collections:
               {label: "Class Title", name: "title", widget: "string"},
               {label: "Class Duration", name: "duration", widget: "string"},
               {label: "Class Description", name: "description", widget: "markdown"},
-              {label: "Class Thumbnail", name: "thumbnail", widget: "string"},
+              {label: "Class Thumbnail", name: "thumbnail", widget: "image", allow_multiple: false},
               {label: "Class Supply List Document", name: "supplylist", widget: "string"}]}
