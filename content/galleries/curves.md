@@ -16,14 +16,6 @@ galleryitems:
     imageicon: images/2015-wine-rows-web-icon.jpg
     price: ""
     title: WINE ROWS
-  - caption: <b>GARDEN PARADE</b><br>47 W&quot; x 21&quot; H<br>Curved piecing hand
-      dyed and commercial fabrics, machine quilted
-    dimensions: 47x21
-    imageentry: images/2014-Garden-Parade-web-entry.jpg
-    imageicon: images/2014-Garden-Parade-web-icon.jpg
-    price: 1,100
-    scale: 80%
-    title: GARDEN PARADE
   - caption: <b>BLOOD ORANGE MARMALADE</b><br>30 W&quot; x 22&quot; H<br>Curved
       piecing hand dyed and commercial fabrics, machine quilted<br><i>PRIVATE
       COLLECTION</i><br>(Caracas, Venezuela)
@@ -40,6 +32,15 @@ galleryitems:
     imageicon: images/2011-Mutual-attraction-web-icon.jpg
     scale: 70%
     title: MUTUAL ATTRACTION
+  - caption: <b>GARDEN PARADE</b><br>47 W&quot; x 21&quot; H<br>Curved piecing hand
+      dyed and commercial fabrics, machine quilted
+    dimensions: 47x21
+    imageentry: images/2014-Garden-Parade-web-entry.jpg
+    imageicon: images/2014-Garden-Parade-web-icon.jpg
+    iswide: true
+    price: 1,100
+    scale: 80%
+    title: GARDEN PARADE
   - caption: <b>CRESCENDO</b><br>34 W&quot; x 43&quot; H<br>Curved piecing
       commercial fabrics, hand dyes, machine
       quilted<br><i>SOLD</i><br>(COMMISSION - Lake Geneva, Wisconsin)
@@ -91,6 +92,7 @@ galleryitems:
     dimensions: 19x19x3
     imageentry: images/2008-drylands-web-entry.jpg
     imageicon: images/2008-drylands-web-icon.jpg
+    iswide: true
     title: DRYLANDS
   - caption: <b>LOW TIDE / HIGH TIDE</b><br>18 W&quot; x 18&quot; H
       DIPTYCH<br>Machine pieced, machine quilted, hand woven
