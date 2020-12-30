@@ -34,6 +34,9 @@ contact:
   locationlink: 'https://www.google.com/maps/place/Portland,+OR/'
   web: 'https://hildemorin.com'
 sociallinks:
+  - icon: images/photoblog.png
+    sitelink: 'https://photoblog.hildemorin.com'
+    sitename: My Photoblog
   - icon: images/facebook.png
     sitelink: 'https://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455'
     sitename: Facebook
@@ -46,7 +49,4 @@ sociallinks:
   - icon: images/mix.png
     sitelink: 'https://mixpdx.blogspot.com/'
     sitename: MIX
-  - icon: images/500px.png
-    sitelink: 'https://500px.com/hildemorin/'
-    sitename: 500px
 ---
