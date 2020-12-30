@@ -16,7 +16,7 @@ logoimage = "/images/logo.svg"
 logotext = "HILDE MORIN FIBER ART"
 ogimage = "https://www.hildemorin.com/images/page.png"
 title = "Hilde Morin Fiber Art"
-updated = "July 2020"
+updated = "December 2020"
 
 [[params.menu]]
 menulabel = "Home"

@@ -8,6 +8,7 @@ galleryitems:
     dimensions: 60x30
     imageentry: images/porto-web-entry.jpg
     imageicon: images/porto-web-icon.jpg
+    iswide: true
     title: PORTO
   - caption: <b>PLEASE REMOVE BOOTS AND GUNS</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
@@ -127,7 +128,7 @@ galleryitems:
       pieced and reverse appliqué
     dimensions: 12x12
     imageentry: images/2013-Window-of-Tango-Street-2-web-entry.jpg
-    imageicon: images/2013-window-of-tango-street-2-web-icon.jpg
+    imageicon: images/2013-Window-of-Tango-Street-2-web-icon.jpg
     price: "300"
     title: TANGO STREET 2
   - caption: <b>EXTREME MATERIALS - A FUN EXPERIMENT</b><br>18 W&quot; x 18&quot;

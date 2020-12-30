@@ -23,7 +23,7 @@
     <div class="zoom-gallery row text-center spacer" style="font-size: 90%;">
 
       {{range .Params.galleryitems}}
-      <div class="col-sm-3 col-xs-6 thumbnail" {{if .price}}hm-price="{{.price}}"{{end}}>
+      <div class="{{if .iswide}}col-sm-6 col-xs-12{{else}}col-sm-3 col-xs-6{{end}} thumbnail" {{if .price}}hm-price="{{.price}}"{{end}}>
         {{.title}}<span style="padding-right: 1em"></span><small>{{.dimensions}}</small>
         <a class="gallery-item" {{if .scale}}hm-scale="{{.scale}}"{{end}} href="{{.imageentry}}"
            caption="{{.caption}}">
