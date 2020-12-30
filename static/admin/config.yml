@@ -37,9 +37,9 @@ collections:
           {label: "Title", name: "title", widget: "string", required: true},
           {label: "Dimensions", name: "dimensions", widget: "string", required: true},
           {label: "Caption", name: "caption", widget: "markdown", required: true},
-          {label: "Image Entry", name: "imageentry", widget: "image", required: true},
+          {label: "Image Entry", name: "imageentry", widget: "image", allow_multiple: false, required: true},
           {label: "Image Scale", name: "scale", widget: "string", required: false},
-          {label: "Image Icon", name: "imageicon", widget: "image", required: true},
+          {label: "Image Icon", name: "imageicon", widget: "image", allow_multiple: false, required: true},
           {label: "Is Wide Icon?", name: "iswide", widget: "boolean", required: false},
           {label: "Price", name: "price", widget: "string", required: false}]}
 
@@ -79,13 +79,14 @@ collections:
       - file: content/_index.md
         label: "Home Page"
         name: "index"
+        media_folder: "./images"
         fields:
           - {label: "Home Page Title", name: "title", widget: "string"}
           - {label: "Slider Images", name: "slider", widget: "list", fields: [
-              {label: "Image URL", name: "imageurl", widget: "string"},
+              {label: "Image URL", name: "imageurl", widget: "image", allow_multiple: false},
               {label: "Image Caption", name: "legendbottom", widget: "string"}]}
           - {label: Galleries", name: "galleries", widget: "list", fields: [
-              {label: "Image URL", name: "imageurl", widget: "string"},
+              {label: "Image URL", name: "imageurl", widget: "image", allow_multiple: false},
               {label: "Image Caption", name: "caption", widget: "string"},
               {label: "Gallery Key", name: "page", widget: "string"}]}
           - {label: Contact", name: "contact", widget: "object", fields: [
@@ -98,7 +99,7 @@ collections:
           - {label: Social Links", name: "sociallinks", widget: "list", fields: [
               {label: "Site Name", name: "sitename", widget: "string"},
               {label: "Site Link", name: "sitelink", widget: "string"},
-              {label: "Site Icon", name: "icon", widget: "string"}]}
+              {label: "Site Icon", name: "icon", widget: "image", allow_multiple: false}]}
       - file: content/calendar/_index.md
         label: "Calendar"
         name: calendar
