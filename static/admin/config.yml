@@ -119,8 +119,9 @@ collections:
       - file: content/about/_index.md
         label: "About"
         name: "about"
+        media_folder: "./images"
         fields:
-          - {label: "Artist Banner Image", name: "artistbannerimage", widget: "string"}
+          - {label: "Artist Banner Image", name: "artistbannerimage", widget: "image", allow_multiple: false}
           - {label: "Artist Quote", name: "artistquote", widget: "string"}
           - {label: "Artist Name", name: "artistname", widget: "string"}
           - {label: "Artist Statement", name: "artiststatement", widget: "markdown"}
