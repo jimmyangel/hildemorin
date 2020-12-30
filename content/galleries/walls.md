@@ -70,10 +70,20 @@ galleryitems:
       cliffs from which the homes hang."
     dimensions: 48x28
     imageentry: images/Random-windows-web-entry.jpg
-    imageicon: images/Random-windows-web-icon.jpg
+    imageicon: images/random-windows-web-icon.jpg
+    iswide: true
     price: 1,600
     scale: 80%
     title: RANDOM WINDOWS
+  - caption: <b>HISPANIOLA</b><br>48 W&quot; x 28&quot; H<br>Colorful villages and
+      coconut plantations of the Dominican Republic<br>(Private Collection,
+      Portland, OR)
+    dimensions: 48x28
+    imageentry: images/Hispaniola-web-entry.jpg
+    imageicon: images/hispaniola-web-icon.jpg
+    iswide: true
+    scale: 80%
+    title: HISPANIOLA
   - caption: <b>TANGO STREET</b><br>25 W&quot; x 22&quot; H<br><i>SOLD</i><br>La
       Boca-Argentina, a colorful neighborhood in Buenos Aires with a love for
       tango music and dance<br>(Collection of Northwest Housing Alternatives -
@@ -82,14 +92,6 @@ galleryitems:
     imageentry: images/tango-street-web-entry.jpg
     imageicon: images/tango-street-web-icon.jpg
     title: TANGO STREET
-  - caption: <b>HISPANIOLA</b><br>48 W&quot; x 28&quot; H<br>Colorful villages and
-      coconut plantations of the Dominican Republic<br>(Private Collection,
-      Portland, OR)
-    dimensions: 48x28
-    imageentry: images/Hispaniola-web-entry.jpg
-    imageicon: images/Hispaniola-web-icon.jpg
-    scale: 80%
-    title: HISPANIOLA
   - caption: <b>ANONYMOUS SCRIPT</b><br>26 W&quot; x 19&quot; H<br>Portland
       graffitti collage printed on fabric, pieced, dischage dyed and machine
       quilted<br>HONORARY MENTION - Women in the Arts 2012 - Museum of the
