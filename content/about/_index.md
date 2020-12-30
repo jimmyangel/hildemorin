@@ -222,7 +222,6 @@ artistexhibits:
   - exhibits:
       - 'Montgomery County Fair - Maryland, USA'
     year: '1998'
-  - {}
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: 'http://www.saqa.com/'
@@ -231,4 +230,3 @@ artistmemberships:
   - org: MIX - Portland Fiber Art Group
     orglink: 'http://mixpdx.blogspot.com/'
 ---
-
