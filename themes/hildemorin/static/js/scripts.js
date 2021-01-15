@@ -163,14 +163,6 @@ jQuery(function($){
 		});
 	}());
 
-  // Attach price popovers (for gallery)
-  (function () {
-    $('[hm-price]').prepend(function () {
-      return '<a tabindex="0" role="button" data-toggle="popover" data-content="Available for purchase at $' + $(this).attr('hm-price') +
-              '" class="hm-price-button" data-trigger="hover focus" data-placement="bottom" style="float: right; padding-right: 5px"><small><span class="glyphicon glyphicon glyphicon-tag"></span></small></a>'
-    });
-  }());
-
   // Popover needs to be bound to the parent element
   (function () {
     $('.hm-price-button').popover({html: true, viewport: function (t){return t.parent();}});

@@ -23,12 +23,21 @@
     <div class="zoom-gallery row text-center spacer" style="font-size: 90%;">
 
       {{range .Params.galleryitems}}
-      <div class="{{if .iswide}}col-sm-6 col-xs-12{{else}}col-sm-3 col-xs-6{{end}} thumbnail" {{if .price}}hm-price="{{.price}}"{{end}}>
-        {{.title}}<span style="padding-right: 1em"></span><small>{{.dimensions}}</small>
+      <div class="{{if .iswide}}col-sm-6 col-xs-12{{else}}col-sm-3 col-xs-6{{end}} thumbnail">
         <a class="gallery-item" {{if .scale}}hm-scale="{{.scale}}"{{end}} href="{{.imageentry}}"
            caption="{{.caption}}">
           <img src="{{.imageicon}}" alt="">
         </a>
+        {{if .price}}
+        <a
+          tabindex="0" role="button" data-toggle="popover"
+          data-content="Available for purchase at ${{.price}}"
+          class="hm-price-button" data-trigger="hover focus" data-placement="top"
+          style="float: right; padding-right: 5px">
+          <small><span class="glyphicon glyphicon glyphicon-tag"></span></small>
+        </a>
+        {{end}}
+        {{.title}}<span style="padding-right: 1em"></span><small>{{.dimensions}}</small>
       </div>
       {{end}}
 
