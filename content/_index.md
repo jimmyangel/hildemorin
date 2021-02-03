@@ -38,9 +38,6 @@ sociallinks:
   - icon: images/photoblog.png
     sitelink: 'https://photoblog.hildemorin.com'
     sitename: My Photoblog
-  - icon: images/facebook.png
-    sitelink: 'https://www.facebook.com/pages/Hilde-Morin-FIBER-ART/107097579319455'
-    sitename: Facebook
   - icon: images/instagram.png
     sitelink: 'https://www.instagram.com/hildemorinfiberart/'
     sitename: Instagram
