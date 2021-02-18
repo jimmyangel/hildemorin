@@ -51,4 +51,4 @@ We only cover the canvas with our background palette, in this case red.  Your ca
 
 While you work on this, I’ll go and write Section 2.
 
-[Fabric Bowls Tutorial - Section 2.](https://www.hildemorin.com/blog/2018-03-23-fiber-bowls-tutorial-section-2-of-4/)
+[Fiber Bowls Tutorial - Section 2.](https://www.hildemorin.com/blog/2018-03-23-fiber-bowls-tutorial-section-2-of-4/)
