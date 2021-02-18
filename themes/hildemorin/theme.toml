@@ -8,7 +8,7 @@ features = ["portfolio", "blog"]
 min_version = "N/A"
 
 [params]
-  mainSections = ["about", "calendar", "classes", "studio"]
+  mainSections = ["about", "calendar", "classes", "studio", "links"]
 
 [author]
   name = "Hilde Morin"

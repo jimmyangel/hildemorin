@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<section id="classes">
+  <div class="container">
+    <div style="max-width: 400px;" class="list-group center-block">
+      <span style="background-color: whitesmoke;" class="list-group-item text-center">
+        <b>{{.Params.mylinkstitle}}</b>
+      </span>
+      {{range .Params.links}}
+
+      <a href="{{.linkurl}}" class="list-group-item">{{.linktitle}}</a>
+
+      {{end}}
+    </div>
+  </div>
+</section>
+{{ partial "footer.html" . }}

@@ -154,3 +154,11 @@ collections:
               {label: "Class Description", name: "description", widget: "markdown"},
               {label: "Class Thumbnail", name: "thumbnail", widget: "image", allow_multiple: false},
               {label: "Class Supply List Document", name: "supplylist", widget: "string"}]}
+      - file: content/links/_index.md
+        label: "Links"
+        name: "links"
+        fields:
+          - {label: "My links title", name: "mylinkstitle", widget: "string"}
+          - {label: "Links", name: "links", widget: "list", fields: [
+              {label: "Title", name: "linktitle", widget: "string"},
+              {label: "URL", name: "linkurl", widget: "string"}]}
