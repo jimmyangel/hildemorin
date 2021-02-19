@@ -5,7 +5,7 @@ tags:
   - fabricbowl
   - tutorial
   - fiberbowltutorial
-date: '2018-04-01T09:22:59-07:00'
+date: 2018-04-01T09:22:59-07:00
 thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-3.jpg
 ---
 **Section 3 – Fine-tune Design**
@@ -43,3 +43,5 @@ Sometimes it is a good idea to use tweezers to put these small and narrow pieces
 Again, this process is very time consuming … but well worth your time.
 
 Once you are done with fusing your design, you are ready for Section 4.  I’ll be back shortly.
+
+[Fiber Bowl Tutorial - Section 4.](https://www.hildemorin.com/blog/2018-04-07-fiber-bowls-tutorial-section-4-of-4/)

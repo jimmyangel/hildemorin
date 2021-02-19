@@ -5,7 +5,7 @@ tags:
   - fiberbowl
   - fabricbowl
   - fiberbowltutorial
-date: '2018-03-20T13:12:34-07:00'
+date: 2018-03-20T13:12:34-07:00
 thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-1.jpg
 ---
 During the past years I have received many requests for instructions on how I make Fiber Bowls.  Some people come to take a class and for others it is just not possible.  So, I’ve decided to make this my first real blog post. 
@@ -50,3 +50,5 @@ Using both red fabrics with fusible web already applied, I start cutting out sha
 We only cover the canvas with our background palette, in this case red.  Your canvas is ready for shaping!
 
 While you work on this, I’ll go and write Section 2.
+
+[Fiber Bowls Tutorial - Section 2.](https://www.hildemorin.com/blog/2018-03-23-fiber-bowls-tutorial-section-2-of-4/)

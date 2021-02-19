@@ -5,16 +5,16 @@ tags:
   - fabricbowl
   - tutorial
   - fiberbowltutorial
-date: '2018-03-23T10:53:10-07:00'
+date: 2018-03-23T10:53:10-07:00
 thumbnail: /images/uploads/blog-bowls-tutorial-thumbnail-2.jpg
 ---
 Thank you for all your visits, comments, questions, encouragement and good wishes. I can feel the pressure!
 
-One very important question I received: _"What are we aiming for?"_  Answer: _This is our goal:_
+One very important question I received: *"What are we aiming for?"*  Answer: *This is our goal:*
 
 <p align="center"><img class="img-responsive" src="/images/uploads/blog-bowls-tutorial-sample.jpg"></p>
 
-Another question made me laugh: "_Are you going to continue the instructions this month or is it going to be one step a month?"_  Answer: _LOL_
+Another question made me laugh: "*Are you going to continue the instructions this month or is it going to be one step a month?"*  Answer: *LOL*
 
 **Section 2– Shape Bowl**
 
@@ -51,3 +51,5 @@ The outside shows the 8 zigzag lines too.
 Give your bowl a bit more heat with the iron to re-fuse anything that may have gotten loose.  It is OK if things don’t fuse 100% because this is temporary.  The stitching at the end is what holds it all together.
 
 I’ll be back in a few with Section 3.  Have fun!
+
+[Fiber Bowls Tutorial - Section 3.](https://www.hildemorin.com/blog/2018-04-01-fiber-bowls-tutorial-section-3-of-4/)

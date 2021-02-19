@@ -5,7 +5,7 @@ tags:
   - fiberflower
   - tutorial
   - fiberflowertutorial
-date: '2019-08-28T14:46:32-07:00'
+date: 2019-08-28T14:46:32-07:00
 thumbnail: /images/uploads/blog-flower-thumbnail-1.jpg
 ---
 A few years ago during an unusually wet and grey winter in Portland I decided to make [flowers](https://www.hildemorin.com/galleries/flowers/), yes, flowers made with canvas and fabric.
@@ -13,7 +13,7 @@ I enjoyed making them and giving them away for special occasions to dear friends
 
 Pretty soon I received requests to teach a class but my reply was always “they are just miniature fiber bowls with a little mounting engineering, you can do it”.  The requests continued coming in and that is why I finally decided to share the making of the flowers here on my blog.  
 
-The process starts with a mini fiber bowl of approximately 6” diameter. You can find detailed instructions for fiber bowls [here](https://www.hildemorin.com/tags/fiberbowltutorial/).  The only difference is that instead of starting with two layers of canvas, we only use one layer.  Cut a circle, cover with fabric, cut wedges, shape with zigzag stitch.
+The process starts with a mini fiber bowl of approximately 6” diameter. You can find detailed instructions for fiber bowls [here](https://www.hildemorin.com/blog/2018-03-20-fiber-bowls-tutorial-section-1-of-4/).  The only difference is that instead of starting with two layers of canvas, we only use one layer.  Cut a circle, cover with fabric, cut wedges, shape with zigzag stitch.
 
 <img class="img-responsive" src="/images/uploads/blog-flowers-tutorial-1.jpg">
 
@@ -60,4 +60,4 @@ ENJOY!
 
 <img class="img-responsive" src="/images/uploads/blog-flowers-tutorial-8.jpg">
 
-_Notice that my blog is not setup to answer comments/questions individually.  However, I will answer questions by posting a comment._
+*Notice that my blog is not setup to answer comments/questions individually.  However, I will answer questions by posting a comment.*
