@@ -11,7 +11,7 @@ teachingschedule:
       Pacific Grove, California
     classname: "IN and AROUND TOWN "
     classnamekey: cityscape
-    date: April 16-21, 2021
+    date: April 16-21, 2021 CANCELLED (see you next year)
   - classcontactlink: https://stitchinpost.com/abstracting-with-curves-hilde-morin
     classcontactname: Stitchin' Post
     classdetails: |
