@@ -40,11 +40,11 @@ galleryitems:
     title: CARREFOUR
   - caption: <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
       charming neighborhood in Venezuela highlighting its old colonial
-      architecture.
+      architecture.<br>(Private Collection, Portland, OR)
     dimensions: 56x40
     imageentry: images/El-Vecindario-web-entry.jpg
     imageicon: images/El-Vecindario-web-icon.jpg
-    price: 2,800
+    price: ""
     title: EL VECINDARIO
   - caption: <b>EL CERRO (The Hill)</b><br>51 W&quot; x 42&quot; H<br>A sea of
       jumbled structures surround the sloping hills of Caracas, Venezuela - the
