@@ -3,7 +3,7 @@ title: woods
 galleryname: Woods & Water
 galleryitems:
   - title: EMBRACING MOSS
-    dimensions: 42x37
+    dimensions: 37x42
     caption: <b>EMBRACING MOSS</b><br>37 W&quot; x 42&quot; H<br>Free form curved
       and straight piecing. Hand dyed and commercial cotton fabrics.  Machine
       quilted.<br><i>SOLD</i><br>Kimberly Kent Art Brokerage for Patton Home,
