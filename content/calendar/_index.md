@@ -24,7 +24,7 @@ teachingschedule:
   - date: October 25-29, 2021 (CLASS FULL)
     classnamekey: cityscape
     classname: Your Own Village/CityScape
-    classcontactlink: hildemorin@gmail.com
+    classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
     classdetails: |-
       Studio Class
