@@ -20,7 +20,16 @@ teachingschedule:
       Sisters, OR
     classname: "Abstracting with Curves and Circles "
     classnamekey: curves
-    date: August 30 - September 3, 2021
+    date: Aug. 30 - Sept. 3, 2021
+  - date: October 25-29, 2021 (CLASS FULL)
+    classnamekey: cityscape
+    classname: Your Own Village/CityScape
+    classcontactlink: hildemorin@gmail.com
+    classcontactname: Hilde Morin
+    classdetails: |-
+      Studio Class
+
+      Portland, OR
 exhibits:
   - exhibitinfo: |-
       World Forestry Center - Miller Hall
