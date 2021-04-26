@@ -20,7 +20,7 @@ teachingschedule:
       Sisters, OR
     classname: "Abstracting with Curves and Circles "
     classnamekey: curves
-    date: August 30 - September 3, 2021
+    date: Aug. 30 - Sept. 3, 2021
 exhibits:
   - exhibitinfo: |-
       World Forestry Center - Miller Hall
