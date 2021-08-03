@@ -1,6 +1,6 @@
 ---
 calendaryear: "<i>All activities are tentative and contingent upon COVID
-  developments</i>.2021 "
+  developments</i>.<br>2021 "
 teachingschedule:
   - classcontactlink: https://www.emptyspoolsseminars.com/2021session5.html
     classcontactname: Empty Spools Seminars
