@@ -31,6 +31,15 @@ teachingschedule:
       Studio Class
 
       Portland, OR
+  - date: November 14-19, 2021 (CLASS FULL)
+    classnamekey: cityscape
+    classname: CityScape/In and Around Town
+    classdetails: |-
+      Studio Class
+
+      Portland, OR
+    classcontactlink: https://www.hildemorin.com/#contact
+    classcontactname: Hilde Morin
 exhibits:
   - exhibitinfo: |-
       World Forestry Center - Miller Hall
