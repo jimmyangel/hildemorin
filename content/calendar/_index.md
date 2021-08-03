@@ -21,8 +21,8 @@ teachingschedule:
       Sisters, OR
     classname: "Abstracting with Curves and Circles "
     classnamekey: curves
-    date: Aug. 30 - Sept. 3, 2021 <br><b>COVID vaccination required</b><br>
-  - date: October 25-29, 2021 (CLASS FULL)
+    date: Aug. 30 - Sept. 3, 2021 <br><b><i>COVID vaccination required</i></b><br>
+  - date: October 25-29, 2021 <br><b><i>COVID vaccination required</i></b><br>
     classnamekey: cityscape
     classname: Your Own Village/CityScape
     classcontactlink: https://www.hildemorin.com/#contact
@@ -31,7 +31,7 @@ teachingschedule:
       Studio Class
 
       Portland, OR
-  - date: November 14-19, 2021 (CLASS FULL)
+  - date: November 14-19, 2021 <br><b><i>COVID vaccination required</i></b><br>
     classnamekey: cityscape
     classname: CityScape/In and Around Town
     classdetails: |-
