@@ -10,7 +10,7 @@ galleryitems:
     imageicon: images/porto-web-icon.jpg
     iswide: true
     title: PORTO
-  - caption: <b>PLEASE REMOVE BOOTS AND GUNS</b><br>40&quot; W x 40&quot; H<br>
+  - caption: <b>ABANDONED</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
     imageentry: images/please-remove-boots-and-guns-web-entry.jpg
     imageicon: images/please-remove-boots-and-guns-web-icon.jpg
