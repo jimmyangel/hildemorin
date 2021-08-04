@@ -15,7 +15,7 @@ galleryitems:
     imageentry: images/please-remove-boots-and-guns-web-entry.jpg
     imageicon: images/please-remove-boots-and-guns-web-icon.jpg
     price: 2,200
-    title: PLEASE REMOVE BOOTS AND GUNS
+    title: ABANDONED
   - caption: <b>PUEBLO BLANCO (White Village)</b><br>50&quot; W x 45&quot;
       H<br>Narrow streets, stairways and alleys take you along these hilly
       villages in Spain inviting you to discover its ancient history. “Pueblo
