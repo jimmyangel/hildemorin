@@ -8,7 +8,7 @@ galleryitems:
     imageentry: images/2019-Tulip-Envy-web-entry.jpg
     imageicon: images/2019-Tulip-Envy-web-icon.jpg
     price: "1200"
-    title: TULIP ENVY
+    title: THROUGH THE TULIPS
   - caption: <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse
       appliqué, machine quilted
     dimensions: 24x30
@@ -33,12 +33,13 @@ galleryitems:
     scale: 70%
     title: MUTUAL ATTRACTION
   - caption: <b>GARDEN PARADE</b><br>47 W&quot; x 21&quot; H<br>Curved piecing hand
-      dyed and commercial fabrics, machine quilted
+      dyed and commercial fabrics, machine quilted.<br><i>SOLD</i><br>Kimberly
+      Kent Art Brokerage for Rockwood Village Apartments, Portland - OR
     dimensions: 47x21
     imageentry: images/2014-Garden-Parade-web-entry.jpg
     imageicon: images/2014-Garden-Parade-web-icon.jpg
     iswide: true
-    price: 1,100
+    price: ""
     scale: 80%
     title: GARDEN PARADE
   - caption: <b>CRESCENDO</b><br>34 W&quot; x 43&quot; H<br>Curved piecing
