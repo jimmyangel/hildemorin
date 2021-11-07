@@ -7,7 +7,7 @@ galleryitems:
     dimensions: 40x30
     imageentry: images/2019-Tulip-Envy-web-entry.jpg
     imageicon: images/2019-Tulip-Envy-web-icon.jpg
-    price: ""
+    price: "1200"
     title: THROUGH THE TULIPS
   - caption: <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse
       appliqué, machine quilted
