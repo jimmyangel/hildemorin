@@ -22,6 +22,8 @@ teachingschedule:
       Portland, OR
 exhibits:
   - exhibitinfo: |-
+      ![](/images/uploads/2022-mix-chessman-card-email.jpg)
+
       Chessman Gallery - Inside the Lincoln City Cultural Center
 
       January 14 - February 28
