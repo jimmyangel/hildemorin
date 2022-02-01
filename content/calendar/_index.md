@@ -1,44 +1,26 @@
 ---
-calendaryear: "<i>All activities are tentative and contingent upon COVID
-  developments</i>.<br>2021 "
+calendaryear: <i>All activities are tentative and contingent upon COVID
+  developments</i>.<br>2022
 teachingschedule:
   - classcontactlink: https://www.emptyspoolsseminars.com/2021session5.html
     classcontactname: Empty Spools Seminars
     classdetails: |-
-      EMPTY SPOOLS Seminars 2021
+      EMPTY SPOOLS Seminars 2022
       Asilomar Conference Center
 
       Pacific Grove, California
     classname: "IN and AROUND TOWN "
     classnamekey: cityscape
-    date: April 16-21, 2021 CANCELLED (see you next year)
-  - classcontactlink: https://stitchinpost.com/abstracting-with-curves-hilde-morin
-    classcontactname: Stitchin' Post
-    classdetails: |
-      Stitchin' Post
-
-      Sisters, OR
-    classname: "Abstracting with Curves and Circles "
-    classnamekey: curves
-    date: Aug. 30 - Sept. 3, 2021 <br><b><i>COVID vaccination required</i></b><br>
-  - date: October 25-29, 2021 <br><b><i>COVID vaccination required</i></b><br>
+    date: April 10-15, 2022 <br><b><i>COVID vaccination required</i></b><br>
+  - date: May 2-6, 2022 <br><b><i>COVID vaccination required</i></b><br>
     classnamekey: cityscape
-    classname: Your Own Village/CityScape
+    classname: In and Around Town
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
     classdetails: |-
       Studio Class
 
       Portland, OR
-  - date: November 14-19, 2021 <br><b><i>COVID vaccination required</i></b><br>
-    classnamekey: cityscape
-    classname: CityScape/In and Around Town
-    classdetails: |-
-      Studio Class
-
-      Portland, OR
-    classcontactlink: https://www.hildemorin.com/#contact
-    classcontactname: Hilde Morin
 exhibits:
   - exhibitinfo: |-
       World Forestry Center - Miller Hall
