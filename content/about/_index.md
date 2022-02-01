@@ -84,6 +84,9 @@ artistawards:
         presenter: Montgomery County Fair - Maryland, USA
     year: "1998"
 artistexhibits:
+  - year: "2021"
+    exhibits:
+      - SITKA Northwest ART INVITATIONAL 2021 - Portland Oregon USA
   - exhibits:
       - IF WALLS COULD TALK - Solo Exhibit at VISIONS Art Museum - San Diego
       - CA
@@ -198,9 +201,6 @@ artistexhibits:
   - exhibits:
       - Montgomery County Fair - Maryland, USA
     year: "1998"
-  - year: "2021"
-    exhibits:
-      - SITKA Northwest ART INVITATIONAL 2021 - Portland Oregon USA
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: http://www.saqa.com/
