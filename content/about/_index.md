@@ -198,6 +198,9 @@ artistexhibits:
   - exhibits:
       - Montgomery County Fair - Maryland, USA
     year: "1998"
+  - year: "2021"
+    exhibits:
+      - SITKA Northwest ART INVITATIONAL 2021 - Portland Oregon USA
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: http://www.saqa.com/
