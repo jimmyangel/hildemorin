@@ -21,15 +21,6 @@ teachingschedule:
       Studio Class
 
       Portland, OR
-  - date: October 13-17, 2022 <br><b><i>COVID vaccination required</i></b><br>
-    classnamekey: cityscape
-    classname: CityScape/In and Around Town
-    classdetails: |-
-      Quilt Crossing
-
-      Boise, ID
-    classcontactlink: https://www.hildemorin.com/#contact
-    classcontactname: Hilde Morin
 exhibits:
   - exhibitinfo: |-
       World Forestry Center - Miller Hall
