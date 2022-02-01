@@ -63,7 +63,7 @@ galleryitems:
       quilted<br><i>SOLD</i><br>(COMMISSIONED by Vacation Treehouse, Portland -
       Oregon)
     imageentry: images/2013-Summer-Cascade-web-entry.jpg
-    imageicon: images/2013-Summer-Cascade-web-icon.jpg
+    imageicon: woods/images/2013-summer-cascade-web-icon.jpg
   - title: GREEN
     dimensions: 47x21
     caption: <b>GREEN</b><br>47 W&quot; x 21&quot; H<br>Hand dyed and commercial
