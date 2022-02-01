@@ -84,6 +84,9 @@ artistawards:
         presenter: Montgomery County Fair - Maryland, USA
     year: "1998"
 artistexhibits:
+  - year: "2021"
+    exhibits:
+      - SITKA Northwest ART INVITATIONAL 2021 - Portland Oregon USA
   - exhibits:
       - IF WALLS COULD TALK - Solo Exhibit at VISIONS Art Museum - San Diego
       - CA
