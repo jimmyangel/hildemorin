@@ -1,6 +1,5 @@
 ---
-calendaryear: <i>All activities are tentative and contingent upon COVID
-  developments</i>.<br>2022
+calendaryear: "2022"
 teachingschedule:
   - classcontactlink: https://www.emptyspoolsseminars.com/2021session5.html
     classcontactname: Empty Spools Seminars
@@ -23,11 +22,11 @@ teachingschedule:
       Portland, OR
 exhibits:
   - exhibitinfo: |-
-      World Forestry Center - Miller Hall
+      Chessman Gallery - Inside the Lincoln City Cultural Center
 
-      November 2021
+      January 14 - February 28
 
-      Portland, OR
-    exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
-    exhibitname: SITKA ART INVITATIONAL 2021
+      Lincoln City, OR
+    exhibitlink: https://lincolncity-culturalcenter.org/events/fiber-in-the-mix/
+    exhibitname: FIBER IN THE MIX - Group Exhibit
 ---
