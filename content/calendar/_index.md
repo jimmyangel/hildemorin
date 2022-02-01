@@ -1,5 +1,5 @@
 ---
-calendaryear: Exhibits 2022
+calendaryear: "2022"
 teachingschedule:
   - classcontactlink: https://www.emptyspoolsseminars.com/2021session5.html
     classcontactname: Empty Spools Seminars
