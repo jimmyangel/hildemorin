@@ -22,6 +22,8 @@ artiststatement: Drama and flow is what I like to express in my fiber
   studio</a> and at other venues, promoting the use of free form techniques in
   the construction of art quilts.
 artistpublications:
+  - publication: 2021 - SAQA Art Quilt Quarterly Issue No.26
+  - publication: 2020 - SAQA Art Quilt Quarterly Issue No.21
   - publication: "2019 - Curated Quilts – House – Issue No. 6 "
   - publication: 2019 - SAQA Art Quilt Quarterly Issue No.16
   - publication: 2018 - SAQA Journal – Featured Artist - Volume 28, No.1
@@ -36,8 +38,6 @@ artistpublications:
   - publication: "2008 - OREGON HOME - March April 2008 / Portfolio: p 18"
   - publication: "2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 /
       #139 pp 26-27"
-  - publication: 2020 - SAQA Art Quilt Quarterly Issue No.21
-  - publication: 2021 - SAQA Art Quilt Quarterly Issue No.26
 artistassignments:
   - assignment: "Infinity Art Gallery - Fiber Art Exhibit 2011: Juror"
   - assignment: 'High Fiber Diet "Can You Hear It?" 2021: Juror'
