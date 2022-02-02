@@ -25,7 +25,7 @@ galleryitems:
       piecing, hand dyed and monoprinted fabrics, commercial fabrics, machine
       quilted<br>
     imageentry: images/2017-Under-the-Maple-Tree-web-entry.jpg
-    imageicon: images/2017-Under-the-Maple-Tree-web-icon.jpg
+    imageicon: woods/images/2017-under-the-maple-tree-web-icon.jpg
     price: 2,200
   - title: AFTERNOON GLOW
     dimensions: 58x29
