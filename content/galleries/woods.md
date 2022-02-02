@@ -33,7 +33,7 @@ galleryitems:
       hand dyed and monoprinted fabrics, commercial fabrics, machine quilted,
       hand appliquéd small rocks<br><i>SOLD</i><br>Galena, IL</i>
     imageentry: images/2017-Afternoon-Glow-web-entry.jpg
-    imageicon: images/2017-Afternoon-Glow-web-icon.jpg
+    imageicon: woods/images/2017-afternoon-glow-web-icon.jpg
   - title: GOLDEN LIGHT
     dimensions: 24x12
     caption: <b>GOLDEN LIGHT</b><br>24 W&quot; x 12&quot; H x1&#189; D<br>Curved
