@@ -18,7 +18,7 @@ galleryitems:
       SITKA INVITATIONAL - 2018, Portland - OR
     imageentry: images/2018-Snow-and-Ash-web-entry.jpg
     scale: 80%
-    imageicon: images/2018-Snow-and-Ash-web-icon.jpg
+    imageicon: woods/images/2018-snow-and-ash-web-icon.jpg
   - title: UNDER THE MAPLE TREE
     dimensions: 44x24
     caption: <b>UNDER THE MAPLE TREE</b><br>44 W&quot; x 24&quot; H<br>Curved
