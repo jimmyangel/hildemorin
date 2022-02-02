@@ -9,7 +9,7 @@ galleryitems:
       quilted.<br><i>SOLD</i><br>Kimberly Kent Art Brokerage for Patton Home,
       Portland - OR
     imageentry: images/2018-Embracing-Moss-web-entry.jpg
-    imageicon: images/2018-Embracing-Moss-web-icon.jpg
+    imageicon: images/2018-embracing-moss-web-icon.jpg
     price: ""
   - title: SNOW AND ASH
     dimensions: 40x30
@@ -18,14 +18,14 @@ galleryitems:
       SITKA INVITATIONAL - 2018, Portland - OR
     imageentry: images/2018-Snow-and-Ash-web-entry.jpg
     scale: 80%
-    imageicon: images/2018-Snow-and-Ash-web-icon.jpg
+    imageicon: images/2018-snow-and-ash-web-icon.jpg
   - title: UNDER THE MAPLE TREE
     dimensions: 44x24
     caption: <b>UNDER THE MAPLE TREE</b><br>44 W&quot; x 24&quot; H<br>Curved
       piecing, hand dyed and monoprinted fabrics, commercial fabrics, machine
       quilted<br>
     imageentry: images/2017-Under-the-Maple-Tree-web-entry.jpg
-    imageicon: images/2017-Under-the-Maple-Tree-web-icon.jpg
+    imageicon: images/2017-under-the-maple-tree-web-icon.jpg
     price: 2,200
   - title: AFTERNOON GLOW
     dimensions: 58x29
@@ -33,7 +33,7 @@ galleryitems:
       hand dyed and monoprinted fabrics, commercial fabrics, machine quilted,
       hand appliquéd small rocks<br><i>SOLD</i><br>Galena, IL</i>
     imageentry: images/2017-Afternoon-Glow-web-entry.jpg
-    imageicon: images/2017-Afternoon-Glow-web-icon.jpg
+    imageicon: images/2017-afternoon-glow-web-icon.jpg
   - title: GOLDEN LIGHT
     dimensions: 24x12
     caption: <b>GOLDEN LIGHT</b><br>24 W&quot; x 12&quot; H x1&#189; D<br>Curved
@@ -48,14 +48,14 @@ galleryitems:
       COLLECTION</i><br>(Valencia, Venezuela)
     imageentry: images/2015-Between-Light-and-Shadow-web-entry.jpg
     scale: 80%
-    imageicon: images/2015-Between-Light-and-Shadow-web-icon.jpg
+    imageicon: images/2015-between-light-and-shadow-web-icon.jpg
   - title: WATCHING THE WATER FALL
     dimensions: 26x39
     caption: <b>WATCHING THE WATER FALL</b><br>26 W&quot; x 39&quot; H<br>Curved
       piecing, hand dyed, and commercial fabrics, machine
       quilted<br><i>SOLD</i><br>at SITKA INVITATIONAL - 2014, Portland - OR
     imageentry: images/2014-Watching-The-Water-Fall-web-entry.jpg
-    imageicon: images/2014-Watching-The-Water-Fall-web-icon.jpg
+    imageicon: images/2014-watching-the-water-fall-web-icon.jpg
   - title: SUMMER CASCADE
     dimensions: 34x48
     caption: <b>SUMMER CASCADE</b><br>34 W&quot; x 48&quot; H<br>Curved piecing,
