@@ -53,7 +53,7 @@ galleryitems:
       Design Association 2015
     dimensions: 51x42
     imageentry: images/El-Cerro-web-entry.jpg
-    imageicon: images/El-Cerro-web-icon.jpg
+    imageicon: images/el-cerro-web-icon.jpg
     title: EL CERRO
     price: 3,400
   - caption: <b>MERCADO (Market)</b><br>30&quot; W x 40&quot; H<br>A busy day at the
@@ -81,7 +81,7 @@ galleryitems:
     dimensions: 48x28
     imageentry: images/Hispaniola-web-entry.jpg
     imageicon: images/hispaniola-web-icon.jpg
-    iswide: true
+    iswide: false
     scale: 80%
     title: HISPANIOLA
   - caption: <b>TANGO STREET</b><br>25 W&quot; x 22&quot; H<br><i>SOLD</i><br>La
@@ -116,6 +116,6 @@ galleryitems:
       Gallery
     dimensions: 50x60
     imageentry: images/Barrio-de-tango-web-entry.jpg
-    imageicon: images/Barrio-de-tango-web-icon.jpg
+    imageicon: images/barrio-de-tango-web-icon.jpg
     title: BARRIO DE TANGO
 ---
