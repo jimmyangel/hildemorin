@@ -48,7 +48,7 @@ galleryitems:
       COLLECTION</i><br>(Valencia, Venezuela)
     imageentry: images/2015-Between-Light-and-Shadow-web-entry.jpg
     scale: 80%
-    imageicon: images/2015-Between-Light-and-Shadow-web-icon.jpg
+    imageicon: woods/images/2015-between-light-and-shadow-web-icon.jpg
   - title: WATCHING THE WATER FALL
     dimensions: 26x39
     caption: <b>WATCHING THE WATER FALL</b><br>26 W&quot; x 39&quot; H<br>Curved
