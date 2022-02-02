@@ -9,7 +9,7 @@ galleryitems:
       quilted.<br><i>SOLD</i><br>Kimberly Kent Art Brokerage for Patton Home,
       Portland - OR
     imageentry: images/2018-Embracing-Moss-web-entry.jpg
-    imageicon: images/2018-Embracing-Moss-web-icon.jpg
+    imageicon: woods/images/2018-embracing-moss-web-icon.jpg
     price: ""
   - title: SNOW AND ASH
     dimensions: 40x30
