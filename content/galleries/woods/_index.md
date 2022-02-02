@@ -62,7 +62,7 @@ galleryitems:
       hand dyed, stamped, screen printed and commercial fabrics, machine
       quilted<br><i>SOLD</i><br>(COMMISSIONED by Vacation Treehouse, Portland -
       Oregon)
-    imageentry: images/2013-Summer-Cascade-web-entry.jpg
+    imageentry: images/2013-summer-cascade-web-icon.jpg
     imageicon: images/2013-summer-cascade-web-icon.jpg
   - title: GREEN
     dimensions: 47x21
