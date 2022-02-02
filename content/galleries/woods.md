@@ -40,7 +40,7 @@ galleryitems:
       piecing, hand dyed, and commercial fabrics, machine quilted, mounted on
       canvas<br><i>PRIVATE COLLECTION - Blando - CA</i>
     imageentry: images/2015-Golden Light-web-entry.jpg
-    imageicon: images/2015-Golden Light-web-icon.jpg
+    imageicon: woods/images/2015-golden-light-web-icon.jpg
   - title: BETWEEN LIGHT AND SHADOW
     dimensions: 53x30
     caption: <b>BETWEEN LIGHT AND SHADOW</b><br>53 W&quot; x 30&quot; H<br>Curved
