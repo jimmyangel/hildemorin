@@ -38,7 +38,7 @@ galleryitems:
     dimensions: 24x12
     caption: <b>GOLDEN LIGHT</b><br>24 W&quot; x 12&quot; H x1&#189; D<br>Curved
       piecing, hand dyed, and commercial fabrics, machine quilted, mounted on
-      canvas<br><i>PRIVATE COLLECTION - Blando - CA</i>
+      canvas<br><i>PRIVATE COLLECTION - Blando - CA</i>.
     imageentry: images/2015-Golden Light-web-entry.jpg
     imageicon: woods/images/2015-golden-light-web-icon.jpg
   - title: BETWEEN LIGHT AND SHADOW
