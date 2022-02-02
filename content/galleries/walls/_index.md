@@ -8,7 +8,7 @@ galleryitems:
     dimensions: 60x30
     imageentry: images/porto-web-entry.jpg
     imageicon: images/porto-web-icon.jpg
-    iswide: true
+    iswide: false
     title: PORTO
   - caption: <b>ABANDONED</b><br>40&quot; W x 40&quot; H<br>
     dimensions: 40x40
@@ -43,7 +43,7 @@ galleryitems:
       architecture.<br>(Private Collection, Portland, OR)
     dimensions: 56x40
     imageentry: images/El-Vecindario-web-entry.jpg
-    imageicon: images/El-Vecindario-web-icon.jpg
+    imageicon: images/el-vecindario-web-icon.jpg
     price: ""
     title: EL VECINDARIO
   - caption: <b>EL CERRO (The Hill)</b><br>51 W&quot; x 42&quot; H<br>A sea of
@@ -118,43 +118,4 @@ galleryitems:
     imageentry: images/Barrio-de-tango-web-entry.jpg
     imageicon: images/Barrio-de-tango-web-icon.jpg
     title: BARRIO DE TANGO
-  - caption: <b>WINDOW OF TANGO STREET 1</b><br>12 W&quot; x 12&quot; H<br>Machine
-      pieced and reverse appliqué
-    dimensions: 12x12
-    imageentry: images/2013-Window-of-Tango-Street-1-web-entry.jpg
-    imageicon: images/2013-Window-of-Tango-Street-1-web-icon.jpg
-    price: "300"
-    scale: 80%
-    title: TANGO STREET 1
-  - caption: <b>WINDOW OF TANGO STREET 2</b><br>12 W&quot; x 12&quot; H<br>Machine
-      pieced and reverse appliqué
-    dimensions: 12x12
-    imageentry: images/2013-Window-of-Tango-Street-2-web-entry.jpg
-    imageicon: images/2013-window-of-tango-street-2-web-icon.jpg
-    price: "300"
-    title: TANGO STREET 2
-  - caption: <b>EXTREME MATERIALS - A FUN EXPERIMENT</b><br>18 W&quot; x 18&quot;
-      H<br>Machine pieced and quilted, lace window insert, appliquéd wood and
-      rocks
-    dimensions: 18x18
-    imageentry: images/2014-Material-in-Extreme-Window-entry.jpg
-    imageicon: images/2014-material-in-extreme-window-icon.jpg
-    price: "380"
-    scale: 80%
-    title: MATERIAL IN EXTREME
-  - caption: <b>EXTREME FORM - A STUDY OF DISTORTION</b><br>18 W&quot; x 18&quot;
-      H<br>Machine pieced and quilted
-    dimensions: 18x18
-    imageentry: images/2014-Extreme-Form-Window-entry.jpg
-    imageicon: images/2014-extreme-form-window-icon.jpg
-    price: "380"
-    scale: 80%
-    title: EXTREME FORM
-  - caption: <b>EXTREME COLOR - THE FORBIDDEN COLORS</b><br>18 W&quot; x 18&quot;
-      H<br>Machine pieced and reverse appliqué
-    dimensions: 18x18
-    imageentry: images/2014-Extreme-Color-Window-web-entry.jpg
-    imageicon: images/2014-extreme-color-window-web-icon.jpg
-    price: "380"
-    title: EXTREME COLOR
 ---
