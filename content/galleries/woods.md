@@ -55,7 +55,7 @@ galleryitems:
       piecing, hand dyed, and commercial fabrics, machine
       quilted<br><i>SOLD</i><br>at SITKA INVITATIONAL - 2014, Portland - OR
     imageentry: images/2014-Watching-The-Water-Fall-web-entry.jpg
-    imageicon: images/2014-Watching-The-Water-Fall-web-icon.jpg
+    imageicon: woods/images/2014-watching-the-water-fall-web-icon.jpg
   - title: SUMMER CASCADE
     dimensions: 34x48
     caption: <b>SUMMER CASCADE</b><br>34 W&quot; x 48&quot; H<br>Curved piecing,
