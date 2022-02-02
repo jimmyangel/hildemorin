@@ -71,7 +71,7 @@ galleryitems:
     dimensions: 48x28
     imageentry: images/Random-windows-web-entry.jpg
     imageicon: images/random-windows-web-icon.jpg
-    iswide: true
+    iswide: false
     price: 1,600
     scale: 80%
     title: RANDOM WINDOWS
@@ -107,7 +107,7 @@ galleryitems:
       MENTION - Women in the Arts 2010 - Museum of the Americas - Doral, FL
     dimensions: 60x47
     imageentry: images/Malecon-web-entry.jpg
-    imageicon: images/Malecon-web-icon.jpg
+    imageicon: images/malecon-web-icon.jpg
     title: MALECÓN
   - caption: <b>BARRIO DE TANGO</b><br>50 W&quot; x 60&quot; H<br>Hand dyed, hand
       stamped and commercial fabrics, machine pieced, machine
