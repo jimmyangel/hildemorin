@@ -13,7 +13,7 @@ logoimage = "/images/logo.svg"
 logotext = "HILDE MORIN FIBER ART"
 ogimage = "https://www.hildemorin.com/images/page.png"
 title = "Hilde Morin Fiber Art"
-updated = "January 2022"
+updated = "February 2022"
 
 [[params.menu]]
 menulabel = "Home"
