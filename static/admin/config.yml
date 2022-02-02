@@ -26,8 +26,8 @@ collections:
     label: "Galleries"
     folder: "content/galleries"
     create: false
-    slug: "{{slug}}"
-    media_folder: "./{{slug}}/images"
+    path: "{{slug}}/../{{slug}}"
+    media_folder: ""
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "Gallery Name", name: "galleryname", widget: "string", required: true}
