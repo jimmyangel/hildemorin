@@ -638,6 +638,12 @@
 	  /* height: 100%; */
 	}
 
+  @media (min-width: 992px) {
+    #hm-gallery > .row > .thumbnail > a > img {
+  	  width: 94%;
+  	}
+  }
+
 	.popover {
 		font-family: "Raleway", Helvetica, Arial, sans-serif;
 	  border-radius: 0px;
