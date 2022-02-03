@@ -2,7 +2,7 @@
 
 	<!-- SLIDER -->
 	<section id="home">
-		<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000">
+		<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="false">
 			<ol class="carousel-indicators">
 				{{range $index, $element := .Params.slider}}
 				<li data-target="#home-carousel" data-slide-to="{{$index}}" {{if (eq $index 0)}}class="active"{{end}}></li>
