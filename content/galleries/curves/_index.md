@@ -6,7 +6,7 @@ galleryitems:
       quilted
     dimensions: 40x30
     imageentry: images/2019-Tulip-Envy-web-entry.jpg
-    imageicon: images/2019-Tulip-Envy-web-icon.jpg
+    imageicon: images/2019-tulip-envy-web-icon.jpg
     price: "1200"
     title: THROUGH THE TULIPS
   - caption: <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse
@@ -21,7 +21,7 @@ galleryitems:
       COLLECTION</i><br>(Caracas, Venezuela)
     dimensions: 30x22
     imageentry: images/2013-Blood-Orange-Marmalade-web-entry.jpg
-    imageicon: images/2013-Blood-Orange-Marmalade-web-icon.jpg
+    imageicon: images/2013-blood-orange-marmalade-web-icon.jpg
     scale: 70%
     title: BLOOD ORANGE MARMALADE
   - caption: <b>MUTUAL ATTRACTION</b><br>22 W&quot; x 39&quot; H<br>Curved piecing
@@ -29,7 +29,7 @@ galleryitems:
       Art for MARC SPENCER Hotel - Portland, Oregon)
     dimensions: 22x39
     imageentry: images/2011-Mutual-attraction-web-entry.jpg
-    imageicon: images/2011-Mutual-attraction-web-icon.jpg
+    imageicon: images/2011-mutual-attraction-web-icon.jpg
     scale: 70%
     title: MUTUAL ATTRACTION
   - caption: <b>GARDEN PARADE</b><br>47 W&quot; x 21&quot; H<br>Curved piecing hand
@@ -37,8 +37,8 @@ galleryitems:
       Kent Art Brokerage for Rockwood Village Apartments, Portland - OR
     dimensions: 47x21
     imageentry: images/2014-Garden-Parade-web-entry.jpg
-    imageicon: images/2014-Garden-Parade-web-icon.jpg
-    iswide: true
+    imageicon: images/2014-garden-parade-web-icon.jpg
+    iswide: false
     price: ""
     scale: 80%
     title: GARDEN PARADE
@@ -54,7 +54,7 @@ galleryitems:
       Geneva, Wisconsin)
     dimensions: 18x24
     imageentry: images/2011-Winter-web-entry.jpg
-    imageicon: images/2011-Winter-web-icon.jpg
+    imageicon: images/2011-winter-web-icon.jpg
     title: WINTER
   - caption: <b>SUMMER</b><br>15 W&quot; x 15&quot; H<br>Curved piecing commercial
       fabrics, hand dyes, machine quilted<br><i>SOLD</i><br>(COMMISSION - Lake
@@ -74,7 +74,7 @@ galleryitems:
       commercial fabrics, hand dyes, lace insert, machine quilted
     dimensions: 28x26
     imageentry: images/2009-tooMuchWasabi-2-web-entry.jpg
-    imageicon: images/2009-tooMuchWasabi-2-web-icon.jpg
+    imageicon: images/2009-toomuchwasabi-2-web-icon.jpg
     price: ""
     title: TOO MUCH WASABI
   - caption: <b>HARVEST HITS - GRAPE STOMP, PEACH CRUMBLE &amp; TRIPPLE BERRY
@@ -93,7 +93,7 @@ galleryitems:
     dimensions: 19x19x3
     imageentry: images/2008-drylands-web-entry.jpg
     imageicon: images/2008-drylands-web-icon.jpg
-    iswide: true
+    iswide: false
     title: DRYLANDS
   - caption: <b>LOW TIDE / HIGH TIDE</b><br>18 W&quot; x 18&quot; H
       DIPTYCH<br>Machine pieced, machine quilted, hand woven
@@ -101,6 +101,6 @@ galleryitems:
       Oregon)
     dimensions: 18x18x2
     imageentry: images/2007-Low-High-tide-web-entry.jpg
-    imageicon: images/2007-Low-High-tide-web-icon.jpg
+    imageicon: images/2007-low-high-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
 ---
