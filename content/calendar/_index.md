@@ -1,7 +1,7 @@
 ---
 calendaryear: "2022"
 teachingschedule:
-  - classcontactlink: https://www.emptyspoolsseminars.com/2021session5.html
+  - classcontactlink: https://www.emptyspoolsseminars.com/faculty.html
     classcontactname: Empty Spools Seminars
     classdetails: |-
       EMPTY SPOOLS Seminars 2022
