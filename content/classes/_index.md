@@ -67,6 +67,20 @@ classes:
       Recommended size of work is 36” or less on each side.
     thumbnail: images/class-cityscape-1.jpg
     supplylist: docs/cityscape-supply-list.pdf
+  - title: ABSTRACTING WITH CURVES AND CIRCLES
+    duration: 5 days
+    description: >-
+      Curves make an image easy to look at.  They lead the viewer’s eye through
+      the entire piece, almost as if they where pointing the way.  Curves are
+      rhythmic, graceful and add energy. They can separate or connect sections
+      and add balance.  That’s what this class is all about, designing and
+      creating your own abstract piece using free-form curves and circles.  
+
+
+      This class builds upon my basic CURVES AND MORE class, which focuses on techniques to create one single section of curves.  In ABSTRACTING WITH CURVES AND CIRCLES we will create multiple curved sections and then join them into one coherent design.
+    thumbnail: images/abstracting-with-curves-and-circles.jpg
+    namekey: curvescircles
+    supplylist: docs/abstracting-curves-circles.pdf
   - namekey: bowlart
     title: BOWL ART
     duration: 2-3 days
@@ -81,18 +95,4 @@ classes:
       Size of finished bowl is approximately 16" diameter.
     thumbnail: images/classes-bowl.jpg
     supplylist: docs/quilt-in-a-bowl-supply-list.pdf
-  - title: Abstracting with Curves and Circles
-    duration: 5 days
-    description: >-
-      Curves make an image easy to look at.  They lead the viewer’s eye through
-      the entire piece, almost as if they where pointing the way.  Curves are
-      rhythmic, graceful and add energy. They can separate or connect sections
-      and add balance.  That’s what this class is all about, designing and
-      creating your own abstract piece using free-form curves and circles.  
-
-
-      This class builds upon my basic CURVES AND MORE class, which focuses on techniques to create one single section of curves.  In ABSTRACTING WITH CURVES AND CIRCLES we will create multiple curved sections and then join them into one coherent design.
-    thumbnail: images/abstracting-with-curves-and-circles.jpg
-    namekey: curvescircles
-    supplylist: docs/abstracting-curves-circles.pdf
 ---
