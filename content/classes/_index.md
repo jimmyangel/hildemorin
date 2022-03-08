@@ -28,7 +28,7 @@ classes:
   - namekey: yourownforest
     title: YOUR OWN FOREST
     is-new: true
-    duration: 3-5 days
+    duration: 5 days
     description: >
       Inspired by a photograph, sketch or mental image, create your own abstract
 
@@ -46,7 +46,7 @@ classes:
     supplylist: docs/your-own-forest-supply-list.pdf
   - namekey: cityscape
     title: CITYSCAPE (IN AND AROUND TOWN)
-    duration: 3-5 days
+    duration: 5 days
     description: >
       Collect the essence of a favorite place based on your own impressions.
 
