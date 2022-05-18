@@ -2,9 +2,9 @@
 title: Hilde Morin Fiber Art Home Page
 slider:
   - imageurl: images/01.jpg
-    legendbottom: ''
+    legendbottom: EL CERRO
   - imageurl: images/02.jpg
-    legendbottom: ''
+    legendbottom: AFTERNOON GLOW
 galleries:
   - caption: WALLS & WINDOWS
     imageurl: images/walls.jpg
@@ -21,30 +21,30 @@ galleries:
   - caption: FLOWERS
     imageurl: images/flowers.jpg
     page: flowers
-  - caption: POSTCARDS
+  - caption: TILES
     imageurl: images/postcards.jpg
     page: postcards
 contact:
-  description: >-
-    <br>My <a href="/studio/">studio</a> is open for classes. I also welcome
-    visitors to take a peek at my work. Please contact me to schedule a class or
-    a visit.<br><br>
+  description: <br>My <a href="/studio/">studio</a> is open for classes. I also
+    welcome visitors to take a peek at my work. Please contact me to schedule a
+    class or a visit.<br><br>
   email: hildemorin@gmail.com
-  location: 'Portland, Oregon'
-  locationlink: 'https://www.google.com/maps/place/Portland,+OR/'
-  web: 'https://hildemorin.com'
-  photoblog: 'https://photoblog.hildemorin.com'
+  location: Portland, Oregon
+  locationlink: https://www.google.com/maps/place/Portland,+OR/
+  web: https://hildemorin.com
+  photoblog: https://photoblog.hildemorin.com
+  headline: CONTACT
 sociallinks:
   - icon: images/photoblog.png
-    sitelink: 'https://photoblog.hildemorin.com'
+    sitelink: https://photoblog.hildemorin.com
     sitename: My Photoblog
   - icon: images/instagram.png
-    sitelink: 'https://www.instagram.com/hildemorinfiberart/'
+    sitelink: https://www.instagram.com/hildemorinfiberart/
     sitename: Instagram
   - icon: images/linkedin.png
-    sitelink: 'https://www.linkedin.com/in/hilde-vande-walle-morin-0604338'
+    sitelink: https://www.linkedin.com/in/hilde-vande-walle-morin-0604338
     sitename: LinkedIn
   - icon: images/mix.png
-    sitelink: 'https://mixpdx.blogspot.com/'
+    sitelink: https://mixpdx.blogspot.com/
     sitename: MIX
 ---
