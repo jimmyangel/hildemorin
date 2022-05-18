@@ -84,7 +84,7 @@ collections:
           - {label: "Home Page Title", name: "title", widget: "string"}
           - {label: "Slider Images", name: "slider", widget: "list", fields: [
               {label: "Image URL", name: "imageurl", widget: "image", allow_multiple: false},
-              {label: "Image Caption", name: "legendbottom", widget: "string"}]}
+              {label: "Image Caption", name: "legendbottom", required: false, widget: "string"}]}
           - {label: "Galleries", name: "galleries", widget: "list", fields: [
               {label: "Image URL", name: "imageurl", widget: "image", allow_multiple: false},
               {label: "Image Caption", name: "caption", widget: "string"},
