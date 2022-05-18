@@ -7,27 +7,27 @@ galleryblurb: TILES are small works mounted on canvas.  They are either replicas
 galleryitems:
   - title: PETALS 1
     dimensions: 8"x 8"
-    caption: <b>PETALS 1</b><br>6 W&quot; x 4&quot; H
+    caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H
     imageentry: images/2021-petals-1-web-entry.jpg
     imageicon: images/2021-petals-1-web-icon.jpg
   - title: PETALS 2
     dimensions: 8"x 8"
-    caption: <b>PETALS 2</b><br>6 W&quot; x 4&quot; H
+    caption: <b>PETALS 2</b><br>8 W&quot; x 8&quot; H
     imageentry: images/2021-petals-2-web-entry.jpg
     imageicon: images/2021-petals-2-web-icon.jpg
   - title: WATCHING THE WATER FALL 1
     dimensions: 8"x 8"
-    caption: <b>WATCHING THE WATER FALL 1</b><br>6 W&quot; x 4&quot; H
+    caption: <b>WATCHING THE WATER FALL 1</b><br>8 W&quot; x 8&quot; H
     imageentry: images/2019-watching-the-water-fall-tile1-web-entry.jpg
     imageicon: images/2019-watching-the-water-fall-tile1-web-icon.jpg
   - title: WATCHING THE WATER FALL 2
     dimensions: 8"x 8"
-    caption: <b>WATCHING THE WATER FALL 2</b><br>6 W&quot; x 4&quot; H
+    caption: <b>WATCHING THE WATER FALL 2</b><br>8 W&quot; x 8&quot; H
     imageentry: images/2019-watching-the-water-fall-tile2-web-entry.jpg
     imageicon: images/2019-watching-the-water-fall-tile2-web-icon.jpg
   - title: WINDOWS OF LA BOCA
     dimensions: 10"x 20"
-    caption: <b>WINDOWS OF LA BOCA</b><br>6 W&quot; x 4&quot; H
+    caption: <b>WINDOWS OF LA BOCA</b><br>20 W&quot; x 10&quot; H
     imageentry: images/2021-windows-la-boca-web-entry.jpg
     imageicon: images/2021-windows-la-boca-web-icon.jpg
 ---
