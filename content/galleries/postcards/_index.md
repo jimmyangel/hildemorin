@@ -30,4 +30,9 @@ galleryitems:
     caption: <b>WINDOWS OF LA BOCA</b><br>20 W&quot; x 10&quot; H
     imageentry: images/2021-windows-la-boca-web-entry.jpg
     imageicon: images/2021-windows-la-boca-web-icon.jpg
+  - title: EL VECINDARIO
+    dimensions: 8"x 8"
+    caption: <b>EL VECINDARIO</b><br>8 W&quot; x 8&quot; H
+    imageentry: images/2018-el-vecindario-tile-web-entry.jpg
+    imageicon: images/2018-el-vecindario-tile-web-icon.jpg
 ---
