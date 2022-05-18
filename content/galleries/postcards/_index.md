@@ -10,4 +10,9 @@ galleryitems:
     caption: <b>PETALS 1</b><br>6 W&quot; x 4&quot; H
     imageentry: images/2021-petals-1-web-entry.jpg
     imageicon: images/2021-petals-1-web-icon.jpg
+  - title: PETALS 2
+    dimensions: 8"x 8"
+    caption: <b>PETALS 2</b><br>6 W&quot; x 4&quot; H
+    imageentry: images/2021-petals-2-web-entry.jpg
+    imageicon: images/2021-petals-2-web-icon.jpg
 ---
