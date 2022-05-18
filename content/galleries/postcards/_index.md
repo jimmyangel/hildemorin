@@ -25,4 +25,9 @@ galleryitems:
     caption: <b>WATCHING THE WATER FALL 2</b><br>6 W&quot; x 4&quot; H
     imageentry: images/2019-watching-the-water-fall-tile2-web-entry.jpg
     imageicon: images/2019-watching-the-water-fall-tile2-web-icon.jpg
+  - title: WINDOWS OF LA BOCA
+    dimensions: 10"x20"
+    caption: <b>WINDOWS OF LA BOCA</b><br>6 W&quot; x 4&quot; H
+    imageentry: images/2021-windows-la-boca-web-entry.jpg
+    imageicon: images/2021-windows-la-boca-web-icon.jpg
 ---
