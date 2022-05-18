@@ -2,9 +2,9 @@
 title: Hilde Morin Fiber Art Home Page
 slider:
   - imageurl: images/01.jpg
-    legendbottom: EL CERRO
+    legendbottom: ""
   - imageurl: images/02.jpg
-    legendbottom: AFTERNOON GLOW
+    legendbottom: ""
 galleries:
   - caption: WALLS & WINDOWS
     imageurl: images/walls.jpg
