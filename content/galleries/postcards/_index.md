@@ -7,7 +7,7 @@ galleryblurb: TILES are small works mounted on canvas.  They are either replicas
 galleryitems:
   - title: PETALS 1
     dimensions: 8"x 8"
-    caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H
+    caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
     imageentry: images/2021-petals-1-web-entry.jpg
     imageicon: images/2021-petals-1-web-icon.jpg
   - title: PETALS 2
