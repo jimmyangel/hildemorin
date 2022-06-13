@@ -41,4 +41,9 @@ galleryitems:
     caption: <b>EL CERRO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2018-el-cerro-tile-web-entry.jpg
     imageicon: images/2018-el-cerro-tile-web-icon.jpg
+  - title: MARSHSCAPES - GRASSES
+    dimensions: 12"x 12"
+    caption: <b>MARSHSCAPES - GRASSES</b><br>12 W&quot; x 12&quot; H<br>
+    imageentry: images/2018-grass-tile-web-entry.jpg
+    imageicon: images/2018-grass-tile-web-icon.jpg
 ---
