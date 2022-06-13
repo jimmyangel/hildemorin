@@ -5,6 +5,11 @@ gallerytitle: TILES
 galleryblurb: TILES are small works mounted on canvas.  They are either replicas
   of large works, fabric and mixed media studies or just plain for-fun pieces.
 galleryitems:
+  - title: MARSHSCAPES - GRASSES
+    dimensions: 12" x 12"
+    caption: <b>MARSHSCAPES - GRASSES</b><br>12 W&quot; x 12&quot; H<br>
+    imageentry: images/2018-grass-tile-web-entry.jpg
+    imageicon: images/2018-grass-tile-web-icon.jpg
   - title: PETALS 1
     dimensions: 8"x 8"
     caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
@@ -41,9 +46,9 @@ galleryitems:
     caption: <b>EL CERRO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2018-el-cerro-tile-web-entry.jpg
     imageicon: images/2018-el-cerro-tile-web-icon.jpg
-  - title: MARSHSCAPES - GRASSES
+  - title: MARSHSCAPES - HORSETAIL
     dimensions: 12"x 12"
-    caption: <b>MARSHSCAPES - GRASSES</b><br>12 W&quot; x 12&quot; H<br>
-    imageentry: images/2018-grass-tile-web-entry.jpg
-    imageicon: images/2018-grass-tile-web-icon.jpg
+    caption: <b>MARSHSCAPES - HORSETAIL</b><br>12 W&quot; x 12&quot; H<br>
+    imageentry: images/2018-horsetail-tile-web-entry.jpg
+    imageicon: images/2018-horsetail-tile-web-icon.jpg
 ---
