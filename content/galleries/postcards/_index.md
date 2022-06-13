@@ -2,8 +2,9 @@
 title: tiles
 galleryname: Tiles
 gallerytitle: TILES
-galleryblurb: TILES are small works mounted on canvas.  They are either replicas
-  of large works, fabric and mixed media studies or just plain for-fun pieces.
+galleryblurb: My TILES are small works mounted on canvas.  They are either
+  replicas of large works, fabric and mixed media studies or just plain for-fun
+  pieces.
 galleryitems:
   - title: MARSHSCAPES - GRASSES
     dimensions: 12" x 12"
@@ -15,6 +16,11 @@ galleryitems:
     caption: <b>MARSHSCAPES - HORSETAIL</b><br>12 W&quot; x 12&quot; H<br>
     imageentry: images/2018-horsetail-tile-web-entry.jpg
     imageicon: images/2018-horsetail-tile-web-icon.jpg
+  - title: MARSHES - CATTAIL
+    dimensions: 12"x 12"
+    caption: <b>MARSHSCAPES - CATTAIL</b><br>12 W&quot; x 12&quot; H<br>
+    imageentry: images/2018-cattail-tile-web-entry.jpg
+    imageicon: images/2018-cattail-tile-web-icon.jpg
   - title: PETALS 1
     dimensions: 8"x 8"
     caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
@@ -51,9 +57,4 @@ galleryitems:
     caption: <b>EL CERRO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2018-el-cerro-tile-web-entry.jpg
     imageicon: images/2018-el-cerro-tile-web-icon.jpg
-  - title: MARSHES - CATTAIL
-    dimensions: 12"x 12"
-    caption: <b>MARSHSCAPES - CATTAIL</b><br>12 W&quot; x 12&quot; H<br>
-    imageentry: images/2018-cattail-tile-web-entry.jpg
-    imageicon: images/2018-cattail-tile-web-icon.jpg
 ---
