@@ -2,8 +2,9 @@
 title: tiles
 galleryname: Tiles
 gallerytitle: TILES
-galleryblurb: TILES are small works mounted on canvas.  They are either replicas
-  of large works, fabric and mixed media studies or just plain for-fun pieces.
+galleryblurb: My TILES are small works mounted on canvas.  They are either
+  replicas of large works, fabric and mixed media studies or just plain for-fun
+  pieces.
 galleryitems:
   - title: MARSHSCAPES - GRASSES
     dimensions: 12" x 12"
