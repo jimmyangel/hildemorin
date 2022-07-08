@@ -5,7 +5,7 @@ tags:
   - Civic & Convention CenterWandering Through
   - public art
   - permanent collection
-date: 2022-07-09T02:15:55.545Z
+date: 2022-07-08T02:15:55.545Z
 ---
 Yes, my quilt goes to the Oregon Coast to be part of the Seaside Civic & Convention  (INSERT LINK) Center’s (SCCC) permanent public art collection.
 
