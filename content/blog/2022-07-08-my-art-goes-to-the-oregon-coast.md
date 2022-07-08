@@ -2,7 +2,8 @@
 title: My Art Goes To The Oregon Coast
 tags:
   - Seaside
-  - Civic & Convention CenterWandering Through
+  - Civic & Convention Center
+  - Wandering Through
   - public art
   - permanent collection
 date: 2022-07-08T02:15:55.545Z
