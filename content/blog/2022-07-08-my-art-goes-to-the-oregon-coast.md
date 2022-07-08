@@ -9,7 +9,7 @@ tags:
 date: 2022-07-08T02:15:55.545Z
 thumbnail: /images/uploads/blog-2022-wandering-through-thumbnail.jpg
 ---
-Yes, my quilt goes to the Oregon Coast to be part of the Seaside Civic & Convention  (INSERT LINK) Center’s (SCCC) permanent public art collection.
+Yes, my quilt goes to the Oregon Coast to be part of the [Seaside Civic & Convention Center (SCCC)](https://seasideconvention.com/) permanent public art collection.
 
 In September 2021 I received a short and sweet message from Drea Frost asking if I was taking commissions.  She was working on a project for the SCCC as a curator of their permanent public art collection.
 
