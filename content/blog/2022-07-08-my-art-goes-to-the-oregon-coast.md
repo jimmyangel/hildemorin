@@ -73,7 +73,7 @@ This is the way the back looks.  I like how you see only texture.
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-10.jpg">
 
-And this is the finished work, I named it “Wandering Through” as an invitation to come into the building,  wander through it, appreciate all the wonderful artwork on display and take it all in.  It measures a little over 9 feet wide and a little over 4 feet high.
+And this is the finished work, I named it “Wandering Through” as an invitation to come into the building,  wander through it, appreciate all the wonderful artwork on display and take it all in. 
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-11.jpg">
 
