@@ -25,11 +25,11 @@ INSERT SKETCHES HERE
 
 The next step was fabric selection! The colors of the background were going to be mainly yellows, oranges, greens and neutrals.   Tree trunks were going to be very prominent but I still had not settled on their color.  For the tree canopies I had a vision, which led me to do some deconstructive screen printing. That was a fun process with some pretty nice results!
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-2.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-3.jpg">
 
 With the fabrics selected and my sketch ready, the next step was to layout colors on my design wall.  I was still focusing only on the background and canopies. Tree trunks were coming later.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-3.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-4.jpg">
 
 Something like that!  The opening of light in the picture on the right was a reminder to add some depth but it was not going to be in the center.
 
@@ -37,17 +37,17 @@ Now onto the tree trunks.
 
 I started with skinny trees, in mostly dark greys with a few light grey and purple highlights.  After auditioning them with the background I came to the conclusion that they were not prominent enough but making them wider would add too much dark to the design.  I cut some of the branches off my skinny trunks, rearranged them and made them my secondary layer of trees.  The first layer was going to be wide tree trunks in light greys, violets and a few slivers of the dark grey.  I cut some wide strips of paper that served as place holders for these trunks.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-4.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-5.jpg">
 
 Now I was ready to start piecing my first layer of trees, wide trunks in light colors.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-5.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-6.jpg">
 
 OK, those tree trunks looked much better!
 
 The next decision was how to piece the background.  When working on landscapes I tend to use curve piecing techniques, but in this case, given the size of the panels, I felt that it needed something more, something angular to break up all those curves.  This was a great opportunity for a little experimenting.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-6.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-7.jpg">
 
 I liked the look of these angular randomly pieced sections and thought they would look good as the canopies.  The slivers of whitish fabric resembled the light coming through the leaves.
 
@@ -55,7 +55,7 @@ And so the piecing continued … lots of hours of designing, sewing, auditioning
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-extra.jpg">
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-7.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-8.jpg">
 
 And one day, I was done with the design and construction!
 
@@ -63,7 +63,7 @@ I think I took a few days off before starting the quilting or maybe even a coupl
 
 After the fine tuning was done, the next big phase was the quilting.  This is something I think of a lot while I am piecing: how am I going to quilt this?  So, at this point it was clear to me that the tree trunks where going to be quilted in the ditch, the background was going to be free motion quilted with lots of texture and the canopies were going to contain lines, lines in every direction.  Most of the quilting is free motion and improvised, but sometimes I use freezer paper templates to help me stay within lines.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-8.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-9.jpg">
 
 And then … to make a long story short … I finished!! and best of all, the three panels were laying flat. PHEW!
 
@@ -71,11 +71,11 @@ The remaining work was a piece of cake but still required lots of hours: squarin
 
 This is the way the back looks.  I like how you see only texture.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-8.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-10.jpg">
 
 And this is the finished work, I named it “Wandering Through” as an invitation to come into the building,  wander through it, appreciate all the wonderful artwork on display and take it all in.  It measures a little over 9 feet wide and a little over 4 feet high.
 
-<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-9.jpg">
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-11.jpg">
 
 This is the largest piece I have made so far and I am happy with how it turned out.   It measures a little over 9 feet wide and a little over 4 feet high. Initially I was a bit nervous about the challenge but I have to say that I thoroughly enjoyed the process of making this piece.  I am also thrilled with what I learned while screen printing fabrics and now have endless ideas for future work.  All in all, the process was smooth and I did not hit any major snags.  Of course there was some undoing and redoing, some over dyeing of fabrics and some moments of "how do I put THIS together", but all of that is part of creating.
 
