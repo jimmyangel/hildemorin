@@ -21,7 +21,7 @@ As usual, the design concept immediately started to evolve in my head and since 
 
 And so the work began ... I did a little bit of doodling and came up with these not-very-fancy sketches that guided me during the design and construction phases.
 
-INSERT SKETCHES HERE
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-1.jpg">
 
 The next step was fabric selection! The colors of the background were going to be mainly yellows, oranges, greens and neutrals.   Tree trunks were going to be very prominent but I still had not settled on their color.  For the tree canopies I had a vision, which led me to do some deconstructive screen printing. That was a fun process with some pretty nice results!
 
