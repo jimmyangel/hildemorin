@@ -15,7 +15,7 @@ In September 2021 I received a short and sweet message from Drea Frost asking if
 
 How could I say “no” to this!
 
-Drea invited me to meet with her, with the SCCC General Manager, Russ Vandenberg, and with the rest of the committee responsible for the project, to look at the space where my work would hang.  I was in awe with the newly expanded and renovated facility and felt slightly intimidated by the task ahead of me.  More importantly I felt deeply honored that my work had been chosen to be part of this collection.
+Drea invited me to meet with her, with the SCCC General Manager, Russ Vandenberg, and with the rest of the committee responsible for the project, to look at the space where my work would hang.  I was in awe with the newly expanded and renovated facility and felt somewhat intimidated by the task ahead of me.  More importantly I felt deeply honored that my work had been chosen to be part of this collection.
 
 A month later I had a contract in my hands and the task to create the largest quilt I have created to date: a triptych with a forest theme, measuring a total of nine feet in width and 4 feet in height, to be delivered in six months.
 
