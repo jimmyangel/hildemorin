@@ -35,7 +35,7 @@ Something like that!  The opening of light in the picture on the right was a rem
 
 Now onto the tree trunks.
 
-I started with skinny trees, in mostly dark greys with a few light grey and purple highlights.  After auditioning them with the background I came to the conclusion that they were not prominent enough but making them wider would add too much dark to the design.  I cut some of the branches off my skinny trunks, rearranged them and made them my secondary layer of trees.  The first layer was going to be wide tree trunks in light greys, violets and a few slivers of the dark grey.  I cut some wide strips of paper that served as place holders for these trunks.
+I started with skinny trees, in mostly dark greys with a few light grey and purple highlights.  After auditioning them with the background I came to the conclusion that they were not prominent enough, but making them wider would add too much dark to the design.  I cut some of the branches off my skinny trunks, rearranged them and made them my secondary layer of trees.  The first layer was going to be made of wide tree trunks in light greys, violets and a few slivers of the dark grey.  I cut some wide strips of paper that served as place holders for these trunks.
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-5.jpg">
 
@@ -51,7 +51,7 @@ The next decision was how to piece the background.  When working on landscapes I
 
 I liked the look of these angular randomly pieced sections and thought they would look good as the canopies.  The slivers of whitish fabric resembled the light coming through the leaves.
 
-And so the piecing continued … lots of hours of designing, sewing, auditioning, undoing, re-designing, sewing again … until things start falling into place.
+And so the piecing continued … lots of hours of designing, sewing, auditioning, undoing, re-designing, sewing again … until things started falling into place.
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-extra.jpg">
 
