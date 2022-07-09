@@ -1,5 +1,5 @@
 ---
-title: My art goes to the Oregon Coast
+title: My art goes to the beach
 tags:
   - Seaside
   - Civic-and-Convention-Center
