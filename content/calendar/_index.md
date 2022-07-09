@@ -22,6 +22,8 @@ teachingschedule:
       Portland, OR
 exhibits:
   - exhibitinfo: |-
+      <br>
+
       ![](/images/uploads/2022-mix-chessman-card-email.jpg)
 
       Chessman Gallery - Inside the Lincoln City Cultural Center
@@ -32,6 +34,9 @@ exhibits:
     exhibitlink: https://lincolncity-culturalcenter.org/events/fiber-in-the-mix/
     exhibitname: FIBER IN THE MIX - Group Exhibit <br>
   - exhibitname: 2022 SITKA Art Invitational <br>
-    exhibitinfo: "![](/images/uploads/sai-postcard-for-emailing-2022.png)"
+    exhibitinfo: |-
+      <br>
+
+      ![](/images/uploads/sai-postcard-for-emailing-2022.png)
     exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
 ---
