@@ -1,7 +1,7 @@
 ---
 title: My Art Goes To School
 tags:
-  - Cannady School
+  - cannady-school
 date: '2019-10-13T20:58:22-07:00'
 thumbnail: /images/uploads/blog-2019-cannady-school-thumbnail.jpg
 ---
