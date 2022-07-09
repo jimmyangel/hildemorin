@@ -31,4 +31,7 @@ exhibits:
       Lincoln City, OR
     exhibitlink: https://lincolncity-culturalcenter.org/events/fiber-in-the-mix/
     exhibitname: FIBER IN THE MIX - Group Exhibit
+  - exhibitname: "2022 SITKA Art Invitational "
+    exhibitinfo: "![](/images/uploads/sai-postcard-for-emailing.png)"
+    exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
 ---
