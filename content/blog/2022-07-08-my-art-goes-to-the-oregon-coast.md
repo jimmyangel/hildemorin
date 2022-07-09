@@ -2,10 +2,10 @@
 title: My art goes to the Oregon Coast
 tags:
   - Seaside
-  - Civic & Convention Center
-  - Wandering Through
-  - public art
-  - permanent collection
+  - Civic-and-Convention-Center
+  - Wandering-Through
+  - public-art
+  - permanent-collection
 date: 2022-07-08T02:15:55.545Z
 thumbnail: /images/uploads/blog-2022-wandering-through-thumbnail.jpg
 ---
@@ -91,4 +91,4 @@ This is the largest piece I have made so far and I am happy with how it turned o
 
 Thank you for reading this post.  It you are ever near the city of Seaside, take a little bit of time to visit the Civic and Convention Center's permanent art collection, it is open to the public and you will like what you see!
 
-My blog is not setup for answering posts but please email me if you have any questions.
+If you have any questions please post a comment and I'll post an answer or you can [email](mailto:hildemorin@gmail.com) me.
