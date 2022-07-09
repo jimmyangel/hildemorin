@@ -81,6 +81,10 @@ And this is the finished work, I named it “Wandering Through” as an invitati
 
 This is the largest piece I have made so far and I am happy with how it turned out.   It measures a little over 9 feet wide and a little over 4 feet high. Initially I was a bit nervous about the challenge but I have to say that I thoroughly enjoyed the process of making this piece.  I am also thrilled with what I learned while screen printing fabrics and now have endless ideas for future work.  All in all, the process was smooth and I did not hit any major snags.  Of course there was some undoing and redoing, some over dyeing of fabrics and some moments of "how do I put THIS together", but all of that is part of creating.
 
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-12.jpg">
+
+<img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-13.jpg">
+
 Thank you for reading this post.  It you are ever near the city of Seaside, take a little bit of time to visit the Civic and Convention Center's permanent art collection, it is open to the public and you will like what you see!
 
 My blog is not setup for answering posts but please email me if you have any questions.
