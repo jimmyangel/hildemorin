@@ -83,11 +83,11 @@ This is the largest piece I have made so far and I am happy with how it turned o
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-12.jpg">
 
-
+<br>
 
 <img class="img-responsive" src="/images/uploads/blog-2022-wandering-through-13.jpg">
 
-
+<br>
 
 Thank you for reading this post.  It you are ever near the city of Seaside, take a little bit of time to visit the Civic and Convention Center's permanent art collection, it is open to the public and you will like what you see!
 
