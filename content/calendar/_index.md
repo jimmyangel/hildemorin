@@ -38,5 +38,11 @@ exhibits:
       <br>
 
       ![](/images/uploads/sai-postcard-for-emailing-2022.png)
+
+      Oregon Contemporary
+
+      October 14-16
+
+      Portland, OR
     exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
 ---
