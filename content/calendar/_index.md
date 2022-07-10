@@ -11,7 +11,7 @@ teachingschedule:
     classname: "IN and AROUND TOWN "
     classnamekey: cityscape
     date: April 10-15, 2022 <br><b><i>COVID vaccination required</i></b><br>
-  - date: May 2-6, 2022 <br><b><i>COVID vaccination required</i></b><br>
+  - date: October 24-28, 2022 <br><b><i>COVID vaccination required</i></b><br>
     classnamekey: cityscape
     classname: In and Around Town
     classcontactlink: https://www.hildemorin.com/#contact
