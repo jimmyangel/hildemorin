@@ -76,8 +76,7 @@ galleryitems:
     scale: 80%
     title: RANDOM WINDOWS
   - caption: <b>HISPANIOLA</b><br>48 W&quot; x 28&quot; H<br>Colorful villages and
-      coconut plantations of the Dominican Republic<br>(Private Collection,
-      Portland, OR)
+      coconut plantations of the Dominican Republic
     dimensions: 48x28
     imageentry: images/Hispaniola-web-entry.jpg
     imageicon: images/hispaniola-web-icon.jpg
