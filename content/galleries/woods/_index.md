@@ -26,7 +26,7 @@ galleryitems:
       quilted<br>
     imageentry: images/2017-Under-the-Maple-Tree-web-entry.jpg
     imageicon: images/2017-under-the-maple-tree-web-icon.jpg
-    price: 2,200
+    price: 1,800
   - title: AFTERNOON GLOW
     dimensions: 58x29
     caption: <b>AFTERNOON GLOW</b><br>58 W&quot; x 29&quot; H<br>Curved piecing,
