@@ -2,6 +2,12 @@
 title: curves
 galleryname: Curves
 galleryitems:
+  - title: GOING WITH THE FLOW
+    dimensions: 18"x 18" each panel
+    caption: <b>G﻿OING WITH THE FLOW</b><br>18 W&quot; x 18&quot; H
+      DIPTYCH<br>Machine pieced, machine quilted
+    imageentry: images/2021-going-with-the-flow-web-entry.jpg
+    imageicon: images/2021-going-with-the-flow-web-icon.jpg
   - caption: <b>THROUGH  THE TULIPS</b><br>40 W&quot; x 30&quot; H<br>Curved
       piecing, machine quilted
     dimensions: 40x30
@@ -103,10 +109,4 @@ galleryitems:
     imageentry: images/2007-Low-High-tide-web-entry.jpg
     imageicon: images/2007-low-high-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
-  - title: GOING WITH THE FLOW
-    dimensions: 18"x 18" each panel
-    caption: <b>G﻿OING WITH THE FLOW</b><br>18 W&quot; x 18&quot; H
-      DIPTYCH<br>Machine pieced, machine quilted
-    imageentry: images/2021-going-with-the-flow-web-entry.jpg
-    imageicon: images/2021-going-with-the-flow-web-icon.jpg
 ---
