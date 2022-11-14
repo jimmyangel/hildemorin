@@ -72,4 +72,12 @@ galleryitems:
     imageentry: images/2010-green-web-entry.jpg
     scale: 80%
     imageicon: images/2010-green-web-icon.jpg
+  - title: WANDERING THROUGH
+    dimensions: 48" x 36" each panel
+    caption: <b>WANDERING THROUGH</b><br>48 W&quot; x 36&quot; H<br>Screen
+      printed,hand dyed and commercial fabrics machine pieced, machine
+      quilted<br><i>SOLD</i><br>(Seaside Civic & Convention Center (SCCC)
+      permanent public art collection)
+    imageentry: images/2022-wandering-through-web-entry.jpg
+    imageicon: images/2022-wandering-through-web-icon.jpg
 ---
