@@ -30,8 +30,8 @@ teachingschedule:
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
   - date: November 13-17, 2023 <br>
-    classnamekey: cityscape
-    classname: In and Around Town
+    classnamekey: yourownforest
+    classname: Your Own Forest
     classdetails: |-
       Studio Class - *private group*
 
