@@ -47,5 +47,14 @@ teachingschedule:
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
+  - date: April 29 - May 3, 2024 <br>
+    classnamekey: yourownforest
+    classname: Your Own Forest
+    classdetails: |-
+      Studio Class - *private group*
+
+      Portland, OR
+    classcontactlink: https://www.hildemorin.com/#contact
+    classcontactname: Hilde Morin
 exhibits: []
 ---
