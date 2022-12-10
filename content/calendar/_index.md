@@ -17,7 +17,7 @@ teachingschedule:
       Asilomar Conference Center
 
       Pacific Grove, California
-    classname: "IN and AROUND TOWN "
+    classname: IN and Around Town
     classnamekey: cityscape
     date: May 5-10, 2023 <br>
   - date: October 16-20, 2023 <br>
