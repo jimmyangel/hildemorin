@@ -42,7 +42,7 @@ teachingschedule:
     classnamekey: cityscape
     classname: In and Around Town
     classdetails: |-
-      Studio Class - *private group*
+      Studio Class 
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
