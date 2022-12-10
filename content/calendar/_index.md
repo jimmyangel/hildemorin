@@ -1,48 +1,42 @@
 ---
-calendaryear: "2022"
+calendaryear: 2023-2024
 teachingschedule:
-  - classcontactlink: https://www.emptyspoolsseminars.com/faculty.html
-    classcontactname: Empty Spools Seminars
-    classdetails: |-
-      EMPTY SPOOLS Seminars 2022
-      Asilomar Conference Center
-
-      Pacific Grove, California
-    classname: "IN and AROUND TOWN "
-    classnamekey: cityscape
-    date: April 10-15, 2022 <br><b><i>COVID vaccination required</i></b><br>
-  - date: October 24-28, 2022 <br><b><i>COVID vaccination required</i></b><br>
+  - date: March 20-24, 2023 <br>
     classnamekey: cityscape
     classname: In and Around Town
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
     classdetails: |-
-      Studio Class
+      Studio Class - *private group*
 
       Portland, OR
-exhibits:
-  - exhibitinfo: |-
-      <br>
+  - classcontactlink: https://www.emptyspoolsseminars.com/faculty.html
+    classcontactname: Empty Spools Seminars
+    classdetails: |-
+      EMPTY SPOOLS Seminars 2023
+      Asilomar Conference Center
 
-      ![](/images/uploads/2022-mix-chessman-card-email.jpg)
-
-      Chessman Gallery - Inside the Lincoln City Cultural Center
-
-      January 14 - February 28
-
-      Lincoln City, OR
-    exhibitlink: https://lincolncity-culturalcenter.org/events/fiber-in-the-mix/
-    exhibitname: "FIBER IN THE MIX - Group Exhibit "
-  - exhibitname: "2022 SITKA Art Invitational "
-    exhibitinfo: |-
-      <br>
-
-      ![](/images/uploads/sai-postcard-for-emailing-2022.png)
-
-      Oregon Contemporary
-
-      October 14-16
+      Pacific Grove, California
+    classname: "IN and AROUND TOWN "
+    classnamekey: cityscape
+    date: May 5-10, 2023 <br>
+  - date: October 16-20, 2023 <br>
+    classnamekey: cityscape
+    classname: In and Around Town
+    classdetails: |-
+      Studio Class - *private group*
 
       Portland, OR
-    exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
+    classcontactlink: https://www.hildemorin.com/#contact
+    classcontactname: Hilde Morin
+  - date: November 13-17, 2023 <br>
+    classnamekey: cityscape
+    classname: In and Around Town
+    classdetails: |-
+      Studio Class - *private group*
+
+      Portland, OR
+    classcontactlink: https://www.hildemorin.com/#contact
+    classcontactname: Hilde Morin
+exhibits: []
 ---
