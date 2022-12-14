@@ -7,7 +7,7 @@ teachingschedule:
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
     classdetails: |-
-      Studio Class - *private group*
+      Studio Class 
 
       Portland, OR
   - classcontactlink: https://www.emptyspoolsseminars.com/faculty.html
@@ -24,8 +24,7 @@ teachingschedule:
     classnamekey: cityscape
     classname: In and Around Town
     classdetails: |-
-      Studio Class - *private group*
-
+      Studio Class \
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
@@ -33,7 +32,7 @@ teachingschedule:
     classnamekey: yourownforest
     classname: Your Own Forest
     classdetails: |-
-      Studio Class - *private group*
+      Studio Class 
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -42,7 +41,7 @@ teachingschedule:
     classnamekey: cityscape
     classname: In and Around Town
     classdetails: |-
-      Studio Class - *private group*
+      Studio Class 
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -51,7 +50,7 @@ teachingschedule:
     classnamekey: yourownforest
     classname: Your Own Forest
     classdetails: |-
-      Studio Class - *private group*
+      Studio Class 
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
