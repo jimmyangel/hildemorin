@@ -10,7 +10,7 @@ teachingschedule:
       Studio Class 
 
       Portland, OR
-  - classcontactlink: https://www.emptyspoolsseminars.com/faculty.html
+  - classcontactlink: https://www.emptyspoolsseminars.com/
     classcontactname: Empty Spools Seminars
     classdetails: |-
       EMPTY SPOOLS Seminars 2023
