@@ -10,7 +10,7 @@ teachingschedule:
       Studio Class 
 
       Portland, OR
-  - classcontactlink: https://www.emptyspoolsseminars.com/faculty.html
+  - classcontactlink: https://www.emptyspoolsseminars.com/
     classcontactname: Empty Spools Seminars
     classdetails: |-
       EMPTY SPOOLS Seminars 2023
@@ -50,6 +50,15 @@ teachingschedule:
   - date: April 29 - May 3, 2024 <br>
     classnamekey: yourownforest
     classname: Your Own Forest
+    classdetails: |-
+      Studio Class 
+
+      Portland, OR
+    classcontactlink: https://www.hildemorin.com/#contact
+    classcontactname: Hilde Morin
+  - date: April 10-11, 2023 <br>
+    classnamekey: curves
+    classname: Curves & More
     classdetails: |-
       Studio Class 
 
