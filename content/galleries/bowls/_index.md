@@ -41,7 +41,7 @@ galleryitems:
       fabrics on canvas, machine stitched
     imageentry: images/2016-late-harvest-web-entry.jpg
     imageicon: images/2016-late-harvest-web-icon.jpg
-    price: "480"
+    price: ""
   - title: EMPTY NEST
     dimensions: 17" Φ
     caption: <b>EMPTY NEST</b><br>17 &quot; diameter<br>Hand dyed and commercial
