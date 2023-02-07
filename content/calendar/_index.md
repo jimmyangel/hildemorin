@@ -65,5 +65,14 @@ teachingschedule:
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
+  - date: June 27-28, 2023
+    classnamekey: curves
+    classname: Curves & More
+    classdetails: |-
+      Studio Class 
+
+      Portland, OR
+    classcontactlink: https://www.hildemorin.com/#contact
+    classcontactname: Hilde Morin
 exhibits: []
 ---
