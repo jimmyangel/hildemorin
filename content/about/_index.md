@@ -41,8 +41,8 @@ artistpublications:
   - publication: "2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 /
       #139 pp 26-27"
 artistassignments:
-  - assignment: "Infinity Art Gallery - Fiber Art Exhibit 2011: Juror"
   - assignment: 'High Fiber Diet "Can You Hear It?" 2021: Juror'
+  - assignment: "Infinity Art Gallery - Fiber Art Exhibit 2011: Juror"
 artistawards:
   - awards:
       - award: "AWARD OF EXCELLENCE: El Cerro"
@@ -86,6 +86,12 @@ artistawards:
         presenter: Montgomery County Fair - Maryland, USA
     year: "1998"
 artistexhibits:
+  - year: "2022"
+    exhibits:
+      - SITKA Northwest ART INVITATIONAL 2022 - Portland OR USA
+      - '"Fiber in the MIX" Group exhibit at Chessman Gallery - Lincoln City OR
+        USA'
+      - '"Threads" exhibit at Sherwood Center for the Arts - Sherwood OR USA'
   - year: "2021"
     exhibits:
       - SITKA Northwest ART INVITATIONAL 2021 - Portland Oregon USA
