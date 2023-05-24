@@ -7,14 +7,14 @@ teachingschedule:
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
   - date: April 10-11, 2023 <br>
     classnamekey: curves
     classname: Curves & More
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -33,7 +33,7 @@ teachingschedule:
     classnamekey: curves
     classname: Curves & More
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -42,7 +42,7 @@ teachingschedule:
     classnamekey: cityscape
     classname: In and Around Town
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -51,7 +51,7 @@ teachingschedule:
     classnamekey: yourownforest
     classname: Your Own Forest
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -60,7 +60,7 @@ teachingschedule:
     classnamekey: cityscape
     classname: In and Around Town
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -69,7 +69,7 @@ teachingschedule:
     classnamekey: yourownforest
     classname: Your Own Forest
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
@@ -78,15 +78,14 @@ teachingschedule:
     classnamekey: yourownforest
     classname: Your Own Forest
     classdetails: |-
-      Studio Class 
+      Studio Class
 
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
 exhibits:
   - exhibitname: IN THE MIX
-    exhibitinfo: '![](/images/uploads/2023-mix-stitchin-post-card-web.jpg "IN THE
-      MIX - Group Exhibit ")'
+    exhibitinfo: <img src="/images/uploads/2023-mix-stitchin-post-card-web.jpg" title="IN THE MIX - Group Exhibit " width="100%">
     exhibitlink: https://mixpdx.blogspot.com/
   - exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
     exhibitname: "2023 Sitka Art Invitational "
