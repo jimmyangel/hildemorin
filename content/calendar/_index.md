@@ -83,5 +83,8 @@ teachingschedule:
       Portland, OR
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
-exhibits: []
+exhibits:
+  - exhibitname: IN THE MIX
+    exhibitinfo: "![](/images/uploads/2023-mix-stitchin-post-card-email.jpg)"
+    exhibitlink: https://mixpdx.blogspot.com/
 ---
