@@ -85,6 +85,7 @@ teachingschedule:
     classcontactname: Hilde Morin
 exhibits:
   - exhibitname: IN THE MIX
-    exhibitinfo: "![](/images/uploads/2023-mix-stitchin-post-card-web.jpg)"
+    exhibitinfo: '![](/images/uploads/2023-mix-stitchin-post-card-web.jpg "IN THE
+      MIX - Group Exhibit ")'
     exhibitlink: https://mixpdx.blogspot.com/
 ---
