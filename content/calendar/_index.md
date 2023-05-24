@@ -88,4 +88,25 @@ exhibits:
     exhibitinfo: '![](/images/uploads/2023-mix-stitchin-post-card-web.jpg "IN THE
       MIX - Group Exhibit ")'
     exhibitlink: https://mixpdx.blogspot.com/
+  - exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
+    exhibitname: "2023 Sitka Art Invitational "
+    exhibitinfo: |-
+      **October 13-15, 2023**\
+      ‍
+
+      **Oregon Contemporary**\
+      **8371 North Interstate Ave.**\
+      **Portland, OR, 97217**
+  - exhibitname: Art at PDX Commons - Solo Exhibit
+    exhibitinfo: |-
+      P﻿DX Commons - Indoor Gallery Wall
+
+      O﻿ctober 1, 2023 - November 30, 2023
+    exhibitlink: https://pdxcommons.com/
+  - exhibitname: Art at  PDX Commons - Group Exhibit
+    exhibitinfo: |-
+      P﻿DX Commons - Outdoor Vitrine
+
+      O﻿ctober 1, 2023 - November 30, 2023
+    exhibitlink: https://pdxcommons.com/
 ---
