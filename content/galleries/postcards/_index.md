@@ -9,7 +9,7 @@ galleryitems:
   - title: MARSHSCAPES - GRASSES
     dimensions: 12" x 12"
     caption: <b>MARSHSCAPES - GRASSES</b><br>12 W&quot; x 12&quot; H<br><i>SOLD (at
-      Shearwater gallery)</i>
+      Shearwater gallery, Cannon Beach)</i>
     imageentry: images/2018-grass-tile-web-entry.jpg
     imageicon: images/2018-grass-tile-web-icon.jpg
   - title: MARSHSCAPES - HORSETAIL
@@ -20,7 +20,7 @@ galleryitems:
   - title: MARSHES - CATTAIL
     dimensions: 12"x 12"
     caption: <b>MARSHSCAPES - CATTAIL</b><br>12 W&quot; x 12&quot; H<br><i>SOLD (at
-      Shearwater gallery)</i>
+      Shearwater gallery, Cannon Beach)</i>
     imageentry: images/2018-cattail-tile-web-entry.jpg
     imageicon: images/2018-cattail-tile-web-icon.jpg
   - title: PETALS 1
