@@ -5,7 +5,8 @@ galleryitems:
   - title: AUTUMN GUSTS
     dimensions: 17" Φ
     caption: <b>AUTUMN GUSTS</b><br>17 &quot; diameter<br>Hand dyed and commercial
-      fabrics on canvas, floating inserts, machine stitched
+      fabrics on canvas, floating inserts, machine stitched<br><i>SOLD (at
+      Shearwater gallery)</i>
     imageentry: images/2019-autumn-gusts-web-entry.jpg
     imageicon: images/2019-autumn-gusts-web-icon.jpg
     price: ""
@@ -19,7 +20,7 @@ galleryitems:
   - title: PAINTED HILLS
     dimensions: 17" Φ
     caption: <b>PAINTED HILLS</b><br>17 &quot; diameter<br>Hand dyed and commercial
-      fabrics on canvas, machine stitched
+      fabrics on canvas, machine stitched<br><i>SOLD (at Shearwater gallery)</i>
     imageentry: images/2019-painted-hills-web-entry.jpg
     imageicon: images/2019-painted-hills-web-icon.jpg
     price: ""
