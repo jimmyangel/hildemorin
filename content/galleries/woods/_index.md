@@ -4,7 +4,7 @@ galleryname: Woods & Water
 galleryitems:
   - title: FLOURISH
     dimensions: 47"w x 27"h
-    caption: <b>FLOURISH</b><br>47 W&quot; x 21&quot; H<br>Hand dyed and commercial
+    caption: <b>FLOURISH</b><br>47 W&quot; x 27&quot; H<br>Hand dyed and commercial
       fabrics machine pieced, machine quilted<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2023-flourish-web-entry.jpg
     imageicon: images/2023-flourish-web-icon.jpg
