@@ -10,8 +10,8 @@ galleryitems:
     imageicon: images/2023-flourish-web-icon.jpg
   - title: WANDERING THROUGH
     dimensions: 48" x 36" each panel
-    caption: <b>WANDERING THROUGH</b><br>48 W&quot; x 36&quot  each panel;
-      H<br>Screen printed, hand dyed and commercial fabrics machine pieced,
+    caption: <b>WANDERING THROUGH</b><br>48 W&quot; x 36 H&quot  each panel;
+      <br>Screen printed, hand dyed and commercial fabrics machine pieced,
       machine quilted<br><i>SOLD</i><br>(Seaside Civic & Convention Center
       (SCCC) permanent public art collection)
     imageentry: images/2022-wandering-through-web-entry.jpg
