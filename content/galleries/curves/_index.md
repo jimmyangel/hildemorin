@@ -109,4 +109,10 @@ galleryitems:
     imageentry: images/2007-Low-High-tide-web-entry.jpg
     imageicon: images/2007-low-high-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
+  - title: FULL SHADE PERENNIALS
+    imageentry: images/2023-full-shade-perennials-web-entry.jpg
+    imageicon: images/2023-full-shade-perennials-web-icon.jpg
+    price: "1200"
+    dimensions: 42"w x 27"h
+    caption: F﻿ree form curves and inset circles.
 ---
