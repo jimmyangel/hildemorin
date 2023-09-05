@@ -9,7 +9,7 @@ galleries:
   - caption: WALLS & WINDOWS
     imageurl: images/walls.jpg
     page: walls
-  - caption: CURVES and CIRCLES
+  - caption: CURVES & CIRCLES
     imageurl: images/curves.jpg
     page: curves
   - caption: WOODS & WATER
