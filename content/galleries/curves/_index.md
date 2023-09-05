@@ -2,6 +2,12 @@
 title: curves
 galleryname: Curves
 galleryitems:
+  - title: FULL SHADE PERENNIALS
+    imageentry: images/2023-full-shade-perennials-web-entry.jpg
+    imageicon: images/2023-full-shade-perennials-web-icon.jpg
+    price: "1200"
+    dimensions: 42"w x 27"h
+    caption: F﻿ree form curves and inset circles.
   - title: GOING WITH THE FLOW
     dimensions: 18"x 18" each panel
     caption: <b>G﻿OING WITH THE FLOW</b><br>18 W&quot; x 18&quot; H
@@ -109,10 +115,4 @@ galleryitems:
     imageentry: images/2007-Low-High-tide-web-entry.jpg
     imageicon: images/2007-low-high-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
-  - title: FULL SHADE PERENNIALS
-    imageentry: images/2023-full-shade-perennials-web-entry.jpg
-    imageicon: images/2023-full-shade-perennials-web-icon.jpg
-    price: "1200"
-    dimensions: 42"w x 27"h
-    caption: F﻿ree form curves and inset circles.
 ---
