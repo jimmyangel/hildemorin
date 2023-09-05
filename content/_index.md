@@ -13,7 +13,7 @@ galleries:
     imageurl: images/curves.jpg
     page: curves
   - caption: WOODS & WATER
-    imageurl: images/woods.jpg
+    imageurl: images/woods-water-gallery.jpg
     page: woods
   - caption: BOWLS
     imageurl: images/bowls.jpg
