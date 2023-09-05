@@ -2,6 +2,12 @@
 title: woods
 galleryname: Woods & Water
 galleryitems:
+  - title: FLOURISH
+    dimensions: 47"w x 27"h
+    caption: <b>F</b><br>47 W&quot; x 21&quot; H<br>Hand dyed and commercial fabrics
+      machine pieced, machine quilted<br><i>PRIVATE COLLECTION</i>
+    imageentry: images/2023-flourish-web-entry.jpg
+    imageicon: images/2023-flourish-web-icon.jpg
   - title: WANDERING THROUGH
     dimensions: 48" x 36" each panel
     caption: <b>WANDERING THROUGH</b><br>48 W&quot; x 36&quot  each panel;
