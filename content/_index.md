@@ -4,6 +4,7 @@ slider:
   - imageurl: images/03.jpg
   - imageurl: images/04.jpg
   - imageurl: images/05.jpg
+  - imageurl: images/06.jpg
 galleries:
   - caption: WALLS & WINDOWS
     imageurl: images/walls.jpg
