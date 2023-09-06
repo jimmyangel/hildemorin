@@ -6,8 +6,9 @@ slider:
   - imageurl: images/02.jpg
     legendbottom: ""
   - imageurl: images/03.jpg
+    legendbottom: ""
   - imageurl: images/04.jpg
-    legendbottom: " "
+    legendbottom: ""
 galleries:
   - caption: WALLS & WINDOWS
     imageurl: images/walls.jpg
