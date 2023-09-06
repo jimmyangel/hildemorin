@@ -19,7 +19,7 @@ galleryitems:
   - caption: <b>THROUGH  THE TULIPS</b><br>40 W&quot; x 30&quot; H<br>Curved
       piecing, machine quilted
     dimensions: 40x30
-    imageentry: images/2019-Tulip-Envy-web-entry.jpg
+    imageentry: images/through-the-tulips-web-entry.jpg
     imageicon: images/2019-tulip-envy-web-icon.jpg
     price: "1200"
     title: THROUGH THE TULIPS
