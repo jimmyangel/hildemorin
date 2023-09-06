@@ -24,7 +24,8 @@ galleryitems:
     price: "1200"
     title: THROUGH THE TULIPS
   - caption: <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse
-      appliqué, machine quilted
+      appliqué, machine quilted<i>SOLD</i><br>(Pero Art Group - Portland,
+      Oregon)
     dimensions: 24x30
     imageentry: images/2015-wine-rows-web-entry.jpg
     imageicon: images/2015-wine-rows-web-icon.jpg
