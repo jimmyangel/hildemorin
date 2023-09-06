@@ -1,10 +1,6 @@
 ---
 title: Hilde Morin Fiber Art Home Page
 slider:
-  - imageurl: images/01.jpg
-    legendbottom: ""
-  - imageurl: images/02.jpg
-    legendbottom: ""
   - imageurl: images/03.jpg
   - imageurl: images/04.jpg
   - imageurl: images/05.jpg
