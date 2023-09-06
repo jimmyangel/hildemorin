@@ -2,9 +2,13 @@
 title: Hilde Morin Fiber Art Home Page
 slider:
   - imageurl: images/06.jpg
+    legendbottom: ""
   - imageurl: images/03.jpg
+    legendbottom: ""
   - imageurl: images/04.jpg
+    legendbottom: ""
   - imageurl: images/05.jpg
+    legendbottom: ""
 galleries:
   - caption: WALLS & WINDOWS
     imageurl: images/walls.jpg
