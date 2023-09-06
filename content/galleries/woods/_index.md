@@ -5,8 +5,7 @@ galleryitems:
   - title: ACUARELA
     dimensions: 75"w x 54"H
     caption: <b>ACUARELA</b><br>75 W&quot; x 54&quot; H<br>Hand dyed, screen
-      printed, hand painted and commercial fabrics; machine pieced and achine
-      quilted
+      printed, hand painted and commercial fabrics; machine pieced and quilted
     imageentry: images/2023-acuarela-web-entry.jpg
     imageicon: images/2023-acuarela-web-icon.jpg
   - title: FLOURISH
