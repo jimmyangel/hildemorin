@@ -15,6 +15,7 @@ galleryitems:
       DIPTYCH<br>Machine pieced, machine quilted
     imageentry: images/2021-going-with-the-flow-web-entry.jpg
     imageicon: images/2021-going-with-the-flow-web-icon.jpg
+    price: "600"
   - caption: <b>THROUGH  THE TULIPS</b><br>40 W&quot; x 30&quot; H<br>Curved
       piecing, machine quilted
     dimensions: 40x30
