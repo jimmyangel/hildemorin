@@ -11,7 +11,7 @@ slider:
     legendbottom: ""
 galleries:
   - caption: WALLS & WINDOWS
-    imageurl: images/walls.jpg
+    imageurl: images/walls-gallery.jpg
     page: walls
   - caption: CURVES & CIRCLES
     imageurl: images/curves.jpg
