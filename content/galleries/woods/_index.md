@@ -2,6 +2,13 @@
 title: woods
 galleryname: Woods & Water
 galleryitems:
+  - title: ACUARELA
+    dimensions: 75"w x 54"H
+    caption: <b>ACUARELA</b><br>75 W&quot; x 54&quot; H<br>Hand dyed, screen
+      printed, hand painted and commercial fabrics; machine pieced and achine
+      quilted
+    imageentry: images/2023-acuarela-web-entry.jpg
+    imageicon: images/2023-acuarela-web-icon.jpg
   - title: FLOURISH
     dimensions: 47"w x 27"h
     caption: <b>FLOURISH</b><br>47 W&quot; x 27&quot; H<br>Hand dyed and commercial
