@@ -2,6 +2,13 @@
 title: walls
 galleryname: Walls & Windows
 galleryitems:
+  - title: 2020 - AS I SEE IT
+    dimensions: 18"W x 40"H
+    imageentry: images/2020-as-i-see-it-web-entry.jpg
+    imageicon: images/2020-as-i-see-it-web-icon.jpg
+    caption: <b>2020 - AS I SEE IT</b><br>18&quot; W x 40&quot; H<br>Hand dyed and
+      commercial fabrics, machine pieced, machine
+      quilted<br><i>SOLD</i><br>Sisters, OR
   - caption: <b>PORTO</b><br>60&quot; W x 30&quot; H<br>Hand dyed, hand stamped and
       commercial fabrics, machine pieced, machine
       quilted<br><i>SOLD</i><br>Portland, OR
