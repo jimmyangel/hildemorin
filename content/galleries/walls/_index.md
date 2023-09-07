@@ -14,7 +14,7 @@ galleryitems:
     dimensions: 40x40
     imageentry: images/please-remove-boots-and-guns-web-entry.jpg
     imageicon: images/please-remove-boots-and-guns-web-icon.jpg
-    price: 2,200
+    price: 2,000
     title: ABANDONED
   - caption: <b>PUEBLO BLANCO (White Village)</b><br>50&quot; W x 45&quot;
       H<br>Narrow streets, stairways and alleys take you along these hilly
@@ -36,7 +36,7 @@ galleryitems:
     dimensions: 30x47
     imageentry: images/carrefour-web-entry.jpg
     imageicon: images/carrefour-web-icon.jpg
-    price: 2,200
+    price: 1,800
     title: CARREFOUR
   - caption: <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
       charming neighborhood in Venezuela highlighting its old colonial
