@@ -43,7 +43,7 @@ galleryitems:
     dimensions: 30x47
     imageentry: images/carrefour-web-entry.jpg
     imageicon: images/carrefour-web-icon.jpg
-    price: 1,800
+    price: 1,500
     title: CARREFOUR
   - caption: <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
       charming neighborhood in Venezuela highlighting its old colonial
