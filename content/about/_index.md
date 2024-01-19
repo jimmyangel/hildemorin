@@ -40,6 +40,8 @@ artistpublications:
   - publication: "2008 - OREGON HOME - March April 2008 / Portfolio: p 18"
   - publication: "2007 - THE QUILTING QUARTERLY - Fall 2007, Volume 36 / Number 3 /
       #139 pp 26-27"
+  - publication: 2023 - Patchwork Professional - Issue 03/2023 - The Making of
+      "Wandering Through" - Workshop
 artistassignments:
   - assignment: 'High Fiber Diet "Can You Hear It?" 2021: Juror'
   - assignment: "Infinity Art Gallery - Fiber Art Exhibit 2011: Juror"
