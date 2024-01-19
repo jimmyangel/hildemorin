@@ -33,8 +33,8 @@ teachingschedule:
       Studio Class
 
       Portland, OR
-    classname: Your Own Forest
-    classnamekey: yourownforest
+    classname: In and Around Town
+    classnamekey: cityscape
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
 exhibits: []
