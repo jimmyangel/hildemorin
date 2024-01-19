@@ -13,7 +13,8 @@ galleryitems:
   - title: SPRING BREEZE
     dimensions: 17" Φ
     caption: <b>SPRING BREEZE</b><br>17 &quot; diameter<br>Hand dyed and commercial
-      fabrics on canvas, floating inserts, machine stitched
+      fabrics on canvas, floating inserts, machine stitched<br><i>SOLD (at
+      Shearwater gallery, Cannon Beach)<i>
     imageentry: images/2019-spring-breeze-web-entry.jpg
     imageicon: images/2019-spring-breeze-web-icon.jpg
     price: ""
