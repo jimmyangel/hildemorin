@@ -1,5 +1,5 @@
 ---
-calendaryear: 2023-2024
+calendaryear: "2024"
 teachingschedule:
   - date: February 19-23, 2024 <br>
     classnamekey: cityscape
