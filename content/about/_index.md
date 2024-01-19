@@ -88,6 +88,12 @@ artistawards:
         presenter: Montgomery County Fair - Maryland, USA
     year: "1998"
 artistexhibits:
+  - exhibits:
+      - SITKA Northwest ART INVITATIONAL 2023 - Portland OR USA
+      - '"Made You Look" Solo show at PDX Commons - Portland'
+      - OR USA
+      - Group exhibit at PDX Commons - Portland OR USA
+    year: "2023"
   - year: "2022"
     exhibits:
       - SITKA Northwest ART INVITATIONAL 2022 - Portland OR USA
@@ -211,12 +217,6 @@ artistexhibits:
   - exhibits:
       - Montgomery County Fair - Maryland, USA
     year: "1998"
-  - exhibits:
-      - SITKA Northwest ART INVITATIONAL 2023 - Portland OR USA
-      - '"Made You Look" Solo exhibit at PDX Commons - Portland'
-      - OR USA
-      - Group exhibit at PDX Commons - Portland OR USA
-    year: "2023"
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: http://www.saqa.com/
