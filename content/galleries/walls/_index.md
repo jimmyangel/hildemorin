@@ -24,7 +24,7 @@ galleryitems:
     price: 2,000
     title: ABANDONED
   - caption: <b>PUEBLO BLANCO (White Village)</b><br>50&quot; W x 45&quot;
-      H<br><i>SOLD</i><br<br>Narrow streets, stairways and alleys take you along
+      H<br><i>SOLD</i><br>Narrow streets, stairways and alleys take you along
       these hilly villages in Spain inviting you to discover its ancient
       history. “Pueblo Blanco” was inspired by the white villages of Andalucía
       in southern Spain, where clusters of striking white houses burst with
