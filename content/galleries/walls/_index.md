@@ -32,7 +32,7 @@ galleryitems:
     dimensions: 50x45
     imageentry: images/pueblo-blanco-web-entry.jpg
     imageicon: images/pueblo-blanco-web-icon.jpg
-    price: 3,000
+    price: ""
     title: PUEBLO BLANCO
   - caption: >-
       <b>CARREFOUR (Road Crossing)</b><br>30&quot; W x 47&quot; H<br>Visiting
