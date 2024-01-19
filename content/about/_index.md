@@ -22,6 +22,8 @@ artiststatement: Drama and flow is what I like to express in my fiber
   studio</a> and at other venues, promoting the use of free form techniques in
   the construction of art quilts.
 artistpublications:
+  - publication: 2023 - Patchwork Professional - Issue 03/2023 - The Making of
+      "Wandering Through" - Workshop
   - publication: 2023 - Art Quilting Studio - Spring 2023 - Featured work
   - publication: 2022 - Patchwork Professional - Issue 01/2023 - An Interview
   - publication: 2021 - SAQA Art Quilt Quarterly Issue No.26
@@ -209,6 +211,12 @@ artistexhibits:
   - exhibits:
       - Montgomery County Fair - Maryland, USA
     year: "1998"
+  - exhibits:
+      - SITKA Northwest ART INVITATIONAL 2023 - Portland OR USA
+      - '"Made You Look" Solo exhibit at PDX Commons - Portland'
+      - OR USA
+      - Group exhibit at PDX Commons - Portland OR USA
+    year: "2023"
 artistmemberships:
   - org: SAQA - Studio Art Quilt Associates - Juried Artist Member (JAM)
     orglink: http://www.saqa.com/
