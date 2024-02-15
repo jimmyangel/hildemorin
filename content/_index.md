@@ -10,15 +10,15 @@ slider:
   - imageurl: images/05.jpg
     legendbottom: ""
 galleries:
+  - caption: WOODS & WATER
+    imageurl: images/woods-water-gallery.jpg
+    page: woods
   - caption: WALLS & WINDOWS
     imageurl: images/walls-gallery.jpg
     page: walls
   - caption: CURVES & CIRCLES
     imageurl: images/curves.jpg
     page: curves
-  - caption: WOODS & WATER
-    imageurl: images/woods-water-gallery.jpg
-    page: woods
   - caption: BOWLS
     imageurl: images/bowls.jpg
     page: bowls
