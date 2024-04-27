@@ -39,6 +39,6 @@ teachingschedule:
     classcontactname: Hilde Morin
 exhibits:
   - exhibitname: Cannon Beach Spring Arts Festival
-    exhibitinfo: "![](/images/uploads/cannon-beach-image.jpg)"
+    exhibitinfo: "![](/images/uploads/cannon-beach-arts-festival.jpg)"
     exhibitlink: https://www.cannonbeach.org/events-and-festivals/arts-events/spring-unveiling-arts-festival/
 ---
