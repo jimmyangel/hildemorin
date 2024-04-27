@@ -37,5 +37,8 @@ teachingschedule:
     classnamekey: cityscape
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
-exhibits: []
+exhibits:
+  - exhibitname: Cannon Beach Spring Arts Festival
+    exhibitinfo: "![](/images/uploads/cannon-beach-image.jpg)"
+    exhibitlink: https://www.cannonbeach.org/events-and-festivals/arts-events/spring-unveiling-arts-festival/
 ---
