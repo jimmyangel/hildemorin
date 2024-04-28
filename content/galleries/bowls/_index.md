@@ -139,4 +139,10 @@ galleryitems:
       fabrics on canvas, machine stitched and embellished
     imageentry: images/2023-early-bloom-web-entry.jpg
     imageicon: images/2023-early-bloom-web-icon.jpg
+  - title: SHORE
+    dimensions: 16" Φ
+    caption: <b>SHORE</b><br>16 &quot; diameter<br>Hand dyed and commercial fabrics
+      on canvas, machine stitched and embellished
+    imageentry: images/2024-shore-web-entry.jpg
+    imageicon: images/2024-shore-web-icon.jpg
 ---
