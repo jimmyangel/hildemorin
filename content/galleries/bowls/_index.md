@@ -133,4 +133,10 @@ galleryitems:
       Chicago 2007)
     imageentry: images/2007-Barrio-bowl-web-entry.jpg
     imageicon: images/2007-Barrio-bowl-web-icon.jpg
+  - title: FIRST BLOOM
+    dimensions: 17" Φ
+    caption: <b>FIRST BLOOM</b><br>17 &quot; diameter<br>Hand dyed and commercial
+      fabrics on canvas, machine stitched and embellished
+    imageentry: images/2023-early-bloom-web-entry.jpg
+    imageicon: images/2023-early-bloom-web-icon.jpg
 ---
