@@ -24,7 +24,7 @@ galleryitems:
     price: "1200"
     title: THROUGH THE TULIPS
   - caption: <b>WINE ROWS</b><br>24 W&quot; x 30&quot; H<br>Curved piecing, reverse
-      appliqué, machine quilted<i>SOLD</i><br>(Pero Art Group - Portland,
+      appliqué, machine quilted<i><SOLD<br>/i><br>(Pero Art Group - Portland,
       Oregon)
     dimensions: 24x30
     imageentry: images/2015-wine-rows-web-entry.jpg
@@ -118,4 +118,10 @@ galleryitems:
     imageentry: images/2007-Low-High-tide-web-entry.jpg
     imageicon: images/2007-low-high-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
+  - title: VINEYARD VISTA
+    dimensions: 58x42
+    caption: <b>VINEYARD VISTA</b><br>58 W&quot; x 42&quot; H, pieced curves,
+      machine quilted<br>
+    imageentry: images/2024-vineyard-vista-web-entry.jpg
+    imageicon: images/2024-vineyard-vista-web-icon.jpg
 ---
