@@ -2,6 +2,12 @@
 title: curves
 galleryname: Curves
 galleryitems:
+  - title: VINEYARD VISTA
+    dimensions: 58x42
+    caption: <b>VINEYARD VISTA</b><br>58 W&quot; x 42&quot; H, pieced curves,
+      machine quilted<br>
+    imageentry: images/2024-vineyard-vista-web-entry.jpg
+    imageicon: images/2024-vineyard-vista-web-icon.jpg
   - title: FULL SHADE PERENNIALS
     imageentry: images/2023-full-shade-perennials-web-entry.jpg
     imageicon: images/2023-full-shade-perennials-web-icon.jpg
@@ -118,10 +124,4 @@ galleryitems:
     imageentry: images/2007-Low-High-tide-web-entry.jpg
     imageicon: images/2007-low-high-tide-web-icon.jpg
     title: LOW TIDE / HIGH TIDE
-  - title: VINEYARD VISTA
-    dimensions: 58x42
-    caption: <b>VINEYARD VISTA</b><br>58 W&quot; x 42&quot; H, pieced curves,
-      machine quilted<br>
-    imageentry: images/2024-vineyard-vista-web-entry.jpg
-    imageicon: images/2024-vineyard-vista-web-icon.jpg
 ---
