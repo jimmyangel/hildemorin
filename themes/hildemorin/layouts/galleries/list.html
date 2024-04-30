@@ -18,14 +18,15 @@
     </div>
   </div>
   {{end}}
+  {{$oneIcon := .Params.oneiconperrow}}
   <div id="hm-gallery" class="container">
     <div class="zoom-gallery row text-center spacer" style="font-size: 90%;">
 
       {{range .Params.galleryitems}}
-      <div class="{{if .iswide}}col-sm-6 col-xs-12{{else}}col-sm-3 col-xs-6{{end}} thumbnail">
+      <div class="{{if $oneIcon}}col-sm-12{{else}}col-sm-3 col-xs-6{{end}} thumbnail">
         <a class="gallery-item" {{if .scale}}hm-scale="{{.scale}}"{{end}} href="{{.imageentry}}"
            caption="{{.caption}}">
-          <img src="{{.imageicon}}" alt="">
+          <img src="{{.imageicon}}" alt="" {{if $oneIcon}} style="width: auto"{{end}}>
         </a>
         {{if .price}}
         <a
@@ -39,10 +40,7 @@
         {{.title}}<span style="padding-right: 1em"></span><small>{{.dimensions}}</small>
       </div>
       {{end}}
-
     </div>
-
   </div>
-
 </section>
 {{ partial "footer.html" . }}

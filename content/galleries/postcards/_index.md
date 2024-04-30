@@ -5,6 +5,7 @@ gallerytitle: TILES
 galleryblurb: My TILES are small works mounted on canvas.  They are either
   replicas of large works, fabric and mixed media studies or just plain for-fun
   pieces.
+oneiconperrow: true
 galleryitems:
   - title: "MOSS ON THE ROCKS #1"
     dimensions: 12w x 12h
