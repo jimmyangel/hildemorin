@@ -46,7 +46,7 @@ exhibits:
 
       \
 
-      <img style="max-width: 100%;" src="/images/uploads/cannon-beach-arts-festival.jpg">May 3-5, 2024
+      <img style="max-width: 100%;" src="/images/uploads/cannon-beach-arts-festival.jpg">
     exhibitlink: https://www.cannonbeach.org/events-and-festivals/arts-events/spring-unveiling-arts-festival/
   - exhibitname: 2024 Sitka Art Invitational - Juried Art Exhibition and Sale
     exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
