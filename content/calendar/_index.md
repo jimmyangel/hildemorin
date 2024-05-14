@@ -38,7 +38,16 @@ teachingschedule:
     classcontactlink: https://www.hildemorin.com/#contact
     classcontactname: Hilde Morin
 exhibits:
-  - exhibitname: Cannon Beach Spring Arts Festival
-    exhibitinfo: '<img style="max-width: 100%;" src="/images/uploads/cannon-beach-arts-festival.jpg">'
+  - exhibitname: "Cannon Beach Spring Arts Festival "
+    exhibitinfo: '<img style="max-width: 100%;"
+      src="/images/uploads/cannon-beach-arts-festival.jpg">'
     exhibitlink: https://www.cannonbeach.org/events-and-festivals/arts-events/spring-unveiling-arts-festival/
+  - exhibitname: 2024 Sitka Art Invitational - Juried Art Exhibition and Sale
+    exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
+    exhibitinfo: |-
+      October 18-20, 2024\
+      \
+      Oregon Contemporary\
+      8371 North Interstate Ave.\
+      Portland, OR, 97217
 ---
