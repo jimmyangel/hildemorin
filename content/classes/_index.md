@@ -1,8 +1,6 @@
 ---
-classesintro: >
-  I offer the following classes either at your venue or at [my
-  studio](/studio/).  
-
+classesintro: |-
+  I offer the following classes at my studio in Portland, OR.
   For more information or to schedule a class, please [CONTACT ME](/#contact).
 classes:
   - namekey: curves
