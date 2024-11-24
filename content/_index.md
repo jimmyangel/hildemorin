@@ -29,9 +29,8 @@ galleries:
     imageurl: images/postcards.jpg
     page: postcards
 contact:
-  description: <br>My <a href="/studio/">studio</a> is open for classes. I also
-    welcome visitors to take a peek at my work. Please contact me to schedule a
-    class or a visit.<br><br>
+  description: <br>My studio is open for classes. I also welcome visitors to take
+    a peek at my work. Please contact me to schedule a class or a visit.<br><br>
   email: hildemorin@gmail.com
   location: Portland, Oregon
   locationlink: https://www.google.com/maps/place/Portland,+OR/
