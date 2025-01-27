@@ -3,6 +3,8 @@
 var MAILGUN_LIST_SERVICE_URL = 'https://us-central1-logical-bloom-179219.cloudfunctions.net/addToMailgunList';
 var STATICMAN_SERVICE_URL = 'https://staticman.morinricardobot.now.sh/v2/entry/jimmyangel/hildemorin/master/comments';
 
+var MAILGUN_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtomailgunlist';
+
 // Get url variables
 var getUrlVars = function () {
   var urlVars = [];
@@ -225,14 +227,13 @@ jQuery(function($){
 
     // POST to mailing list service
     $('#join-button').click(function () {
-      $.post(MAILGUN_LIST_SERVICE_URL, $('#join-dialog-form').serialize(), function (data) {
-          $('#thank-you-msg').fadeIn('slow');
-          setTimeout(resetJoinForm, 3000);
-        }).fail(function (data) {
-          console.log(data);
-          $('#join-error-text').text(data.responseJSON.message.startsWith('Address already exists') ? 'Thank you, but you already joined my mailing list!' : data.responseJSON.message);
-          $('#join-error').fadeIn('slow');
-          setTimeout(resetJoinForm, 3000);
+      $.post(MAILGUN_LIST_SERVICE_FUNCTION, $('#join-dialog-form').serialize(), function (data) {
+        $('#thank-you-msg').fadeIn('slow');
+        setTimeout(resetJoinForm, 3000);
+      }).fail(function (data) {
+        $('#join-error-text').text(data.responseText.startsWith('Address already exists') ? 'Thank you, but you already joined my mailing list!' : data.responseText);
+        $('#join-error').fadeIn('slow');
+        setTimeout(resetJoinForm, 3000);
       });
       return false;
     });
