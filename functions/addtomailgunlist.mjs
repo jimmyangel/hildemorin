@@ -33,13 +33,13 @@ export default async (request, context) => {
         text: member.address + ' has been added to the mailing list ' + mailinglist
       })
 
-      return new Response('Address added to mailing list')
+      return new Response(JSON.stringify('Address added to mailing list'))
 
     } catch (e) {
-      return new Response(e.details, { status: e.status })
+      return new Response(JSON.stringify(e.details), { status: e.status })
     }
 
   } else {
-    return new Response('Only POST method is allowed', { status: 405 })
+    return new Response(JSON.stringify('Only POST method is allowed'), { status: 405 })
   }
 }

@@ -231,6 +231,7 @@ jQuery(function($){
         $('#thank-you-msg').fadeIn('slow');
         setTimeout(resetJoinForm, 3000);
       }).fail(function (data) {
+        console.log(data)
         $('#join-error-text').text(data.responseText.startsWith('Address already exists') ? 'Thank you, but you already joined my mailing list!' : data.responseText);
         $('#join-error').fadeIn('slow');
         setTimeout(resetJoinForm, 3000);
