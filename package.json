@@ -1,0 +1,24 @@
+{
+  "name": "hilde-v3",
+  "version": "1.0.0",
+  "description": "HUGO website for https://hildemorin.com.",
+  "main": "index.js",
+  "scripts": {
+    "develop": "hugo serve",
+    "build": "hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyangel/hildemorin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyangel/hildemorin/issues"
+  },
+  "homepage": "https://github.com/jimmyangel/hildemorin#readme",
+  "devDependencies": {
+    "netlify-cli": "^18.0.2"
+  }
+}
