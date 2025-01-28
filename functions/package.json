@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mailgun.js": "^11.1.0"
+    "mailgun.js": "^11.1.0",
+    "@staticman/netlify-functions": "^1.7.0"
   }
 }

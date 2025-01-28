@@ -1,9 +1,9 @@
 'use strict';
 
-var MAILGUN_LIST_SERVICE_URL = 'https://us-central1-logical-bloom-179219.cloudfunctions.net/addToMailgunList';
-var STATICMAN_SERVICE_URL = 'https://staticman.morinricardobot.now.sh/v2/entry/jimmyangel/hildemorin/master/comments';
+//var STATICMAN_SERVICE_URL = 'https://staticman.morinricardobot.now.sh/v2/entry/jimmyangel/hildemorin/master/comments';
 
 var MAILGUN_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtomailgunlist';
+var STATICMAN_SERVICE_FUNCTION = '/.netlify/functions/staticman';
 
 // Get url variables
 var getUrlVars = function () {
@@ -267,10 +267,11 @@ jQuery(function($){
       event.preventDefault();
       console.log('Posting comment');
       $('#comment-wait').css('display','inline-block');
-      $.post(STATICMAN_SERVICE_URL, $('#post-comment').serialize(), function (data) {
+      $.post(STATICMAN_SERVICE_FUNCTION, $('#post-comment').serialize(), function (data) {
         console.log(data);
         $('#comment-form-container').html('<div class="panel panel-default"><div class="panel-body"><i><strong>Thanks! Your comment will be posted shortly.</strong></i></div></div>');
       }).fail(function (data) {
+        console.log(data);
         if (data.responseJSON.errorCode === 'RECAPTCHA_INVALID_INPUT_RESPONSE') {
           $('#comment-error-text').text('Please complete the Captcha below to verify that you are not a robot.');
         } else {
@@ -278,7 +279,6 @@ jQuery(function($){
         }
         $('#comment-error').show();
         $('#comment-wait').hide();
-        console.log(data);
       });
     });
     return false
