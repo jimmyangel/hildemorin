@@ -36,7 +36,7 @@ export default async (request, context) => {
       return new Response(JSON.stringify('Address added to mailing list'))
 
     } catch (e) {
-      return new Response(e.details, { status: e.status, headers: new Headers({"content-type": "application/json"}) })
+      return new Response(JSON.stringify(e.details), { status: e.status, headers: new Headers({"content-type": "application/json"}) })
     }
 
   } else {
