@@ -5,10 +5,10 @@ const { text } = require('node:stream/consumers')
 const { Readable } = require ('node:stream')
 
 exports.handler = async function (event, context) {
-  const apiKey = Netlify.env.get('MAILGUNAPIKEY')
-  const domain = Netlify.env.get('MAILGUNDOMAIN')
-  const mailinglist = Netlify.env.get('MAILINGLIST')
-  const notificationemail = Netlify.env.get('NOTIFICATIONEMAIL')
+  const apiKey = process.env.MAILGUNAPIKEY
+  const domain = process.env.MAILGUNDOMAIN
+  const mailinglist = process.env.MAILINGLIST
+  const notificationemail = process.env.NOTIFICATIONEMAIL
 
 
   if (event.httpMethod === 'POST') {
