@@ -33,14 +33,13 @@ exports.handler = async function (event, context) {
         text: member.address + ' has been added to the mailing list ' + mailinglist
       })
 
-      return new Response(JSON.stringify('Address added to mailing list'))
+      return {statusCode: 200, body: 'Address added to mailing list'}
 
     } catch (e) {
       return {statusCode: e.status, body: e.details}
-      //return new Response(JSON.stringify(e.details), { status: e.status, headers: new Headers({"content-type": "application/json"}) })
     }
 
   } else {
-    return new Response(JSON.stringify('Only POST method is allowed'), { status: 405 })
+    return {statusCode: 405, body: 'Only POST method is allowed'}
   }
 }
