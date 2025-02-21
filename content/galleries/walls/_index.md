@@ -21,7 +21,7 @@ galleryitems:
     dimensions: 40x40
     imageentry: images/please-remove-boots-and-guns-web-entry.jpg
     imageicon: images/please-remove-boots-and-guns-web-icon.jpg
-    price: 2,000
+    price: 1,200
     title: ABANDONED
   - caption: <b>PUEBLO BLANCO (White Village)</b><br>50&quot; W x 45&quot;
       H<br><i>SOLD</i><br>Narrow streets, stairways and alleys take you along
@@ -44,7 +44,7 @@ galleryitems:
     dimensions: 30x47
     imageentry: images/carrefour-web-entry.jpg
     imageicon: images/carrefour-web-icon.jpg
-    price: 1,500
+    price: 1,200
     title: CARREFOUR
   - caption: <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
       charming neighborhood in Venezuela highlighting its old colonial
@@ -63,7 +63,7 @@ galleryitems:
     imageentry: images/El-Cerro-web-entry.jpg
     imageicon: images/el-cerro-web-icon.jpg
     title: EL CERRO
-    price: 3,400
+    price: ""
   - caption: <b>MERCADO (Market)</b><br>30&quot; W x 40&quot; H<br>A busy day at the
       Portland Mercado celebrating the diverse Latin American cultures through
       food and entertainment.<br><i>SOLD</i><br>at VISIONS ART MUSEUM, San Diego
