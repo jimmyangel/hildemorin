@@ -60,13 +60,6 @@ galleryitems:
       hand appliquéd small rocks<br><i>SOLD</i><br>Galena, IL</i>
     imageentry: images/2017-Afternoon-Glow-web-entry.jpg
     imageicon: images/2017-afternoon-glow-web-icon.jpg
-  - title: GOLDEN LIGHT
-    dimensions: 24x12
-    caption: <b>GOLDEN LIGHT</b><br>24 W&quot; x 12&quot; H x1&#189; D<br>Curved
-      piecing, hand dyed, and commercial fabrics, machine quilted, mounted on
-      canvas<br><i>PRIVATE COLLECTION - Blando - CA</i>
-    imageentry: images/2015-Golden Light-web-entry.jpg
-    imageicon: images/2015-golden-light-web-icon.jpg
   - title: BETWEEN LIGHT AND SHADOW
     dimensions: 53x30
     caption: <b>BETWEEN LIGHT AND SHADOW</b><br>53 W&quot; x 30&quot; H<br>Curved
