@@ -4,7 +4,7 @@ galleryname: Woods & Water
 galleryitems:
   - title: ACUARELA
     dimensions: 75"w x 54"H
-    caption: <b>ACUARELA</b><br>75 W&quot; x 54&quot; H<br>Hand dyed, screen
+    caption: <b>ACUARELA</b><br>75&quot; W x 54&quot; H<br>Hand dyed, screen
       printed, hand painted and commercial fabrics; machine pieced and quilted
     imageentry: images/2023-acuarela-web-entry.jpg
     imageicon: images/2023-acuarela-web-icon.jpg
@@ -92,4 +92,10 @@ galleryitems:
     imageentry: images/2010-green-web-entry.jpg
     scale: 80%
     imageicon: images/2010-green-web-icon.jpg
+  - title: LUSH
+    dimensions: 47"w x 30"h
+    caption: <b>LUSH</b><br>47&quot; W x 30&quot; H<br>Hand dyed, hand painted and
+      commercial fabrics; machine pieced and quilted
+    imageicon: images/2024-lush-web-icon.jpg
+    imageentry: images/2024-lush-web-entry.jpg
 ---
