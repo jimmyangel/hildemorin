@@ -6,7 +6,7 @@ exhibits:
     exhibitinfo: |-
       ![](/images/uploads/exhibit-st-james-small.jpg)
 
-      Feb 23 - April 26\
+      Feb 26 - April 24\
       Pioneer Chapel Gallery\
       St. James Lutheran Church\
       1﻿315 SW Park Ave. Portland, OR 97201
