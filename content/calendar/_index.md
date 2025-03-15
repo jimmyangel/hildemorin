@@ -1,59 +1,22 @@
 ---
-calendaryear: "2024"
-teachingschedule:
-  - date: February 19-23, 2024 <br>
-    classnamekey: cityscape
-    classname: In and Around Town
-    classdetails: |-
-      Studio Class
-
-      Portland, OR
-    classcontactlink: https://www.hildemorin.com/#contact
-    classcontactname: Hilde Morin
-  - date: March 18 - 22, 2024 <br>
-    classnamekey: yourownforest
-    classname: Your Own Forest
-    classdetails: |-
-      Studio Class
-
-      Portland, OR
-    classcontactlink: https://www.hildemorin.com/#contact
-    classcontactname: Hilde Morin
-  - date: April 29 - May 3, 2024 <br>
-    classnamekey: yourownforest
-    classname: Your Own Forest
-    classdetails: |-
-      Studio Class
-
-      Portland, OR
-    classcontactlink: https://www.hildemorin.com/#contact
-    classcontactname: Hilde Morin
-  - date: November 11 - 15, 2024 <br>
-    classdetails: |-
-      Studio Class
-
-      Portland, OR
-    classname: In and Around Town
-    classnamekey: cityscape
-    classcontactlink: https://www.hildemorin.com/#contact
-    classcontactname: Hilde Morin
+calendaryear: "2025"
+teachingschedule: []
 exhibits:
-  - exhibitname: "Cannon Beach Spring Arts Festival "
-    exhibitinfo: >-
-      May 3-5, 2024\
-
-      C﻿annon Beach, Oregon\
-
-      \
-
-      <img style="max-width: 100%;" src="/images/uploads/cannon-beach-arts-festival.jpg">
-    exhibitlink: https://www.cannonbeach.org/events-and-festivals/arts-events/spring-unveiling-arts-festival/
-  - exhibitname: 2024 Sitka Art Invitational - Juried Art Exhibition and Sale
-    exhibitlink: https://www.sitkacenter.org/event/sitka-art-invitational
+  - exhibitname: WALLS IN STITCHES
     exhibitinfo: |-
-      October 18-20, 2024\
+      ![](/images/uploads/exhibit-st-james-small.jpg)
+
+      Feb 23 - April 26\
+      Pioneer Chapel Gallery\
+      St. James Lutheran Church\
+      1﻿315 SW Park Ave. Portland, OR 97201
+    exhibitlink: https://stjamespdx.org/life/groups/visual-artists-group/
+  - exhibitname: MIX Group Fiber Art Exhibit
+    exhibitlink: https://stjamespdx.org/life/groups/visual-artists-group/
+    exhibitinfo: |-
+      July 2025 - August 2025\
       \
-      Oregon Contemporary\
-      8371 North Interstate Ave.\
-      Portland, OR, 97217
+      Pioneer Chapel Gallery\
+      St. James Lutheran Church\
+      1﻿315 SW Park Ave. Portland, OR 97201
 ---
