@@ -11,7 +11,8 @@ galleryitems:
   - title: ACUARELA
     dimensions: 75"w x 54"H
     caption: <b>ACUARELA</b><br>75&quot; W x 54&quot; H<br>Hand dyed, screen
-      printed, hand painted and commercial fabrics; machine pieced and quilted
+      printed, hand painted and commercial fabrics; machine pieced and
+      quilted<br><i>SOLD</i><br>(Portland, Oregon)
     imageentry: images/2023-acuarela-web-entry.jpg
     imageicon: images/2023-acuarela-web-icon.jpg
   - title: FLOURISH
