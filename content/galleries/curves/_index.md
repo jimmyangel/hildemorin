@@ -14,7 +14,8 @@ galleryitems:
     price: "1200"
     dimensions: 42"w x 27"h
     caption: <b>FULL SHADE PERENNIALS</b><br>42 W&quot; x 27&quot; H<br>Free form
-      pieced curves, inset circles.
+      pieced curves, inset circles<br><i>SOLD</i><br>(Shearwater Studio &
+      Gallery - Cannon Beach, Oregon)
   - title: GOING WITH THE FLOW
     dimensions: 18"x 18" each panel
     caption: <b>G﻿OING WITH THE FLOW</b><br>18 W&quot; x 18&quot; H
