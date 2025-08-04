@@ -19,4 +19,7 @@ exhibits:
       Pioneer Chapel Gallery\
       St. James Lutheran Church\
       1﻿315 SW Park Ave. Portland, OR 97201
+  - exhibitname: "2025- SITKA Art Invitational "
+    exhibitlink: https://sitkacenter.org/sitka-art-invitational/
+    exhibitinfo: "![](/images/uploads/2025-sitka-invitational-ecard.jpg)"
 ---
