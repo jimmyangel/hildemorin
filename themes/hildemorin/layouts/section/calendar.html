@@ -9,11 +9,15 @@
         </div>
       </div>
     </div>
+
+    {{ if gt (len .Params.teachingschedule) 0 }}
     <div class="row row-filled text-center">
       <div class="col-sm-12" style="font-size: 120%; color: black;">
         <b>{{.Params.calendaryear | markdownify}} Teaching Schedule</b>
       </div>
     </div>
+
+    {{ end }}
 
     {{range .Params.teachingschedule}}
 
