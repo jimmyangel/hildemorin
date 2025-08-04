@@ -21,5 +21,14 @@ exhibits:
       1﻿315 SW Park Ave. Portland, OR 97201
   - exhibitname: "2025- SITKA Art Invitational "
     exhibitlink: https://sitkacenter.org/sitka-art-invitational/
-    exhibitinfo: "![](/images/uploads/2025-sitka-invitational-ecard.jpg)"
+    exhibitinfo: |-
+      October 10-12, 2025
+      Friday, Saturday and Sunday
+      11am to 5pm
+
+      Oregon Contemporary
+      8371 N Interstate Ave.
+      Portland, Oregon
+
+      ![](/images/uploads/2025-sitka-invitational-ecard.png)
 ---
