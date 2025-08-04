@@ -4,8 +4,8 @@ teachingschedule: []
 exhibits:
   - exhibitname: WALLS IN STITCHES
     exhibitinfo: >-
-      <﻿img style="width: 100%;"
-      src="/images/uploads/exhibit-st-james-small.jpg">
+      <img style="width: 70%;" src="/images/uploads/exhibit-st-james-small.jpg">
+
 
       Feb 26 - April 24\
 
@@ -39,6 +39,5 @@ exhibits:
 
       Portland, Oregon
 
-
-      <﻿img style="width: 100%;" src="/images/uploads/2025-sitka-invitational-ecard.png">
+      <img style="width: 100%;" src="/images/uploads/2025-sitka-invitational-ecard.png">
 ---
