@@ -6,39 +6,24 @@ galleryblurb: My TILES are small works mounted on canvas.  They are either
   replicas of large works, fabric and mixed media studies or just plain for-fun
   pieces.
 galleryitems:
-  - title: "MOSS ON THE ROCKS #1"
-    dimensions: 12w x 12h
-    caption: "<b>MOSS ON THE ROCKS #1</b><br>12 W&quot; x 12&quot; H"
-    imageentry: images/2023-moss-on-the-rocks-1-web-entry.jpg
-    imageicon: images/2023-moss-on-the-rocks-1-web-icon.jpg
-  - title: "MOSS ON THE ROCKS #2"
-    dimensions: 12w x 12h
-    caption: "<b>MOSS ON THE ROCKS #2</b><br>12 W&quot; x 12&quot; H"
-    imageentry: images/2023-moss-on-the-rocks-2-web-entry.jpg
-    imageicon: images/2023-moss-on-the-rocks-2-web-icon.jpg
-  - title: MARSHSCAPES - GRASSES
+  - title: MOSS ON THE ROCKS
     dimensions: 12" x 12"
-    caption: <b>MARSHSCAPES - GRASSES</b><br>12 W&quot; x 12&quot; H<br><i>SOLD (at
-      Shearwater gallery, Cannon Beach)</i>
-    imageentry: images/2018-grass-tile-web-entry.jpg
-    imageicon: images/2018-grass-tile-web-icon.jpg
-  - title: MARSHSCAPES - HORSETAIL
-    dimensions: 12"x 12"
-    caption: <b>MARSHSCAPES - HORSETAIL</b><br>12 W&quot; x 12&quot; H<br><i>SOLD
-      (at Shearwater gallery, Cannon Beach)</i>
-    imageentry: images/2018-horsetail-tile-web-entry.jpg
-    imageicon: images/2018-horsetail-tile-web-icon.jpg
-  - title: MARSHES - CATTAIL
-    dimensions: 12"x 12"
-    caption: <b>MARSHSCAPES - CATTAIL</b><br>12 W&quot; x 12&quot; H<br><i>SOLD (at
-      Shearwater gallery, Cannon Beach)</i>
-    imageentry: images/2018-cattail-tile-web-entry.jpg
-    imageicon: images/2018-cattail-tile-web-icon.jpg
+    caption: <b>MOSS ON THE ROCKS </b><br>12 W&quot; x 12&quot; H
+    imageentry: images/2023-moss-2tiles-web-entry.jpg
+    imageicon: images/2023-moss-2tiles-web-icon-copy.jpg
+    iswide: true
+  - title: MARSHSCAPES
+    dimensions: 12" x 12"
+    caption: <b>MARSHSCAPES </b><br>12 W&quot; x 12&quot; H <br><i>SOLD</i>
+    imageentry: images/2022-marshes-tile-web-entry.jpg
+    imageicon: images/2022-marshes-tile-web-icon.jpg
+    iswide: true
   - title: PETALS 1
     dimensions: 8"x 8"
     caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
     imageentry: images/2021-petals-1-web-entry.jpg
     imageicon: images/2021-petals-1-web-icon.jpg
+    iswide: false
   - title: PETALS 2
     dimensions: 8"x 8"
     caption: <b>PETALS 2</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
@@ -70,9 +55,5 @@ galleryitems:
     caption: <b>EL CERRO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2018-el-cerro-tile-web-entry.jpg
     imageicon: images/2018-el-cerro-tile-web-icon.jpg
-  - title: MOSS ON THE ROCKS
-    dimensions: 12" x 12"
-    caption: <b>MOSS ON THE ROCKS </b><br>12 W&quot; x 12&quot; H
-    imageentry: images/2023-moss-2tiles-web-entry.jpg
-    imageicon: images/2023-moss-2tiles-web-icon.jpg
+    iswide: false
 ---
