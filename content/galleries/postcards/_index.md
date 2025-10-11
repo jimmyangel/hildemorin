@@ -76,4 +76,10 @@ galleryitems:
     imageentry: images/2023-moss-2tiles-web-entry.jpg
     imageicon: images/2023-moss-2tiles-web-icon.jpg
     iswide: true
+  - title: MARSHSCAPES
+    dimensions: 12" x 12"
+    caption: <b>MARSHSCAPES </b><br>12 W&quot; x 12&quot; H <br><i>SOLD</i>
+    imageentry: images/2022-marshes-tile-web-entry.jpg
+    imageicon: images/2022-marshes-tile-web-icon.jpg
+    iswide: true
 ---
