@@ -75,4 +75,5 @@ galleryitems:
     caption: <b>MOSS ON THE ROCKS </b><br>12 W&quot; x 12&quot; H
     imageentry: images/2023-moss-2tiles-web-entry.jpg
     imageicon: images/2023-moss-2tiles-web-icon.jpg
+    iswide: true
 ---
