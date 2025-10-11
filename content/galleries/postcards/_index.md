@@ -74,12 +74,12 @@ galleryitems:
     dimensions: 12" x 12"
     caption: <b>MOSS ON THE ROCKS </b><br>12 W&quot; x 12&quot; H
     imageentry: images/2023-moss-2tiles-web-entry.jpg
-    imageicon: images/2023-moss-2tiles-web-icon.jpg
+    imageicon: images/2023-moss-2tiles-web-icon-copy.jpg
     iswide: true
   - title: MARSHSCAPES
     dimensions: 12" x 12"
     caption: <b>MARSHSCAPES </b><br>12 W&quot; x 12&quot; H <br><i>SOLD</i>
-    imageentry: images/2022-marshes-tile-web-entry.jpg
+    imageentry: images/2022-marshes-tile-web-icon-copy.jpg
     imageicon: images/2022-marshes-tile-web-icon-copy.jpg
     iswide: true
 ---
