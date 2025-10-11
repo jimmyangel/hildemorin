@@ -70,4 +70,9 @@ galleryitems:
     caption: <b>EL CERRO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2018-el-cerro-tile-web-entry.jpg
     imageicon: images/2018-el-cerro-tile-web-icon.jpg
+  - title: MOSS ON THE ROCKS
+    dimensions: 12" x 12"
+    caption: <b>MOSS ON THE ROCKS </b><br>12 W&quot; x 12&quot; H
+    imageentry: images/2023-moss-2tiles-web-entry.jpg
+    imageicon: images/2023-moss-2tiles-web-icon.jpg
 ---
