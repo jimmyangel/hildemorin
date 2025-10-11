@@ -80,6 +80,6 @@ galleryitems:
     dimensions: 12" x 12"
     caption: <b>MARSHSCAPES </b><br>12 W&quot; x 12&quot; H <br><i>SOLD</i>
     imageentry: images/2022-marshes-tile-web-entry.jpg
-    imageicon: images/2022-marshes-tile-web-icon.jpg
+    imageicon: images/2022-marshes-tile-web-icon-copy.jpg
     iswide: true
 ---
