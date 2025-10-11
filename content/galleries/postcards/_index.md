@@ -6,34 +6,6 @@ galleryblurb: My TILES are small works mounted on canvas.  They are either
   replicas of large works, fabric and mixed media studies or just plain for-fun
   pieces.
 galleryitems:
-  - title: "MOSS ON THE ROCKS #1"
-    dimensions: 12w x 12h
-    caption: "<b>MOSS ON THE ROCKS #1</b><br>12 W&quot; x 12&quot; H"
-    imageentry: images/2023-moss-on-the-rocks-1-web-entry.jpg
-    imageicon: images/2023-moss-on-the-rocks-1-web-icon.jpg
-  - title: "MOSS ON THE ROCKS #2"
-    dimensions: 12w x 12h
-    caption: "<b>MOSS ON THE ROCKS #2</b><br>12 W&quot; x 12&quot; H"
-    imageentry: images/2023-moss-on-the-rocks-2-web-entry.jpg
-    imageicon: images/2023-moss-on-the-rocks-2-web-icon.jpg
-  - title: MARSHSCAPES - GRASSES
-    dimensions: 12" x 12"
-    caption: <b>MARSHSCAPES - GRASSES</b><br>12 W&quot; x 12&quot; H<br><i>SOLD (at
-      Shearwater gallery, Cannon Beach)</i>
-    imageentry: images/2018-grass-tile-web-entry.jpg
-    imageicon: images/2018-grass-tile-web-icon.jpg
-  - title: MARSHSCAPES - HORSETAIL
-    dimensions: 12"x 12"
-    caption: <b>MARSHSCAPES - HORSETAIL</b><br>12 W&quot; x 12&quot; H<br><i>SOLD
-      (at Shearwater gallery, Cannon Beach)</i>
-    imageentry: images/2018-horsetail-tile-web-entry.jpg
-    imageicon: images/2018-horsetail-tile-web-icon.jpg
-  - title: MARSHES - CATTAIL
-    dimensions: 12"x 12"
-    caption: <b>MARSHSCAPES - CATTAIL</b><br>12 W&quot; x 12&quot; H<br><i>SOLD (at
-      Shearwater gallery, Cannon Beach)</i>
-    imageentry: images/2018-cattail-tile-web-entry.jpg
-    imageicon: images/2018-cattail-tile-web-icon.jpg
   - title: PETALS 1
     dimensions: 8"x 8"
     caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
