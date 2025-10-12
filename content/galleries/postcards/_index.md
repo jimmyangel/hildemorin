@@ -15,7 +15,7 @@ galleryitems:
   - title: LEFT BEHIND
     dimensions: 10" x 10"
     iswide: true
-    price: ""
+    price: 320 each
     caption: <b>LEFT BEHIND </b><br>10 W&quot; x 10&quot; H
     imageentry: images/2024-left-behind-web-entry.jpg
     imageicon: images/2024-left-behind-web-icon.jpg
