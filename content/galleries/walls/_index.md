@@ -116,11 +116,10 @@ galleryitems:
     imageentry: images/Malecon-web-entry.jpg
     imageicon: images/malecon-web-icon.jpg
     title: MALECÓN
-  - caption: <b>BARRIO DE TANGO</b><br>50 W&quot; x 60&quot; H<br>Hand dyed, hand
-      stamped and commercial fabrics, machine pieced, machine
-      quilted<br>HONORARY MENTION - Women in the Arts 2008 - Museum of the
-      Americas - Doral, FL<br>FIRST PLACE - Art Quilts 2010 - Infinity Art
-      Gallery
+  - caption: <b>BARRIO DE TANGO</b><br>50 W&quot; x 60&quot; H<br>Hand dyed/tamped
+      and commercial fabrics, machine pieced and quilted<br>HONORARY MENTION -
+      Women in the Arts 2008 - Museum of the Americas - Doral, FL<br>FIRST PLACE
+      - Art Quilts 2010 - Infinity Art Gallery<br><i>PRIVATE COLLECTION</i>
     dimensions: 50x60
     imageentry: images/Barrio-de-tango-web-entry.jpg
     imageicon: images/barrio-de-tango-web-icon.jpg
