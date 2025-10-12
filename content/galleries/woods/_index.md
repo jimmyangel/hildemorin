@@ -5,7 +5,8 @@ galleryitems:
   - title: LUSH
     dimensions: 47"w x 30"h
     caption: <b>LUSH</b><br>47&quot; W x 30&quot; H<br>Hand dyed, hand painted and
-      commercial fabrics; machine pieced and quilted
+      commercial fabrics; machine pieced and quilted<br><i>PRIVATE
+      COLLECTION</i>
     imageicon: images/2024-lush-web-icon.jpg
     imageentry: images/2024-lush-web-entry.jpg
   - title: ACUARELA
