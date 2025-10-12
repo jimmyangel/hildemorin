@@ -8,9 +8,9 @@ galleryblurb: My TILES are small works mounted on canvas.  They are either
 galleryitems:
   - title: ROLLING SWELLS
     dimensions: 10" x 10"
-    caption: <b>ROLLING SWELLS </b><br>12 W&quot; x 12&quot; H
+    caption: <b>ROLLING SWELLS </b><br>10 W&quot; x 10&quot; H
     imageentry: images/2025-lrolling-swells-web-entry.jpg
-    imageicon: images/2025-lrolling-swells-web-icon.jpg
+    imageicon: images/2025-rolling-swells-web-icon.jpg
     iswide: true
   - title: LEFT BEHIND
     dimensions: 10" x 10"
