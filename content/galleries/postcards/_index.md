@@ -18,17 +18,12 @@ galleryitems:
     imageentry: images/2022-marshes-tile-web-entry.jpg
     imageicon: images/2022-marshes-tile-web-icon.jpg
     iswide: true
-  - title: PETALS 1
+  - title: "PETALS "
     dimensions: 8"x 8"
-    caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
-    imageentry: images/2021-petals-1-web-entry.jpg
-    imageicon: images/2021-petals-1-web-icon.jpg
-    iswide: false
-  - title: PETALS 2
-    dimensions: 8"x 8"
-    caption: <b>PETALS 2</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
-    imageentry: images/2021-petals-2-web-entry.jpg
-    imageicon: images/2021-petals-2-web-icon.jpg
+    caption: <b>PETALS</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
+    imageentry: images/2021-petals-web-entry.jpg
+    imageicon: images/2021-petals-web-icon.jpg
+    iswide: true
   - title: WATCHING THE WATER FALL 1
     dimensions: 8"x 8"
     caption: <b>WATCHING THE WATER FALL 1</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE
