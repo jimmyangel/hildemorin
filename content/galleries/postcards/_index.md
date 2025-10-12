@@ -6,10 +6,16 @@ galleryblurb: My TILES are small works mounted on canvas.  They are either
   replicas of large works, fabric and mixed media studies or just plain for-fun
   pieces.
 galleryitems:
-  - title: LEFT BEHIND
-    dimensions: 10 x 10
+  - title: ROLLING SWELLS
+    dimensions: 10" x 10"
+    caption: <b>ROLLING SWELLS </b><br>12 W&quot; x 12&quot; H
+    imageentry: images/2025-lrolling-swells-web-entry.jpg
+    imageicon: images/2025-lrolling-swells-web-icon.jpg
     iswide: true
-    price: $320 each
+  - title: LEFT BEHIND
+    dimensions: 10" x 10"
+    iswide: true
+    price: ""
     caption: <b>LEFT BEHIND </b><br>10 W&quot; x 10&quot; H
     imageentry: images/2024-left-behind-web-entry.jpg
     imageicon: images/2024-left-behind-web-icon.jpg
