@@ -31,11 +31,6 @@ galleryitems:
     imageentry: images/2019-watching-the-water-fall-tile-web-entry.jpg
     imageicon: images/2019-watching-the-water-fall-tile-web-icon.jpg
     iswide: true
-  - title: WINDOWS OF LA BOCA
-    dimensions: 10"x 20"
-    caption: <b>WINDOWS OF LA BOCA</b><br>20 W&quot; x 10&quot; H
-    imageentry: images/2021-windows-la-boca-web-entry.jpg
-    imageicon: images/2021-windows-la-boca-web-icon.jpg
   - title: EL VECINDARIO
     dimensions: 8" x 8"
     caption: <b>EL VECINDARIO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
