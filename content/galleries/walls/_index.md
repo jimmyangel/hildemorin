@@ -102,7 +102,7 @@ galleryitems:
   - caption: <b>ANONYMOUS SCRIPT</b><br>26 W&quot; x 19&quot; H<br>Portland
       graffitti collage printed on fabric, pieced, dischage dyed and machine
       quilted<br>HONORARY MENTION - Women in the Arts 2012 - Museum of the
-      Americas - Doral, FL
+      Americas - Doral, FL<br><i>PRIVATE COLLECTION</i>
     dimensions: 26x19
     imageentry: images/anonymous-script-with-canvas-web-entry.jpg
     imageicon: images/anonymous-script-with-canvas-web-icon.jpg
