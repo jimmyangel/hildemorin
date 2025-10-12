@@ -6,6 +6,13 @@ galleryblurb: My TILES are small works mounted on canvas.  They are either
   replicas of large works, fabric and mixed media studies or just plain for-fun
   pieces.
 galleryitems:
+  - title: LEFT BEHIND
+    dimensions: 10 x 10
+    iswide: true
+    price: $320 each
+    caption: <b>LEFT BEHIND </b><br>10 W&quot; x 10&quot; H
+    imageentry: images/2024-left-behind-web-entry.jpg
+    imageicon: images/2024-left-behind-web-icon.jpg
   - title: MOSS ON THE ROCKS
     dimensions: 12" x 12"
     caption: <b>MOSS ON THE ROCKS </b><br>12 W&quot; x 12&quot; H
