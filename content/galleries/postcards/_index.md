@@ -20,7 +20,7 @@ galleryitems:
     iswide: true
   - title: "PETALS "
     dimensions: 8"x 8"
-    caption: <b>PETALS 1</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
+    caption: <b>PETALS</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
     imageentry: images/2021-petals-web-entry.jpg
     imageicon: images/2021-petals-web-icon.jpg
     iswide: true
