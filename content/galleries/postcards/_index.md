@@ -24,17 +24,13 @@ galleryitems:
     imageentry: images/2021-petals-web-entry.jpg
     imageicon: images/2021-petals-web-icon.jpg
     iswide: true
-  - title: WATCHING THE WATER FALL 1
+  - title: "WATCHING THE WATER FALL "
     dimensions: 8"x 8"
-    caption: <b>WATCHING THE WATER FALL 1</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE
+    caption: <b>WATCHING THE WATER FALL </b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE
       COLLECTION</i>
-    imageentry: images/2019-watching-the-water-fall-tile1-web-entry.jpg
-    imageicon: images/2019-watching-the-water-fall-tile1-web-icon.jpg
-  - title: WATCHING THE WATER FALL 2
-    dimensions: 8"x 8"
-    caption: <b>WATCHING THE WATER FALL 2</b><br>8 W&quot; x 8&quot; H<br><i>SOLD</i>
-    imageentry: images/2019-watching-the-water-fall-tile2-web-entry.jpg
-    imageicon: images/2019-watching-the-water-fall-tile2-web-icon.jpg
+    imageentry: images/2019-watching-the-water-fall-tile-web-entry.jpg
+    imageicon: images/2019-watching-the-water-fall-tile-web-icon.jpg
+    iswide: true
   - title: WINDOWS OF LA BOCA
     dimensions: 10"x 20"
     caption: <b>WINDOWS OF LA BOCA</b><br>20 W&quot; x 10&quot; H
