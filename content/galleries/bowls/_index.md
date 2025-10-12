@@ -5,19 +5,22 @@ galleryitems:
   - title: CURRENTS
     dimensions: 17" Φ
     caption: <b>CURRENTS</b><br>17 &quot; diameter<br>Hand dyed and commercial
-      fabrics on canvas, machine stitched and embellished<br>
+      fabrics on canvas, machine stitched and embellished<br><i>SOLD (at
+      Shearwater gallery, Cannon Beach)<i>
     imageentry: images/2024-currents-web-entry.jpg
     imageicon: images/2024-currents-web-icon.jpg
   - title: SHORE
     dimensions: 16" Φ
     caption: <b>SHORE</b><br>16 &quot; diameter<br>Hand dyed and commercial fabrics
-      on canvas, machine stitched and embellished<br>
+      on canvas, machine stitched and embellished<br><i>SOLD (at Shearwater
+      gallery, Cannon Beach)<i>
     imageentry: images/2024-shore-web-entry.jpg
     imageicon: images/2024-shore-web-icon.jpg
   - title: FIRST BLOOM
     dimensions: 17" Φ
     caption: <b>FIRST BLOOM</b><br>17 &quot; diameter<br>Hand dyed and commercial
-      fabrics on canvas, machine stitched and embellished<br>
+      fabrics on canvas, machine stitched and embellished<br><i>SOLD (at
+      Shearwater gallery, Cannon Beach)<i>
     imageentry: images/2023-early-bloom-web-entry.jpg
     imageicon: images/2023-early-bloom-web-icon.jpg
   - title: AUTUMN GUSTS
@@ -31,7 +34,7 @@ galleryitems:
   - title: SPRING BREEZE
     dimensions: 17" Φ
     caption: <b>SPRING BREEZE</b><br>17 &quot; diameter<br>Hand dyed and commercial
-      fabrics on canvas, floating inserts, machine stitched<br><i>SOLD (at
+      fabrics on canvas, floating inserts, machine stitchedch<br><i>SOLD (at
       Shearwater gallery, Cannon Beach)<i>
     imageentry: images/2019-spring-breeze-web-entry.jpg
     imageicon: images/2019-spring-breeze-web-icon.jpg
