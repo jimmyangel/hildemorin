@@ -36,10 +36,5 @@ galleryitems:
     caption: <b>EL VECINDARIO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
     imageentry: images/2018-el-vecindario-tile-web-entry.jpg
     imageicon: images/2018-el-vecindario-tile-web-icon.jpg
-  - title: EL CERRO
-    dimensions: 8" x 8"
-    caption: <b>EL CERRO</b><br>8 W&quot; x 8&quot; H<br><i>PRIVATE COLLECTION</i>
-    imageentry: images/2018-el-cerro-tile-web-entry.jpg
-    imageicon: images/2018-el-cerro-tile-web-icon.jpg
-    iswide: false
+    iswide: true
 ---
