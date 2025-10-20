@@ -91,6 +91,7 @@ galleryitems:
     iswide: false
     scale: 80%
     title: HISPANIOLA
+    price: "900"
   - caption: <b>TANGO STREET</b><br>25 W&quot; x 22&quot; H<br><i>SOLD</i><br>La
       Boca-Argentina, a colorful neighborhood in Buenos Aires with a love for
       tango music and dance<br>(Collection of Northwest Housing Alternatives -
