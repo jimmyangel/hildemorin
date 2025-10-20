@@ -63,7 +63,7 @@ galleryitems:
     imageentry: images/El-Cerro-web-entry.jpg
     imageicon: images/el-cerro-web-icon.jpg
     title: EL CERRO
-    price: ""
+    price: "4000"
   - caption: <b>MERCADO (Market)</b><br>30&quot; W x 40&quot; H<br>A busy day at the
       Portland Mercado celebrating the diverse Latin American cultures through
       food and entertainment.<br><i>SOLD</i><br>at VISIONS ART MUSEUM, San Diego
