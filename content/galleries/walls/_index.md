@@ -106,7 +106,7 @@ galleryitems:
     dimensions: 26x19
     imageentry: images/anonymous-script-with-canvas-web-entry.jpg
     imageicon: images/anonymous-script-with-canvas-web-icon.jpg
-    price: "900"
+    price: ""
     scale: 70%
     title: ANONYMOUS SCRIPT
   - caption: <b>MALECÓN</b><br>60 W&quot; x 47&quot; H<br>Hand dyed and commercial
