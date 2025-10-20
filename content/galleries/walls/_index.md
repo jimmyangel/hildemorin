@@ -4,7 +4,9 @@ galleryname: Walls & Windows
 galleryitems:
   - title: A SINGLE MOON OVER MANY LANDSCAPES
     dimensions: 18"w x 40"h each
-    caption: Hand dyed and commercial fabrics, machine pieced, acrylic skins.
+    caption: <b>2020 - A SINGLE MOON OVER MANY LANDSCAPES</b><br>18&quot; W x
+      40&quot; H<br>Hand dyed and commercial fabrics, acrylic skins, machine
+      pieced, machine quilted.
     imageentry: images/2025-one-moon-over-many-landscapes-web-entry.jpg
     price: 650 each
     imageicon: images/2025-one-moon-over-many-landscapes-web-icon.jpg
