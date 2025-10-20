@@ -116,6 +116,7 @@ galleryitems:
     imageentry: images/Malecon-web-entry.jpg
     imageicon: images/malecon-web-icon.jpg
     title: MALECÓN
+    price: "4000"
   - caption: <b>BARRIO DE TANGO</b><br>50 W&quot; x 60&quot; H<br>Hand dyed/tamped
       and commercial fabrics, machine pieced and quilted<br>HONORARY MENTION -
       Women in the Arts 2008 - Museum of the Americas - Doral, FL<br>FIRST PLACE
