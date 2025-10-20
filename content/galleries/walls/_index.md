@@ -63,7 +63,7 @@ galleryitems:
     imageentry: images/El-Cerro-web-entry.jpg
     imageicon: images/el-cerro-web-icon.jpg
     title: EL CERRO
-    price: ""
+    price: "4000"
   - caption: <b>MERCADO (Market)</b><br>30&quot; W x 40&quot; H<br>A busy day at the
       Portland Mercado celebrating the diverse Latin American cultures through
       food and entertainment.<br><i>SOLD</i><br>at VISIONS ART MUSEUM, San Diego
@@ -106,7 +106,7 @@ galleryitems:
     dimensions: 26x19
     imageentry: images/anonymous-script-with-canvas-web-entry.jpg
     imageicon: images/anonymous-script-with-canvas-web-icon.jpg
-    price: "900"
+    price: ""
     scale: 70%
     title: ANONYMOUS SCRIPT
   - caption: <b>MALECÓN</b><br>60 W&quot; x 47&quot; H<br>Hand dyed and commercial
@@ -116,6 +116,7 @@ galleryitems:
     imageentry: images/Malecon-web-entry.jpg
     imageicon: images/malecon-web-icon.jpg
     title: MALECÓN
+    price: "4000"
   - caption: <b>BARRIO DE TANGO</b><br>50 W&quot; x 60&quot; H<br>Hand dyed/tamped
       and commercial fabrics, machine pieced and quilted<br>HONORARY MENTION -
       Women in the Arts 2008 - Museum of the Americas - Doral, FL<br>FIRST PLACE
