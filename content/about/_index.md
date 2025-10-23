@@ -1,7 +1,6 @@
 ---
 artistbannerimage: images/about-heading.jpg
-artistquote: I listen to my mood and work with it allowing the design to evolve
-  spontaneously until I am satisfied with the result
+artistquote: I work intuitively, letting form and color develop freely while I create.
 artistname: Hilde Van de Walle Morin
 artiststatement: My work balances drama and flow. Textured and weathered
   surfaces convey energy and time, while color and form bring a sense of calm
