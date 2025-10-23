@@ -18,7 +18,7 @@ artiststatement: My work balances drama and flow. Textured and weathered
   Craft in Portland-Oregon, Oregon Historical Society Museum in Portland, Oregon
   and Visions Art Museum in San Diego, California.<br><br>I teach regularly at
   <a href="/studio/">my studio</a> and at other venues, promoting the use of
-  free form techniques in the construction of art quilts. armony
+  free form techniques in the construction of art quilts.
 artistpublications:
   - publication: 2023 - Patchwork Professional - Issue 03/2023 - The Making of
       "Wandering Through" - Workshop
