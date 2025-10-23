@@ -5,20 +5,20 @@ artistquote: I listen to my mood and work with it allowing the design to evolve
 artistname: Hilde Van de Walle Morin
 artiststatement: Drama and flow is what I like to express in my fiber
   work.  “Drama” in the form of chaotic lines and weathered surfaces, and “flow”
-  through the use of curved elements and color gradations. My work is influenced
-  by travels, nature walks and by my multi-cultural background and is mainly
-  inspired by nature and by architectural scenes. I try to find a place between
-  abstract and realism, and use an improvisational approach in the design
-  process allowing my work to evolve spontaneously. My construction technique
-  includes the creation of a first layer of pieced fabric with the addition of a
-  second layer of texture through extensive thread work and surface
-  design.  <br><br> Born in Caracas-Venezuela, of Belgian descent, I currently
-  reside in Portland, Oregon, USA. I exhibit at local and international venues
-  including SOFA (Sculptured Objects and Functional Art) Chicago and New York,
-  Museum of the Americas-Florida, Galería Exágono-México, CIART (Centro Integral
-  de Arte Textil) in Argentina, Museum of Contemporary Craft in Portland-Oregon,
-  Oregon Historical Society Museum in Portland, Oregon and Visions Art Museum in
-  San Diego, California.<br><br>I teach regularly at <a href="/studio/">my
+  through the use of curved elements and color gradations. Influenced by travel,
+  nature walks, and my multicultural background, my work is inspired by both
+  natural and architectural forms. I try to find a place between abstract and
+  realism, and use an improvisational approach in the design process allowing my
+  work to evolve spontaneously. My construction technique includes the creation
+  of a first layer of pieced fabric with the addition of a second layer of
+  texture through extensive thread work and surface design.  <br><br> Born in
+  Caracas-Venezuela, of Belgian descent, I currently reside in Portland, Oregon,
+  USA. I exhibit at local and international venues including SOFA (Sculptured
+  Objects and Functional Art) Chicago and New York, Museum of the
+  Americas-Florida, Galería Exágono-México, CIART (Centro Integral de Arte
+  Textil) in Argentina, Museum of Contemporary Craft in Portland-Oregon, Oregon
+  Historical Society Museum in Portland, Oregon and Visions Art Museum in San
+  Diego, California.<br><br>I teach regularly at <a href="/studio/">my
   studio</a> and at other venues, promoting the use of free form techniques in
   the construction of art quilts.
 artistpublications:
