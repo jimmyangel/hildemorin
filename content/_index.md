@@ -38,6 +38,9 @@ contact:
   photoblog: https://photoblog.hildemorin.com
   headline: CONTACT
 sociallinks:
+  - icon: images/photoblog.png
+    sitelink: https://photoblog.hildemorin.com
+    sitename: My Photoblog
   - icon: images/instagram.png
     sitelink: https://www.instagram.com/hildemorinfiberart/
     sitename: Instagram
