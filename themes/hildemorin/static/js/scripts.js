@@ -1,8 +1,5 @@
 'use strict';
 
-//var STATICMAN_SERVICE_URL = 'https://staticman.morinricardobot.now.sh/v2/entry/jimmyangel/hildemorin/master/comments';
-
-// var MAILGUN_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtomailgunlist';
 var SENDUNE_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtosendunelist';
 var STATICMAN_SERVICE_FUNCTION = '/.netlify/functions/staticman';
 

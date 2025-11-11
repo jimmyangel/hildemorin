@@ -1,7 +1,6 @@
 const { text } = require('node:stream/consumers')
 const { Readable } = require ('node:stream')
 
-// Configuration constants (change names only via Netlify env vars)
 const addContactUrl = 'https://api.sendune.com/add-contact'
 const sendEmailUrl = 'https://api.sendune.com/send-email'
 const senduneKey = process.env.SENDUNEKEY
@@ -20,7 +19,7 @@ exports.handler = async function (event, context) {
                     'Content-Type': 'application/json',
                     'template-key': senduneKey
                 },
-                body: JSON.stringify({email: email})
+                body: JSON.stringify({email: email, status: 'Subscribed'})
             })
             const text = await resp.text()
             const response = JSON.parse(text)
