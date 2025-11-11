@@ -2,7 +2,8 @@
 
 //var STATICMAN_SERVICE_URL = 'https://staticman.morinricardobot.now.sh/v2/entry/jimmyangel/hildemorin/master/comments';
 
-var MAILGUN_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtomailgunlist';
+// var MAILGUN_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtomailgunlist';
+var SENDUNE_LIST_SERVICE_FUNCTION = '/.netlify/functions/addtosendunelist';
 var STATICMAN_SERVICE_FUNCTION = '/.netlify/functions/staticman';
 
 // Get url variables
@@ -227,7 +228,8 @@ jQuery(function($){
 
     // POST to mailing list service
     $('#join-button').click(function () {
-      $.post(MAILGUN_LIST_SERVICE_FUNCTION, $('#join-dialog-form').serialize(), function (data) {
+      console.log(SENDUNE_LIST_SERVICE_FUNCTION)
+      $.post(SENDUNE_LIST_SERVICE_FUNCTION, $('#join-dialog-form').serialize(), function (data) {
         $('#thank-you-msg').fadeIn('slow');
         setTimeout(resetJoinForm, 3000);
       }).fail(function (data) {
