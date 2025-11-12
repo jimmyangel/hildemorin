@@ -5,7 +5,7 @@ const addContactUrl = 'https://api.sendune.com/add-contact'
 const sendEmailUrl = 'https://api.sendune.com/send-email'
 const senduneKey = process.env.SENDUNEKEY
 const senduneTemplateKey = process.env.SENDUNETEMPLATEKEY
-const notificationemail =  process.env.TESTNOTIFICATIONEMAIL 
+const notificationemail =  process.env.NOTIFICATIONEMAIL 
 
 exports.handler = async function (event, context) {
     let bodyString = await text(Readable.from(event.body))
