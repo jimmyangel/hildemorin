@@ -5,7 +5,7 @@ galleryitems:
   - title: VINEYARD VISTA
     dimensions: 58x42
     caption: <b>VINEYARD VISTA</b><br>58 W&quot; x 42&quot; H, pieced curves,
-      machine quilted<br>
+      machine quilted<br><br><i>PRIVATE COLLECTION</i><br>
     imageentry: images/2024-vineyard-vista-web-entry.jpg
     imageicon: images/2024-vineyard-vista-web-icon.jpg
     price: "4000"
