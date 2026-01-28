@@ -43,16 +43,16 @@ galleryitems:
     price: ""
     title: PUEBLO BLANCO
   - caption: >-
-      <b>CARREFOUR (Road Crossing)</b><br>30&quot; W x 47&quot; H<br>Visiting
-      France means aimless strolls through narrow and centuries old streets,
-      viewing the old masters and modern art, savoring French cuisine, and
-      listening to music in the squares.
+      <b>CARREFOUR (Road Crossing)</b><br>30&quot; W x 47&quot;
+      H<br><i>SOLD</i><br>Visiting France means aimless strolls through narrow
+      and centuries old streets, viewing the old masters and modern art,
+      savoring French cuisine, and listening to music in the squares.
 
       Inspired by a street in the city of Lourdes, “Carrefour” could have been any other street in France.
     dimensions: 30x47
     imageentry: images/carrefour-web-entry.jpg
     imageicon: images/carrefour-web-icon.jpg
-    price: 1,200
+    price: ""
     title: CARREFOUR
   - caption: <b>EL VECINDARIO (The Neighborhood)</b><br>56 W&quot; x 40&quot; H<br>A
       charming neighborhood in Venezuela highlighting its old colonial
