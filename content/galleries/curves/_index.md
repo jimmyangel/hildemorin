@@ -8,7 +8,7 @@ galleryitems:
       machine quilted<br><br><i>PRIVATE COLLECTION</i><br>
     imageentry: images/2024-vineyard-vista-web-entry.jpg
     imageicon: images/2024-vineyard-vista-web-icon.jpg
-    price: "4000"
+    price: ""
   - title: FULL SHADE PERENNIALS
     imageentry: images/2023-full-shade-perennials-web-entry.jpg
     imageicon: images/2023-full-shade-perennials-web-icon.jpg
