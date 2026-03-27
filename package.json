@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jimmyangel/hildemorin#readme",
   "devDependencies": {
-    "netlify-cli": "^18.0.2"
+    "netlify-cli": "^23.10.0"
   }
 }
