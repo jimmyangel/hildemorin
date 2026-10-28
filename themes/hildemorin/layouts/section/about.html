@@ -34,8 +34,9 @@
         </p>
       </div>
     </div>
-    <div class="row small-spacer"></div>
+    <!-- <div class="row small-spacer"></div> -->
     <div class="row text-center" style="margin: 5%">
+      <!--
       <h3>
         PUBLICATIONS
       </h3>
@@ -76,12 +77,13 @@
           <br>
         {{end}}
       </p>
-      <h3>
+      -->
+      <p>
         MEMBER OF
-      </h3>
+      </p>
       <p>
         {{range .Params.artistmemberships}}
-        <a href="{{.orglink}}"> {{.org}}</a><br>
+        <a style="font-weight: 500;" href="{{.orglink}}"> {{.org}}</a><br>
         {{end}}
       </p>
     </div>
