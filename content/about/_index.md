@@ -18,13 +18,10 @@ artiststatement: My textile work explores the use of texture, color, and form. I
   Galería Exágono-México, CIART (Centro Integral de Arte Textil) in Argentina,
   Museum of Contemporary Craft in Portland-Oregon, Oregon Historical Society
   Museum in Portland, Oregon and Visions Art Museum in San Diego,
-  California.<br><br>I teach regularly at <a href="/studio/">my studio</a> and
-  at other venues, promoting the use of free form techniques in the construction
-  of art quilts.
+  California.<br><br>I teach regularly at my studio and at other venues,
+  promoting the use of free form techniques in the construction of art quilts.
 artistpublications: []
-artistassignments:
-  - assignment: 'High Fiber Diet "Can You Hear It?" 2021: Juror'
-  - assignment: "Infinity Art Gallery - Fiber Art Exhibit 2011: Juror"
+artistassignments: []
 artistawards: []
 artistexhibits: []
 artistmemberships:
