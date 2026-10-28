@@ -28,14 +28,6 @@ menulabel = "Contact"
 menulink = "#contact"
 
 [[params.menu]]
-menulabel = "Classes"
-menulink = "classes"
-
-[[params.menu]]
-menulabel = "Calendar"
-menulink = "calendar"
-
-[[params.menu]]
 menulabel = "About"
 menulink = "about"
 
