@@ -12,14 +12,14 @@ artiststatement: My textile work explores the use of texture, color, and form. I
   the creation of a first layer of pieced fabric with the addition of a second
   layer of texture through extensive thread work and surface design.  <br><br>
   Born in Caracas-Venezuela, of Belgian descent, I currently reside in Portland,
-  Oregon, USA. My work is in private and public collections and has been
+  Oregon, USA. My work is in private and public collections, and has been
   exhibited at local and international venues including SOFA (Sculptured Objects
   and Functional Art) Chicago and New York, Museum of the Americas-Florida,
   Galería Exágono-México, CIART (Centro Integral de Arte Textil) in Argentina,
   Museum of Contemporary Craft in Portland-Oregon, Oregon Historical Society
   Museum in Portland, Oregon and Visions Art Museum in San Diego,
-  California.<br><br>I teach regularly at my studio and at other venues,
-  promoting the use of free form techniques in the construction of art quilts.
+  California.<br><br>I teach regularly at my studio, promoting the use of free
+  form techniques in the construction of art quilts.
 artistpublications: []
 artistassignments: []
 artistawards: []
