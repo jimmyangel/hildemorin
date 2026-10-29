@@ -29,8 +29,7 @@ galleries:
     imageurl: images/postcards.jpg
     page: postcards
 contact:
-  description: <br>My studio doors are open! Join a class or stop by for a visit
-    to see what I’m working on. Please get in touch to schedule a time.<br><br>
+  description: <br>My studio doors are open! Stop by for a visit to see what I’m working on.
   email: hildemorin@gmail.com
   location: Portland, Oregon
   locationlink: https://www.google.com/maps/place/Portland,+OR/
